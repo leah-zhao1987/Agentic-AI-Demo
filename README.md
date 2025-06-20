@@ -1,14 +1,11 @@
-# React Vite Tailwind App
+# Demo App
 
-This project is a front-end application built using React, Vite, Tailwind CSS, and TypeScript. It features a flexible layout and is designed to fetch data from a backend API, with mock data used for initial rendering.
+This project is a front-end application built using React, Vite, Tailwind CSS, and TypeScript.
 
 ## Features
 
 - **Card Component**: Displays individual card information.
 - **Card List Page**: Fetches and displays a list of cards using the Card component.
-- **Detail Page**: Shows detailed information about a selected card.
-- **Responsive Design**: Utilizes Tailwind CSS for styling and responsive layouts.
-- **Data Fetching**: Implements a custom hook for data fetching with loading and error handling.
 
 ## Getting Started
 
@@ -33,10 +30,6 @@ This project is a front-end application built using React, Vite, Tailwind CSS, a
    ```
    npm install
    ```
-   or
-   ```
-   yarn install
-   ```
 
 ### Running the Application
 
@@ -44,9 +37,14 @@ To start the development server, run:
 ```
 npm run dev
 ```
-or
+preview, run:
 ```
-yarn dev
+npx vite preview
+```
+
+buitd, run:
+```
+npm run build
 ```
 
 Open your browser and navigate to `http://localhost:3000` to view the application.
