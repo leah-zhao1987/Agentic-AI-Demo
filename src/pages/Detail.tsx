@@ -15,7 +15,7 @@ const Detail: React.FC = () => {
     const cacheData = localStorage.getItem('CARD_LIST');
     const allCards = JSON.parse(cacheData || '[]') || [];
     const handleRelatedClick = (relatedId: string) => {
-        navigate(`/detail/${relatedId}`);
+        // navigate(`/detail/${relatedId}`);
         scrollToTop();
     };
     const containerRef = useRef<HTMLDivElement>(null);
@@ -52,7 +52,7 @@ const Detail: React.FC = () => {
                 setRelatedCards(related);
             } else {
                 // return home when card not found
-                setTimeout(() => navigate("/"), 2000);
+                // setTimeout(() => navigate("/"), 2000);
             }
         }
     }, [id, navigate]);

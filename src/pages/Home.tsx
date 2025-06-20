@@ -23,7 +23,7 @@ const NoNMSN = '20250618_NonMsnDataTest';
 const MSN01 ='20250619_msnDataTest'
 
 const path = {
-  dirctoryName: '20250619_msnDataTest',
+  directoryName: '20250620',
   fileName: 'pre_rendering_en-us_metaInfo.json'
 }
 let fileNameList: string[];
@@ -36,8 +36,16 @@ const Home: React.FC = () => {
   const [isRefreshing, setIsRefreshing] = useState(false);
   const [categoryData, setCategoryData] = useState<{ [key: string]: CardType[] }>({});
   const [lastRefreshTime, setLastRefreshTime] = useState<Date>(new Date());
+  const getCurrentDateString = (): string => {
+    const now = new Date();
+    const year = now.getFullYear();
+    const month = String(now.getMonth() + 1).padStart(2, '0');
+    const day = String(now.getDate()).padStart(2, '0');
+    return `${year}${month}${day}`;
+  };
   const getNewsList = () => {
-      const url = `/api/azure/output/${path.dirctoryName}/${fileNameList[currentPage-1]}`;
+      path.directoryName = getCurrentDateString();
+      const url = `/api/azure/output/${path.directoryName}/${fileNameList[currentPage-1]}`;
       setLoading(true);
       axios.get(`${url}`).then(response => {
         const newsData = response?.data?.news || response?.data;
@@ -54,7 +62,7 @@ const Home: React.FC = () => {
       })
   }
   const getFileNameList = () => {
-    url = `/api/azure/output/${path.dirctoryName}/${path.fileName}`;
+    url = `/api/azure/output/${path.directoryName}/${path.fileName}`;
     return axios.get(url).then(response => {
       fileNameList = response.data.split('\n');
       console.log('fileNameList', fileNameList);
@@ -138,7 +146,7 @@ const Home: React.FC = () => {
     const pageNumbers: number[] = [];
 
     const startPage = 1;
-    const totalPages = 10;
+    const totalPages = fileNameList?.length;
     for (let i = startPage; i <= totalPages; i++) {
       pageNumbers.push(i);
     }

@@ -15,7 +15,7 @@ export default defineConfig({
     },
   },
   server: {
-    port: 8080,
+    port: 3000,
     proxy: {
       '/api/azure': {
         target: 'https://jolly-sea-0d3061c1e.6.azurestaticapps.net',

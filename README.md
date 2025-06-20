@@ -55,7 +55,7 @@ Open your browser and navigate to `http://localhost:3000` to view the applicatio
 
 - `src/main.tsx`: Entry point of the application.
 - `src/App.tsx`: Main application component with routing.
-- `src/components/`: Contains reusable components like Card, Layout, and Loading.
+- `src/components/`: Contains reusable components like Card, and Loading.
 - `src/pages/`: Contains page components like CardList and Detail.
 - `src/services/`: API service for fetching card data.
 - `src/hooks/`: Custom hooks for data fetching.

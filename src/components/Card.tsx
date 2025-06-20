@@ -1,5 +1,6 @@
+import React, { useState } from 'react';
+
 import { Card as CardType } from '../types';
-import React from 'react';
 import { useNavigate } from 'react-router-dom';
 
 interface CardProps {
@@ -10,6 +11,22 @@ interface CardProps {
 
 
 const Card: React.FC<CardProps> = ({ card, onReject, onApprove }) => {
+  const [imageError, setImageError] = useState(false);
+  
+  // 处理图片加载错误
+  const handleImageError = () => {
+    setImageError(true);
+  };
+  
+  // 获取要显示的图片URL
+  const getImageUrl = () => {
+    // 如果图片加载失败或没有图片URL，使用默认图片
+    if (imageError || !card.thumbnail) {
+      return card.defaultImag;
+    }
+    return card.thumbnail;
+  };
+
   const handleReject = (e: React.MouseEvent) => {
     e.stopPropagation();
     if (onReject && card.id) {
@@ -25,7 +42,6 @@ const Card: React.FC<CardProps> = ({ card, onReject, onApprove }) => {
       onApprove(card.id);
     }
   }
-  // console.log('card', card);
 
   const navigate = useNavigate();
   const handleCardClick = (e: React.MouseEvent) => {
@@ -40,18 +56,22 @@ const Card: React.FC<CardProps> = ({ card, onReject, onApprove }) => {
   };
 
   const displayCard = (
-    <div className="card h-[400px] w-[300px] p-20 shadow-md rounded-lg overflow-hidden flex flex-col transition-transform duration-300 hover:translate-y-[-2px]">
+    <div className="card h-[400px] w-[280px] p-20 shadow-md rounded-lg overflow-hidden flex flex-col transition-transform duration-300 hover:translate-y-[-2px]">
       <div className="bg-white h-full w-[260px] flex justify-between flex-col">
         <div className='body' onClick={handleCardClick}>
-          <div className='w-[260px] h-[180px]'>
-            {/* <img src={card?.images[0]?.url} className="w-full h-full rounded-t-lg" /> */}
-            <img src={card?.thumbnail || card?.image || card.defaultImag} className="w-full h-full rounded-t-lg" />
+          <div className='w-[250px] h-[180px]'>
+            <img
+              src={getImageUrl()}
+              alt={card.title || 'Card image'}
+              onError={handleImageError}
+              className="w-full h-full object-cover rounded-lg"
+            />
           </div>
           <div className="flex items-center justify-start text-gray-500 text-sm mt-2">
-            <img src={card.provider?.logoUrl} className="w-[16px] object-cover" />
-            <span className='pl-2'>{card.provider}</span>
-            <span className='mr-1 ml-1'>·</span>
-            <span>2h</span>
+            {/* <img src={card.provider?.logoUrl} className="w-[16px] object-cover" /> */}
+            <span>{card.provider}</span>
+            {/* <span className='mr-1 ml-1'>·</span> */}
+            {/* <span>2h</span> */}
           </div>
           <h5 className="text-xl font-bold line-clamp-3 mt-2 hover:text-blue-600" title={card.title}>{card.title}</h5>
         </div>
