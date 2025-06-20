@@ -1,0 +1,7023 @@
+export const mockCardList = [
+    {
+        "id": "AA1zYG6p",
+        "type": "video",
+        "title": "We Found 2,000-Year-Old Relics Buried Just Beneath the Surface",
+        "abstract": "Join the History Seekers team as we uncover an extraordinary field filled with Native American artifacts dating back over 2,000 years. From delicate arrowheads to pottery fragments, these ancient relics shed light on the lives of people who once walked this land. With help from Steve Phillips and the team at Southern Skin Divers Supply, we explore a hidden chapter of America’s past.",
+        "readTimeMin": 0,
+        "url": "https://www.msn.com/en-us/travel/article/we-found-2-000-year-old-relics-buried-just-beneath-the-surface/vi-AA1zYG6p",
+        "locale": "en-us",
+        "isLocalContent": false,
+        "financeMetadata": {
+            "sentimentRatings": [
+                {
+                    "topic": "wf_sentiment_positive",
+                    "score": 9244
+                },
+                {
+                    "topic": "wf_sentiment_negative",
+                    "score": 147
+                },
+                {
+                    "topic": "wf_sentiment_neutral",
+                    "score": 608
+                }
+            ]
+        },
+        "publishedDateTime": "2025-06-05T11:02:33Z",
+        "height": 304,
+        "wpoId": 1,
+        "isFeatured": false,
+        "images": [
+            {
+                "width": 1280,
+                "height": 720,
+                "quality": 100,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1G8Pqf.img",
+                "attribution": "",
+                "title": "We Found 2,000-Year-Old Relics Buried Just Beneath the Surface",
+                "caption": "Join the History Seekers team as we uncover an extraordinary field filled with Native American artifacts dating back over 2,000 years. From delicate arrowheads to pottery fragments, these ancient relics shed light on the lives of people who once walked this land. With help from Steve Phillips and the team at Southern Skin Divers Supply, we explore a hidden chapter of America’s past.",
+                "source": "msn"
+            }
+        ],
+        "provider": {
+            "id": "AA1uyAFO",
+            "name": "History Seekers",
+            "logoUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1uNR6r.img",
+            "profileId": "vid-ckxguv2mcgqsgx5k4422a87g40q9nhn07tcqg2emmydd9bsatcss",
+            "feedAllowedFreeItem": 0
+        },
+        "category": "travel",
+        "reactionSummary": {
+            "totalCount": 587,
+            "subReactionSummaries": [
+                {
+                    "totalCount": 505,
+                    "type": "upvote"
+                },
+                {
+                    "totalCount": 82,
+                    "type": "downvote"
+                }
+            ]
+        },
+        "reactionStatus": "on",
+        "commentSummary": {
+            "totalCount": 23,
+            "subCommentSummaries": [
+                {
+                    "totalCount": 15,
+                    "type": "comment"
+                },
+                {
+                    "totalCount": 8,
+                    "type": "reply"
+                }
+            ]
+        },
+        "commentStatus": "on",
+        "relevanceScore": 114.001045,
+        "subscriptionProductType": "undefined",
+        "notificationMetadata": {
+            "isBadgeEnabledPreviewCandidate": false,
+            "lastStateChangeFileTimeUtc": 0
+        },
+        "recoDocMetadata": {
+            "ModelScore": "0.0008860048837959766",
+            "IsAtfHighQualityContent": "1"
+        },
+        "cardRankingMetadata": {
+            "pClick": 0,
+            "pRelevance": 0
+        },
+        "feed": {
+            "lastFreActionTimestamp": 0,
+            "feedCompositionCategory": "1|13"
+        },
+        "topics": [
+            {
+                "label": "Travel news",
+                "weight": 0.17501358687877655,
+                "feedId": "Y_d659302d-5ac4-460a-9baa-8c8684761110",
+                "locale": "en-us"
+            }
+        ],
+        "cardId": 0,
+        "isWorkNewsContent": false,
+        "workNewsRankingScore": 0.5868518352508545,
+        "reasons": [
+            {
+                "type": "u2U",
+                "rank": 0
+            }
+        ],
+        "ri": "332",
+        "recoId": "nnRi-T3wsb6_EezrhZ9h8AhGQu",
+        "newsClusterIdV5": "2326557332",
+        "newsClusterIdV6": "813655688",
+        "source": "msn",
+        "videoMetadata": {
+            "playTime": 914,
+            "closedCaptions": [
+                {
+                    "locale": "en-us",
+                    "href": "https://prod-video-cms-amp-microsoft-com.akamaized.net/tenant/amp/entityid/AA1zYG6p?blobrefkey=closedcaptionen-us&$blob=1"
+                }
+            ]
+        },
+        "externalVideoFiles": [
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/c886aceb-6def-4b34-8f2f-ec01339a8893/80a9e2e4-771d-4553-8478-a373f17e26a9.mp4",
+                "width": 1920,
+                "height": 1080,
+                "contentType": "video/mp4",
+                "fileSize": 508784417
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/6afc55a9-9525-4f7c-89a9-ad892f8b6954/f84fba81-49d4-4b05-84f0-9a181c30b397.m3u8",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/6afc55a9-9525-4f7c-89a9-ad892f8b6954/f84fba81-49d4-4b05-84f0-9a181c30b397.m3u8",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/6afc55a9-9525-4f7c-89a9-ad892f8b6954/f84fba81-49d4-4b05-84f0-9a181c30b397.mpd",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/6afc55a9-9525-4f7c-89a9-ad892f8b6954/f84fba81-49d4-4b05-84f0-9a181c30b397_6750.mp4",
+                "width": 1920,
+                "height": 1080,
+                "contentType": "video/mp4",
+                "fileSize": 774704119
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/6afc55a9-9525-4f7c-89a9-ad892f8b6954/f84fba81-49d4-4b05-84f0-9a181c30b397_3400.mp4",
+                "width": 1280,
+                "height": 720,
+                "contentType": "video/mp4",
+                "fileSize": 396418894
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/6afc55a9-9525-4f7c-89a9-ad892f8b6954/f84fba81-49d4-4b05-84f0-9a181c30b397_2250.mp4",
+                "width": 960,
+                "height": 540,
+                "contentType": "video/mp4",
+                "fileSize": 269190928
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/6afc55a9-9525-4f7c-89a9-ad892f8b6954/f84fba81-49d4-4b05-84f0-9a181c30b397_1500.mp4",
+                "width": 960,
+                "height": 540,
+                "contentType": "video/mp4",
+                "fileSize": 183311506
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/6afc55a9-9525-4f7c-89a9-ad892f8b6954/f84fba81-49d4-4b05-84f0-9a181c30b397_650.mp4",
+                "width": 640,
+                "height": 360,
+                "contentType": "video/mp4",
+                "fileSize": 86538494
+            }
+        ],
+        "dedupeIds": {
+            "newsClusterV5HPHash": [
+                "-1968409964"
+            ],
+            "newsClusterV6Hash": [
+                "813655688"
+            ],
+            "newsClusterV7Hash": [
+                "-385646132"
+            ],
+            "contentId": [
+                "AA1zYG6p"
+            ]
+        }
+    },
+    {
+        "id": "AA1GsJxX",
+        "type": "article",
+        "title": "Donald Trump makes huge World War I blunder in fiery speech as LA riots rage",
+        "abstract": "Donald Trump made a huge blunder about World War I in a fiery speech at Fort Bragg, as the U.S. continues to be rocked by riots over the President's mass deportation order",
+        "readTimeMin": 3,
+        "url": "https://www.msn.com/en-us/news/us/donald-trump-makes-huge-world-war-i-blunder-in-fiery-speech-as-la-riots-rage/ar-AA1GsJxX",
+        "locale": "en-us",
+        "isLocalContent": false,
+        "financeMetadata": {
+            "sentimentRatings": [
+                {
+                    "topic": "wf_sentiment_positive",
+                    "score": 297
+                },
+                {
+                    "topic": "wf_sentiment_negative",
+                    "score": 9605
+                },
+                {
+                    "topic": "wf_sentiment_neutral",
+                    "score": 96
+                }
+            ]
+        },
+        "publishedDateTime": "2025-06-10T21:43:20Z",
+        "height": 304,
+        "wpoId": 2,
+        "isFeatured": false,
+        "images": [
+            {
+                "width": 810,
+                "height": 539,
+                "quality": 79,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1GsJxC.img",
+                "attribution": "AP",
+                "title": "President Donald Trump arrives to speak at Fort Bragg, Tuesday, June 10, 2025, in Fort Bragg, N.C. (AP Photo/Alex Brandon)",
+                "caption": "President Donald Trump arrives to speak at Fort Bragg, Tuesday, June 10, 2025, in Fort Bragg, N.C. (AP Photo/Alex Brandon)",
+                "source": "msn"
+            }
+        ],
+        "provider": {
+            "id": "AAakMrc",
+            "name": "Mirror",
+            "logoUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAMVTYz.img",
+            "profileId": "vid-a2nmje94kgjdreprcwvbug3bsxetrapvd3ru5xjeqtuedkq3g3vs",
+            "lightThemeSVGLogo": {
+                "width": 33,
+                "height": 12,
+                "url": "https://cdn.query.prod.cms.msn.com/cms/api/amp/binary/AA13gF8F"
+            },
+            "darkThemeSVGLogo": {
+                "width": 33,
+                "height": 12,
+                "url": "https://cdn.query.prod.cms.msn.com/cms/api/amp/binary/AA13gF8F-dark"
+            },
+            "feedAllowedFreeItem": 0
+        },
+        "category": "news",
+        "reactionSummary": {
+            "totalCount": 758,
+            "subReactionSummaries": [
+                {
+                    "totalCount": 564,
+                    "type": "upvote"
+                },
+                {
+                    "totalCount": 194,
+                    "type": "downvote"
+                }
+            ]
+        },
+        "reactionStatus": "on",
+        "commentSummary": {
+            "totalCount": 884,
+            "subCommentSummaries": [
+                {
+                    "totalCount": 413,
+                    "type": "comment"
+                },
+                {
+                    "totalCount": 471,
+                    "type": "reply"
+                }
+            ]
+        },
+        "commentStatus": "on",
+        "relevanceScore": 113.001045,
+        "subscriptionProductType": "undefined",
+        "notificationMetadata": {
+            "isBadgeEnabledPreviewCandidate": false,
+            "lastStateChangeFileTimeUtc": 0
+        },
+        "recoDocMetadata": {
+            "ModelScore": "0.0004896828904747963",
+            "IsAtfHighQualityContent": "1"
+        },
+        "cardRankingMetadata": {
+            "pClick": 0,
+            "pRelevance": 0
+        },
+        "feed": {
+            "lastFreActionTimestamp": 0,
+            "feedCompositionCategory": "1"
+        },
+        "topics": [
+            {
+                "label": "News",
+                "weight": 0.6070027947425842,
+                "feedId": "Y_9eb0ac10-32bc-43cf-816e-5beaaf524f7a",
+                "locale": "en-us"
+            },
+            {
+                "label": "US",
+                "weight": 0.6070027947425842,
+                "feedId": "Y_a3b33cc2-2c47-48ba-a975-4b87b597644b",
+                "locale": "en-us"
+            },
+            {
+                "label": "Travel news",
+                "weight": 0.23750926554203033,
+                "feedId": "Y_d659302d-5ac4-460a-9baa-8c8684761110",
+                "locale": "en-us"
+            }
+        ],
+        "cardId": 1,
+        "isWorkNewsContent": false,
+        "workNewsRankingScore": 0.6070027947425842,
+        "reasons": [
+            {
+                "type": "u2U",
+                "rank": 0
+            }
+        ],
+        "ri": "332",
+        "recoId": "nnRi-T3wsb6_EezrhZ9h8AhGQu",
+        "newsClusterIdV5": "364162344",
+        "source": "msn",
+        "dedupeIds": {
+            "newsClusterV5HPHash": [
+                "364162344"
+            ],
+            "newsClusterV6Hash": [
+                "1174949176"
+            ],
+            "newsClusterV7Hash": [
+                "1884943776"
+            ],
+            "contentId": [
+                "AA1GsJxX"
+            ]
+        }
+    },
+    {
+        "id": "AA1G9WMl",
+        "type": "slideshow",
+        "title": "Actors Who Were Actually Happy To Be Killed Off",
+        "abstract": "These actors eagerly embraced the opportunity to bid a final farewell to some of their most well-known roles, be they in long-running slasher series or on TV.",
+        "readTimeMin": 0,
+        "url": "https://www.msn.com/en-us/tv/news/actors-who-were-actually-happy-to-be-killed-off/ss-AA1G9WMl",
+        "locale": "en-us",
+        "isLocalContent": false,
+        "galleryItemCount": 31,
+        "financeMetadata": {
+            "sentimentRatings": [
+                {
+                    "topic": "wf_sentiment_positive",
+                    "score": 3025
+                },
+                {
+                    "topic": "wf_sentiment_negative",
+                    "score": 4035
+                },
+                {
+                    "topic": "wf_sentiment_neutral",
+                    "score": 2939
+                }
+            ]
+        },
+        "slides": [
+            {
+                "title": "Intro",
+                "body": "<p>Most actors toil away in bit roles, commercials, and coffee shops steaming lattes, waiting for a chance to prove their mettle and chip their way into the limelight. Not every big break, though, is as satisfying or as varied a role as it seems. Sometimes, a star wearies of their role, gets fed up with being typecast, or simply sees an upward arrow pointing them to (hopefully) bigger and better things. Still, that doesn't mean they have to murder down their own character, does it? For these actors, it did.</p> <p>These actors were, for one reason or another, happy to be offed from projects, whether it's mega-budget film series or long-running TV series. Some of these decisions are responsible for some of the most iconic moments in their respective shows, while others were harshly criticized by fans and critics alike. Here are some of the most notable examples of actors wanting to get written out of shows or films.</p>",
+                "image": {
+                    "width": 780,
+                    "height": 438,
+                    "quality": 91,
+                    "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1Ga5ss.img",
+                    "attribution": "New Line Cinema",
+                    "title": "Intro",
+                    "caption": "<p>Most actors toil away in bit roles, commercials, and coffee shops steaming lattes, waiting for a chance to prove their mettle and chip their way into the limelight. Not every big break, though, is as satisfying or as varied a role as it seems. Sometimes, a star wearies of their role, gets fed up with being typecast, or simply sees an upward arrow pointing them to (hopefully) bigger and better things. Still, that doesn't mean they have to murder down their own character, does it? For these actors, it did.</p> <p>These actors were, for one reason or another, happy to be offed from projects, whether it's mega-budget film series or long-running TV series. Some of these decisions are responsible for some of the most iconic moments in their respective shows, while others were harshly criticized by fans and critics alike. Here are some of the most notable examples of actors wanting to get written out of shows or films.</p>",
+                    "focalRegion": {
+                        "x1": 242,
+                        "x2": 465,
+                        "y1": 132,
+                        "y2": 355
+                    },
+                    "source": "msn"
+                }
+            },
+            {
+                "title": "Sophie Turner (Sansa Stark) On Game Of Thrones",
+                "body": "<p>As a member of the powerful Stark clan, Sansa grew from a misty-eyed tween into a resilient young heiress right before our eyes as the costs of war and power ravaged her family and (controversially) her character as well. Much like Sansa, Sophie Turner's career continues to grow and evolve.</p> <p>With two seasons remaining in \"Game of Thrones,\" Turner broke into film as Jean Grey in \"X-Men: Apocalypse\" and later the ill-fated \"Dark Phoenix,\" and the actress expressed her desire for the eldest Stark daughter to receive a fitting final bow. Fans of HBO's wintry fantasy series know Sansa lives to see her brother, Bran (Isaac Hempstead Wright), ascend to the Iron Throne, but in 2016, when the saga was still ongoing, anything could happen. Speaking with the <a href=\"http://blogs.wsj.com/speakeasy/2016/03/24/sophie-turner-wants-game-of-thrones-to-kill-sansa-stark/\">Wall Street Journal</a>, she quipped at the time, \"If you're on 'Game of Thrones' and you don't have a cool death scene, then what's the point?\" Fortunately for her, the minds behind the HBO juggernaut chose <em>not</em> to kill her off. After everything Sansa faced, she gets to see her abusers die one by one — first Ramsay Bolton (Iwan Rheon), then Littlefinger (Aidan Gillen) — and then becomes Queen in the North. Not a bad ending for Sansa — even if the actress might have preferred a memorable death for the character.</p>",
+                "image": {
+                    "width": 780,
+                    "height": 438,
+                    "quality": 91,
+                    "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1Ga5su.img",
+                    "attribution": "HBO",
+                    "title": "Sophie Turner (Sansa Stark) On Game Of Thrones",
+                    "caption": "<p>As a member of the powerful Stark clan, Sansa grew from a misty-eyed tween into a resilient young heiress right before our eyes as the costs of war and power ravaged her family and (controversially) her character as well. Much like Sansa, Sophie Turner's career continues to grow and evolve.</p> <p>With two seasons remaining in \"Game of Thrones,\" Turner broke into film as Jean Grey in \"X-Men: Apocalypse\" and later the ill-fated \"Dark Phoenix,\" and the actress expressed her desire for the eldest Stark daughter to receive a fitting final bow. Fans of HBO's wintry fantasy series know Sansa lives to see her brother, Bran (Isaac Hempstead Wright), ascend to the Iron Throne, but in 2016, when the saga was still ongoing, anything could happen. Speaking with the <a href=\"http://blogs.wsj.com/speakeasy/2016/03/24/sophie-turner-wants-game-of-thrones-to-kill-sansa-stark/\">Wall Street Journal</a>, she quipped at the time, \"If you're on 'Game of Thrones' and you don't have a cool death scene, then what's the point?\" Fortunately for her, the minds behind the HBO juggernaut chose <em>not</em> to kill her off. After everything Sansa faced, she gets to see her abusers die one by one — first Ramsay Bolton (Iwan Rheon), then Littlefinger (Aidan Gillen) — and then becomes Queen in the North. Not a bad ending for Sansa — even if the actress might have preferred a memorable death for the character.</p>",
+                    "focalRegion": {
+                        "x1": 284,
+                        "x2": 432,
+                        "y1": 142,
+                        "y2": 290
+                    },
+                    "source": "msn"
+                }
+            },
+            {
+                "title": "Harrison Ford (Han Solo) In Star Wars",
+                "body": "<p>Throughout his storied career, Harrison Ford has played a lot of characters, but few roles are more synonymous with the rugged actor than his turn as Han Solo in \"Star Wars.\" At the same time, the scruffy-looking nerf herder's iconic black vest apparently lingered as constant drag coefficient on Ford's budding thespian dreams (despite launching his career). Due to his distaste for the role, Solo fans almost lost their chance to see him in \"Star Wars: Episode VII — The Force Awakens.\"</p> <p>As the story goes, Ford initially wanted George Lucas to kill the smuggler-turned-general off during \"Return of the Jedi.\" According to Ford, Lucas was reluctant to put a dent in Han Solo action figure sales, so he kept Solo alive, giving the rogue a chance to build a family and essentially set up the next trilogy. \"The Force Awakens\" finally relieved Ford of his swashbuckling burden, though, and he told <a href=\"http://entertainmentweekly.tumblr.com/tagged/harrisonfordanswertime\">Entertainment Weekly</a> that the character's sacrifice lent \"gravitas and emotional weight\" to the story. (While milking gallons of tears from audiences everywhere.)</p>",
+                "image": {
+                    "width": 780,
+                    "height": 438,
+                    "quality": 91,
+                    "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1Ga2Tx.img",
+                    "attribution": "20th Century Fox",
+                    "title": "Harrison Ford (Han Solo) In Star Wars",
+                    "caption": "<p>Throughout his storied career, Harrison Ford has played a lot of characters, but few roles are more synonymous with the rugged actor than his turn as Han Solo in \"Star Wars.\" At the same time, the scruffy-looking nerf herder's iconic black vest apparently lingered as constant drag coefficient on Ford's budding thespian dreams (despite launching his career). Due to his distaste for the role, Solo fans almost lost their chance to see him in \"Star Wars: Episode VII — The Force Awakens.\"</p> <p>As the story goes, Ford initially wanted George Lucas to kill the smuggler-turned-general off during \"Return of the Jedi.\" According to Ford, Lucas was reluctant to put a dent in Han Solo action figure sales, so he kept Solo alive, giving the rogue a chance to build a family and essentially set up the next trilogy. \"The Force Awakens\" finally relieved Ford of his swashbuckling burden, though, and he told <a href=\"http://entertainmentweekly.tumblr.com/tagged/harrisonfordanswertime\">Entertainment Weekly</a> that the character's sacrifice lent \"gravitas and emotional weight\" to the story. (While milking gallons of tears from audiences everywhere.)</p>",
+                    "focalRegion": {
+                        "x1": 382,
+                        "x2": 464,
+                        "y1": 75,
+                        "y2": 157
+                    },
+                    "source": "msn"
+                }
+            }
+        ],
+        "publishedDateTime": "2025-06-05T16:35:00Z",
+        "height": 304,
+        "wpoId": 3,
+        "isFeatured": false,
+        "images": [
+            {
+                "width": 780,
+                "height": 438,
+                "quality": 91,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1Ga5ss.img",
+                "attribution": "New Line Cinema",
+                "title": "Intro",
+                "caption": "<p>Most actors toil away in bit roles, commercials, and coffee shops steaming lattes, waiting for a chance to prove their mettle and chip their way into the limelight. Not every big break, though, is as satisfying or as varied a role as it seems. Sometimes, a star wearies of their role, gets fed up with being typecast, or simply sees an upward arrow pointing them to (hopefully) bigger and better things. Still, that doesn't mean they have to murder down their own character, does it? For these actors, it did.</p> <p>These actors were, for one reason or another, happy to be offed from projects, whether it's mega-budget film series or long-running TV series. Some of these decisions are responsible for some of the most iconic moments in their respective shows, while others were harshly criticized by fans and critics alike. Here are some of the most notable examples of actors wanting to get written out of shows or films.</p>",
+                "focalRegion": {
+                    "x1": 242,
+                    "x2": 465,
+                    "y1": 132,
+                    "y2": 355
+                },
+                "source": "msn"
+            },
+            {
+                "width": 780,
+                "height": 438,
+                "quality": 91,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1Ga5su.img",
+                "attribution": "HBO",
+                "title": "Sophie Turner (Sansa Stark) On Game Of Thrones",
+                "caption": "<p>As a member of the powerful Stark clan, Sansa grew from a misty-eyed tween into a resilient young heiress right before our eyes as the costs of war and power ravaged her family and (controversially) her character as well. Much like Sansa, Sophie Turner's career continues to grow and evolve.</p> <p>With two seasons remaining in \"Game of Thrones,\" Turner broke into film as Jean Grey in \"X-Men: Apocalypse\" and later the ill-fated \"Dark Phoenix,\" and the actress expressed her desire for the eldest Stark daughter to receive a fitting final bow. Fans of HBO's wintry fantasy series know Sansa lives to see her brother, Bran (Isaac Hempstead Wright), ascend to the Iron Throne, but in 2016, when the saga was still ongoing, anything could happen. Speaking with the <a href=\"http://blogs.wsj.com/speakeasy/2016/03/24/sophie-turner-wants-game-of-thrones-to-kill-sansa-stark/\">Wall Street Journal</a>, she quipped at the time, \"If you're on 'Game of Thrones' and you don't have a cool death scene, then what's the point?\" Fortunately for her, the minds behind the HBO juggernaut chose <em>not</em> to kill her off. After everything Sansa faced, she gets to see her abusers die one by one — first Ramsay Bolton (Iwan Rheon), then Littlefinger (Aidan Gillen) — and then becomes Queen in the North. Not a bad ending for Sansa — even if the actress might have preferred a memorable death for the character.</p>",
+                "focalRegion": {
+                    "x1": 284,
+                    "x2": 432,
+                    "y1": 142,
+                    "y2": 290
+                },
+                "source": "msn"
+            },
+            {
+                "width": 780,
+                "height": 438,
+                "quality": 91,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1Ga2Tx.img",
+                "attribution": "20th Century Fox",
+                "title": "Harrison Ford (Han Solo) In Star Wars",
+                "caption": "<p>Throughout his storied career, Harrison Ford has played a lot of characters, but few roles are more synonymous with the rugged actor than his turn as Han Solo in \"Star Wars.\" At the same time, the scruffy-looking nerf herder's iconic black vest apparently lingered as constant drag coefficient on Ford's budding thespian dreams (despite launching his career). Due to his distaste for the role, Solo fans almost lost their chance to see him in \"Star Wars: Episode VII — The Force Awakens.\"</p> <p>As the story goes, Ford initially wanted George Lucas to kill the smuggler-turned-general off during \"Return of the Jedi.\" According to Ford, Lucas was reluctant to put a dent in Han Solo action figure sales, so he kept Solo alive, giving the rogue a chance to build a family and essentially set up the next trilogy. \"The Force Awakens\" finally relieved Ford of his swashbuckling burden, though, and he told <a href=\"http://entertainmentweekly.tumblr.com/tagged/harrisonfordanswertime\">Entertainment Weekly</a> that the character's sacrifice lent \"gravitas and emotional weight\" to the story. (While milking gallons of tears from audiences everywhere.)</p>",
+                "focalRegion": {
+                    "x1": 382,
+                    "x2": 464,
+                    "y1": 75,
+                    "y2": 157
+                },
+                "source": "msn"
+            },
+            {
+                "width": 780,
+                "height": 438,
+                "quality": 91,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1GaalR.img",
+                "attribution": "20th Century Fox",
+                "title": "Sigourney Weaver (Ellen Ripley) In Alien 3",
+                "caption": "<p>Ellen Ripley is, without a doubt, the galaxy's premiere xenomorph butt-kicker. Long before Rey ignited a lightsaber or Katniss Everdeen competed in those nasty little post-apocalyptic Hunger Games, Ripley was slingin' salvage across then known galaxy aboard the Nostromo. Of course, as \"Alien\" and its aptly titled sequel \"Aliens\" grew into something much bigger, the career-minded actress started to get cold feet. Wary of portraying Ripley ad infinutum, and fearing the franchise would circle the drain, Weaver decided to end her attachment to the role after David Fincher's troublesome trilogy-wrapper \"Alien 3.\"</p> <p>Speaking to throngs of xeno-heads at the London Film and Comic Con in 2015, she explained to <a href=\"http://www.hollywoodreporter.com/news/sigourney-weaver-alien-predator-depressed-809786\">The Hollywood Reporter</a> her desire to disassociate with the character: with rumors of a forthcoming \"Alien vs. Predator\" movie, she decided Fox's cash-grab could cheapen the impact of the series, which she said \"depressed me because I was very proud of the movies.\" The crossover may not have set the world ablaze, but it could have been much, much worse. As it happened, she didn't stay away from her legendary role for long, returning for the so-so 1998 sequel \"Alien: Resurrection.\"</p>",
+                "source": "msn"
+            }
+        ],
+        "provider": {
+            "id": "AAV5YpD",
+            "name": "Looper",
+            "logoUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAV62Lf.img",
+            "profileId": "cid-d39d8eb368f23c3d",
+            "lightThemeSVGLogo": {
+                "width": 37,
+                "height": 12,
+                "url": "https://cdn.query.prod.cms.msn.com/cms/api/amp/binary/AA13gMg3"
+            },
+            "darkThemeSVGLogo": {
+                "width": 37,
+                "height": 12,
+                "url": "https://cdn.query.prod.cms.msn.com/cms/api/amp/binary/AA13gMg3-dark"
+            },
+            "feedAllowedFreeItem": 0
+        },
+        "category": "tv",
+        "reactionSummary": {
+            "totalCount": 90,
+            "subReactionSummaries": [
+                {
+                    "totalCount": 69,
+                    "type": "upvote"
+                },
+                {
+                    "totalCount": 21,
+                    "type": "downvote"
+                }
+            ]
+        },
+        "reactionStatus": "on",
+        "commentSummary": {
+            "totalCount": 21,
+            "subCommentSummaries": [
+                {
+                    "totalCount": 13,
+                    "type": "comment"
+                },
+                {
+                    "totalCount": 8,
+                    "type": "reply"
+                }
+            ]
+        },
+        "commentStatus": "on",
+        "relevanceScore": 112.001045,
+        "subscriptionProductType": "undefined",
+        "notificationMetadata": {
+            "isBadgeEnabledPreviewCandidate": false,
+            "lastStateChangeFileTimeUtc": 0
+        },
+        "recoDocMetadata": {
+            "ModelScore": "0.0006194791640155017",
+            "IsAtfHighQualityContent": "1"
+        },
+        "cardRankingMetadata": {
+            "pClick": 0,
+            "pRelevance": 0
+        },
+        "feed": {
+            "lastFreActionTimestamp": 0,
+            "feedCompositionCategory": "1"
+        },
+        "topics": [
+            {
+                "label": "TV",
+                "weight": 0.8648388385772705,
+                "feedId": "Y_ecf14ace-5910-4da7-a26f-3919270f1200",
+                "locale": "en-us"
+            }
+        ],
+        "cardId": 2,
+        "isWorkNewsContent": false,
+        "workNewsRankingScore": 0.8648388385772705,
+        "reasons": [
+            {
+                "type": "fallback",
+                "rank": 0
+            }
+        ],
+        "ri": "283",
+        "recoId": "nnRi-T3wsb6_EezrhZ9h8AhGQu",
+        "newsClusterIdV5": "4258111695",
+        "newsClusterIdV6": "-1315702923",
+        "source": "msn",
+        "dedupeIds": {
+            "newsClusterV5HPHash": [
+                "-36855601"
+            ],
+            "newsClusterV6Hash": [
+                "-1315702923"
+            ],
+            "newsClusterV7Hash": [
+                "1678180596"
+            ],
+            "contentId": [
+                "AA1G9WMl"
+            ]
+        }
+    },
+    {
+        "id": "AA1GsEvN",
+        "type": "article",
+        "title": "Spanish Galleon Sank With $17-Billion Worth of Treasure In Today’s Money. Now Confirmed As the World’s Richest Shipwreck",
+        "abstract": "These gold coins haven’t glittered in more than 300 years. At 600 meters down, sunlight never reaches the seabed. Here, in the cold black stillness off Colombia’s coast, history lingers in silence. But a robotic vehicle, guided by human eyes from the surface, drifts over the wreckage. After so much time away from humans’ greedy sight, this forgotte...",
+        "readTimeMin": 4,
+        "url": "https://www.msn.com/en-us/news/world/spanish-galleon-sank-with-17-billion-worth-of-treasure-in-today-s-money-now-confirmed-as-the-world-s-richest-shipwreck/ar-AA1GsEvN",
+        "locale": "en-us",
+        "isLocalContent": false,
+        "financeMetadata": {
+            "sentimentRatings": [
+                {
+                    "topic": "wf_sentiment_positive",
+                    "score": 9877
+                },
+                {
+                    "topic": "wf_sentiment_negative",
+                    "score": 69
+                },
+                {
+                    "topic": "wf_sentiment_neutral",
+                    "score": 52
+                }
+            ]
+        },
+        "publishedDateTime": "2025-06-10T21:05:47Z",
+        "height": 304,
+        "wpoId": 4,
+        "isFeatured": false,
+        "images": [
+            {
+                "width": 750,
+                "height": 500,
+                "quality": 100,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1GsEv5.img",
+                "attribution": "ZME Science",
+                "title": "Spanish Galleon Sank With $17-Billion Worth of Treasure In Today’s Money. Now Confirmed As the World’s Richest Shipwreck",
+                "caption": "",
+                "source": "msn"
+            }
+        ],
+        "provider": {
+            "id": "BB1gVNjZ",
+            "name": "ZME Science",
+            "logoUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1gVSRH.img",
+            "profileId": "vid-7rimaeks4frn00ga0kbc97jkt45xp83rpuj0tp3gcj6xm4bgv8ka",
+            "feedAllowedFreeItem": 0
+        },
+        "category": "news",
+        "reactionSummary": {
+            "totalCount": 16,
+            "subReactionSummaries": [
+                {
+                    "totalCount": 16,
+                    "type": "upvote"
+                }
+            ]
+        },
+        "reactionStatus": "on",
+        "commentSummary": {
+            "totalCount": 0
+        },
+        "commentStatus": "on",
+        "relevanceScore": 111.001045,
+        "subscriptionProductType": "undefined",
+        "notificationMetadata": {
+            "isBadgeEnabledPreviewCandidate": false,
+            "lastStateChangeFileTimeUtc": 0
+        },
+        "recoDocMetadata": {
+            "ModelScore": "0.0002741507487371564",
+            "IsAtfHighQualityContent": "1"
+        },
+        "cardRankingMetadata": {
+            "pClick": 0,
+            "pRelevance": 0
+        },
+        "feed": {
+            "lastFreActionTimestamp": 0,
+            "feedCompositionCategory": "1"
+        },
+        "topics": [
+            {
+                "label": "News",
+                "weight": 0.9632817506790161,
+                "feedId": "Y_9eb0ac10-32bc-43cf-816e-5beaaf524f7a",
+                "locale": "en-us"
+            },
+            {
+                "label": "Travel news",
+                "weight": 0.41989025473594666,
+                "feedId": "Y_d659302d-5ac4-460a-9baa-8c8684761110",
+                "locale": "en-us"
+            }
+        ],
+        "cardId": 3,
+        "isWorkNewsContent": false,
+        "workNewsRankingScore": 0.966820240020752,
+        "reasons": [
+            {
+                "type": "u2U",
+                "rank": 0
+            }
+        ],
+        "ri": "332",
+        "recoId": "nnRi-T3wsb6_EezrhZ9h8AhGQu",
+        "newsClusterIdV5": "1098681745",
+        "source": "msn",
+        "dedupeIds": {
+            "newsClusterV5HPHash": [
+                "1098681745"
+            ],
+            "newsClusterV6Hash": [
+                "1758155911"
+            ],
+            "newsClusterV7Hash": [
+                "1910055601"
+            ],
+            "contentId": [
+                "AA1GsEvN"
+            ]
+        }
+    },
+    {
+        "id": "AA1FDV3o",
+        "type": "video",
+        "title": "Huge Wave Out Back! (Opening Scene) – Uluwatu",
+        "abstract": "There was still plenty of swell in the water for this session at Uluwatu and as with any solid day there were some sneaker bigger sets that just mowed through the lineup. A nice offshore wind kept everything groomed and in shape with great waves up and down the reef, giving surfers a few choice of what type of wave they prefer. 0:00 Intro 0:30 Juliartha:https://www.instagram.com/arthajuly__/?__pwa=1 1:14 000 2:49 Hikari: <a href=\"https://www.instagram.com/hikari_yoshidaa/?__pwa=1\">https://www.instagram.com/hikari_yoshidaa/?__pwa=1</a> 3:08 000 Get a free digital Bali Surf Guide here: <a href=\"https://surfersofbali.com/pages/bali-surf-guide\">https://surfersofbali.com/pages/bali-surf-guide</a> SUBSCRIBE for daily surf videos: <a href=\"https://bit.ly/2Tu1Poz\">https://bit.ly/2Tu1Poz</a> FIND US HERE Website: <a href=\"https://surfersofbali.com/\">https://surfersofbali.com/</a> Facebook: <a href=\"https://www.facebook.com/surfersof\">https://www.facebook.com/surfersof</a> Instagram: <a href=\"https://www.instagram.com/surfersofbali\">https://www.instagram.com/surfersofbali</a> #SurfingBali #Uluwatu #SurfingIndonesia",
+        "readTimeMin": 0,
+        "url": "https://www.msn.com/en-us/video/animals/huge-wave-out-back-opening-scene-uluwatu/vi-AA1FDV3o",
+        "locale": "en-us",
+        "isLocalContent": false,
+        "financeMetadata": {
+            "sentimentRatings": [
+                {
+                    "topic": "wf_sentiment_positive",
+                    "score": 4920
+                },
+                {
+                    "topic": "wf_sentiment_negative",
+                    "score": 153
+                },
+                {
+                    "topic": "wf_sentiment_neutral",
+                    "score": 4925
+                }
+            ]
+        },
+        "publishedDateTime": "2025-05-28T12:44:33Z",
+        "height": 304,
+        "wpoId": 5,
+        "isFeatured": false,
+        "images": [
+            {
+                "width": 1280,
+                "height": 720,
+                "quality": 87,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1FDV2L.img",
+                "title": "Huge Wave Out Back! (Opening Scene) – Uluwatu",
+                "source": "msn"
+            }
+        ],
+        "provider": {
+            "id": "AA1B7EhE",
+            "name": "Surfers of Bali - Video",
+            "logoUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1B7xkz.img",
+            "profileId": "vid-i5e8xsdmpmvewg6yy6t5cbj2nk6yimp8rqvei3hjv0ttsv8e6j4a",
+            "feedAllowedFreeItem": 0
+        },
+        "category": "video",
+        "reactionSummary": {
+            "totalCount": 141,
+            "subReactionSummaries": [
+                {
+                    "totalCount": 126,
+                    "type": "upvote"
+                },
+                {
+                    "totalCount": 15,
+                    "type": "downvote"
+                }
+            ]
+        },
+        "reactionStatus": "on",
+        "commentSummary": {
+            "totalCount": 1,
+            "subCommentSummaries": [
+                {
+                    "totalCount": 1,
+                    "type": "comment"
+                }
+            ]
+        },
+        "commentStatus": "on",
+        "relevanceScore": 110.001045,
+        "subscriptionProductType": "undefined",
+        "notificationMetadata": {
+            "isBadgeEnabledPreviewCandidate": false,
+            "lastStateChangeFileTimeUtc": 0
+        },
+        "recoDocMetadata": {
+            "ModelScore": "4.090732545591891E-05",
+            "IsAtfHighQualityContent": "1"
+        },
+        "cardRankingMetadata": {
+            "pClick": 0,
+            "pRelevance": 0
+        },
+        "feed": {
+            "lastFreActionTimestamp": 0,
+            "feedCompositionCategory": "2|4|13"
+        },
+        "topics": [
+            {
+                "label": "Animals",
+                "weight": 0.6504210829734802,
+                "feedId": "Y_89a46d43-3fc1-4ab7-992c-bc5964745ba7",
+                "locale": "en-us"
+            },
+            {
+                "label": "Animal Video",
+                "weight": 0.6504210829734802,
+                "feedId": "Y_9577200c-6364-41e8-bdad-42687eef40c2",
+                "locale": "en-us"
+            },
+            {
+                "label": "Travel news",
+                "weight": 0.27005213499069214,
+                "feedId": "Y_d659302d-5ac4-460a-9baa-8c8684761110",
+                "locale": "en-us"
+            }
+        ],
+        "cardId": 4,
+        "isWorkNewsContent": false,
+        "workNewsRankingScore": 0.6504210829734802,
+        "reasons": [
+            {
+                "type": "u2U",
+                "rank": 0
+            }
+        ],
+        "ri": "332",
+        "recoId": "nnRi-T3wsb6_EezrhZ9h8AhGQu",
+        "newsClusterIdV5": "1536530898",
+        "newsClusterIdV6": "1009353169",
+        "source": "msn",
+        "videoMetadata": {
+            "playTime": 303,
+            "closedCaptions": [
+                {
+                    "locale": "en-us",
+                    "href": "https://prod-video-cms-amp-microsoft-com.akamaized.net/tenant/amp/entityid/AA1FDV3o?blobrefkey=closedcaptionen-us&$blob=1"
+                }
+            ]
+        },
+        "externalVideoFiles": [
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/d2fe6133-aad1-4b4b-9508-29f991bcee85/1f0c4565-9449-421c-acb1-3a920272b42a.mp4",
+                "width": 1280,
+                "height": 720,
+                "contentType": "video/mp4",
+                "fileSize": 208639880
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/70ef9dd8-4b04-418a-932d-7aeb3236796f/a448d3d0-26cf-40ca-949e-f9bb2d711079.m3u8",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/70ef9dd8-4b04-418a-932d-7aeb3236796f/a448d3d0-26cf-40ca-949e-f9bb2d711079.m3u8",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/70ef9dd8-4b04-418a-932d-7aeb3236796f/a448d3d0-26cf-40ca-949e-f9bb2d711079.mpd",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/70ef9dd8-4b04-418a-932d-7aeb3236796f/a448d3d0-26cf-40ca-949e-f9bb2d711079_3400.mp4",
+                "width": 1280,
+                "height": 720,
+                "contentType": "video/mp4",
+                "fileSize": 133134954
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/70ef9dd8-4b04-418a-932d-7aeb3236796f/a448d3d0-26cf-40ca-949e-f9bb2d711079_2250.mp4",
+                "width": 960,
+                "height": 540,
+                "contentType": "video/mp4",
+                "fileSize": 89328135
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/70ef9dd8-4b04-418a-932d-7aeb3236796f/a448d3d0-26cf-40ca-949e-f9bb2d711079_1500.mp4",
+                "width": 960,
+                "height": 540,
+                "contentType": "video/mp4",
+                "fileSize": 60888178
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/70ef9dd8-4b04-418a-932d-7aeb3236796f/a448d3d0-26cf-40ca-949e-f9bb2d711079_650.mp4",
+                "width": 640,
+                "height": 360,
+                "contentType": "video/mp4",
+                "fileSize": 28647714
+            }
+        ],
+        "dedupeIds": {
+            "newsClusterV5HPHash": [
+                "1536530898"
+            ],
+            "newsClusterV6Hash": [
+                "1009353169"
+            ],
+            "newsClusterV7Hash": [
+                "1244566526"
+            ],
+            "contentId": [
+                "AA1FDV3o"
+            ]
+        }
+    },
+    {
+        "id": "AA1Gsk82",
+        "type": "article",
+        "title": "‘Enough is enough.’ Why Los Angeles is still protesting, despite fear.",
+        "abstract": "As the president increases the military presence in their city, many protesters feel it is a crucial time to speak out. Here are some of their stories.",
+        "readTimeMin": 7,
+        "url": "https://www.msn.com/en-us/news/us/enough-is-enough-why-los-angeles-is-still-protesting-despite-fear/ar-AA1Gsk82",
+        "locale": "en-us",
+        "isLocalContent": false,
+        "financeMetadata": {
+            "sentimentRatings": [
+                {
+                    "topic": "wf_sentiment_positive",
+                    "score": 1004
+                },
+                {
+                    "topic": "wf_sentiment_negative",
+                    "score": 8157
+                },
+                {
+                    "topic": "wf_sentiment_neutral",
+                    "score": 838
+                }
+            ]
+        },
+        "publishedDateTime": "2025-06-10T19:33:08Z",
+        "height": 304,
+        "wpoId": 6,
+        "isFeatured": false,
+        "images": [
+            {
+                "width": 4206,
+                "height": 2804,
+                "quality": 80,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1GsmAO.img",
+                "attribution": "Joshua Lott/The Washington Post",
+                "title": "Protesters outside the Metropolitan Detention Center in downtown Los Angeles on Monday.",
+                "caption": "Protesters outside the Metropolitan Detention Center in downtown Los Angeles on Monday.",
+                "source": "msn"
+            }
+        ],
+        "provider": {
+            "id": "AA2ed1",
+            "name": "The Washington Post",
+            "logoUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAyxkRJ.img",
+            "profileId": "vid-80rqc6nyixce6picdgj2xqky37nwxmnxb6qbymrpww5gb78xhwns",
+            "lightThemeSVGLogo": {
+                "width": 79,
+                "height": 12,
+                "url": "https://cdn.query.prod.cms.msn.com/cms/api/amp/binary/AA13pwi3"
+            },
+            "darkThemeSVGLogo": {
+                "width": 79,
+                "height": 12,
+                "url": "https://cdn.query.prod.cms.msn.com/cms/api/amp/binary/AA13pwi3-dark"
+            },
+            "feedAllowedFreeItem": 0
+        },
+        "category": "news",
+        "reactionSummary": {
+            "totalCount": 716,
+            "subReactionSummaries": [
+                {
+                    "totalCount": 529,
+                    "type": "upvote"
+                },
+                {
+                    "totalCount": 187,
+                    "type": "downvote"
+                }
+            ]
+        },
+        "reactionStatus": "on",
+        "commentSummary": {
+            "totalCount": 435,
+            "subCommentSummaries": [
+                {
+                    "totalCount": 180,
+                    "type": "comment"
+                },
+                {
+                    "totalCount": 255,
+                    "type": "reply"
+                }
+            ]
+        },
+        "commentStatus": "on",
+        "relevanceScore": 109.001045,
+        "subscriptionProductType": "undefined",
+        "notificationMetadata": {
+            "isBadgeEnabledPreviewCandidate": false,
+            "lastStateChangeFileTimeUtc": 0
+        },
+        "recoDocMetadata": {
+            "ModelScore": "0.0010446641827002168",
+            "IsAtfHighQualityContent": "1"
+        },
+        "cardRankingMetadata": {
+            "pClick": 0,
+            "pRelevance": 0
+        },
+        "feed": {
+            "lastFreActionTimestamp": 0,
+            "feedCompositionCategory": "0|1"
+        },
+        "topics": [
+            {
+                "label": "US",
+                "weight": 0.8180148601531982,
+                "feedId": "Y_a3b33cc2-2c47-48ba-a975-4b87b597644b",
+                "locale": "en-us"
+            },
+            {
+                "label": "News",
+                "weight": 0.8180148601531982,
+                "feedId": "Y_9eb0ac10-32bc-43cf-816e-5beaaf524f7a",
+                "locale": "en-us"
+            }
+        ],
+        "cardId": 5,
+        "isWorkNewsContent": false,
+        "workNewsRankingScore": 0.9425703287124634,
+        "reasons": [
+            {
+                "type": "interacted",
+                "rank": 0
+            }
+        ],
+        "ri": "328",
+        "recoId": "nnRi-T3wsb6_EezrhZ9h8AhGQu",
+        "newsClusterIdV5": "2178552506",
+        "source": "msn",
+        "dedupeIds": {
+            "newsClusterV5HPHash": [
+                "-2116414790"
+            ],
+            "newsClusterV6Hash": [
+                "288384048"
+            ],
+            "newsClusterV7Hash": [
+                "247139236"
+            ],
+            "contentId": [
+                "AA1Gsk82"
+            ]
+        }
+    },
+    {
+        "id": "AA1F1BOK",
+        "type": "video",
+        "title": "Clear Evidence Of Ancient Advanced Machining At The Great Pyramid In Egypt",
+        "abstract": "Ancient Lost Worlds and Hidden History. On location videos made by author and adventurer Brien Foerster exploring Peru, Bolivia, Egypt, Hawaii, Easter Island and other exotic places. With special emphasis on evidence that advanced technology and human history are at least 10,000 years old.",
+        "readTimeMin": 0,
+        "url": "https://www.msn.com/en-us/travel/article/clear-evidence-of-ancient-advanced-machining-at-the-great-pyramid-in-egypt/vi-AA1F1BOK",
+        "locale": "en-us",
+        "isLocalContent": false,
+        "financeMetadata": {
+            "sentimentRatings": [
+                {
+                    "topic": "wf_sentiment_positive",
+                    "score": 5491
+                },
+                {
+                    "topic": "wf_sentiment_negative",
+                    "score": 415
+                },
+                {
+                    "topic": "wf_sentiment_neutral",
+                    "score": 4093
+                }
+            ]
+        },
+        "publishedDateTime": "2025-05-19T03:36:58Z",
+        "height": 304,
+        "wpoId": 7,
+        "isFeatured": false,
+        "images": [
+            {
+                "width": 640,
+                "height": 360,
+                "quality": 30,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1F1BOJ.img",
+                "attribution": "",
+                "title": "Clear Evidence Of Ancient Advanced Machining At The Great Pyramid In Egypt",
+                "caption": "Ancient Lost Worlds and Hidden History. On location videos made by author and adventurer Brien Foerster exploring Peru, Bolivia, Egypt, Hawaii, Easter Island and other exotic places. With special emphasis on evidence that advanced technology and human history are at least 10,000 years old.",
+                "source": "msn"
+            }
+        ],
+        "provider": {
+            "id": "BB1qfQ3o",
+            "name": "Brien Foerster",
+            "logoUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1t5doA.img",
+            "profileId": "vid-f5xx5ixub00urchdkam48eq0y9gbmrqshn7v4kxjphu53se6gwus",
+            "feedAllowedFreeItem": 0
+        },
+        "category": "travel",
+        "reactionSummary": {
+            "totalCount": 467,
+            "subReactionSummaries": [
+                {
+                    "totalCount": 414,
+                    "type": "upvote"
+                },
+                {
+                    "totalCount": 53,
+                    "type": "downvote"
+                }
+            ]
+        },
+        "reactionStatus": "on",
+        "commentSummary": {
+            "totalCount": 9,
+            "subCommentSummaries": [
+                {
+                    "totalCount": 8,
+                    "type": "comment"
+                },
+                {
+                    "totalCount": 1,
+                    "type": "reply"
+                }
+            ]
+        },
+        "commentStatus": "on",
+        "relevanceScore": 108.001045,
+        "subscriptionProductType": "undefined",
+        "notificationMetadata": {
+            "isBadgeEnabledPreviewCandidate": false,
+            "lastStateChangeFileTimeUtc": 0
+        },
+        "recoDocMetadata": {
+            "ModelScore": "0.0003673019527923316",
+            "IsAtfHighQualityContent": "1"
+        },
+        "cardRankingMetadata": {
+            "pClick": 0,
+            "pRelevance": 0
+        },
+        "feed": {
+            "lastFreActionTimestamp": 0,
+            "feedCompositionCategory": "1|13"
+        },
+        "cardId": 6,
+        "isWorkNewsContent": false,
+        "workNewsRankingScore": 0.3089185655117035,
+        "reasons": [
+            {
+                "type": "fallback",
+                "rank": 0
+            }
+        ],
+        "ri": "347",
+        "recoId": "nnRi-T3wsb6_EezrhZ9h8AhGQu",
+        "newsClusterIdV5": "814728233",
+        "newsClusterIdV6": "1581219966",
+        "source": "msn",
+        "videoMetadata": {
+            "playTime": 327,
+            "closedCaptions": [
+                {
+                    "locale": "en-us",
+                    "href": "https://prod-video-cms-amp-microsoft-com.akamaized.net/tenant/amp/entityid/AA1F1BOK?blobrefkey=closedcaptionen-us&$blob=1"
+                }
+            ]
+        },
+        "externalVideoFiles": [
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus002/6fa671c0-3716-4923-b80d-d21f25aef787/7b4dba10-a782-494c-a418-6442e028c67a.mp4",
+                "width": 1280,
+                "height": 720,
+                "contentType": "video/mp4",
+                "fileSize": 92965659
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus002/9e023dd2-9646-45f5-a7a4-22b4f45ca473/8fedb7e0-e45b-4f3f-9820-1425fd058e07.m3u8",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus002/9e023dd2-9646-45f5-a7a4-22b4f45ca473/8fedb7e0-e45b-4f3f-9820-1425fd058e07.m3u8",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus002/9e023dd2-9646-45f5-a7a4-22b4f45ca473/8fedb7e0-e45b-4f3f-9820-1425fd058e07.mpd",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus002/9e023dd2-9646-45f5-a7a4-22b4f45ca473/8fedb7e0-e45b-4f3f-9820-1425fd058e07_3400.mp4",
+                "width": 1280,
+                "height": 720,
+                "contentType": "video/mp4",
+                "fileSize": 141638071
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus002/9e023dd2-9646-45f5-a7a4-22b4f45ca473/8fedb7e0-e45b-4f3f-9820-1425fd058e07_2250.mp4",
+                "width": 960,
+                "height": 540,
+                "contentType": "video/mp4",
+                "fileSize": 95452734
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus002/9e023dd2-9646-45f5-a7a4-22b4f45ca473/8fedb7e0-e45b-4f3f-9820-1425fd058e07_1500.mp4",
+                "width": 960,
+                "height": 540,
+                "contentType": "video/mp4",
+                "fileSize": 64703638
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus002/9e023dd2-9646-45f5-a7a4-22b4f45ca473/8fedb7e0-e45b-4f3f-9820-1425fd058e07_650.mp4",
+                "width": 640,
+                "height": 360,
+                "contentType": "video/mp4",
+                "fileSize": 30326272
+            }
+        ],
+        "dedupeIds": {
+            "newsClusterV5HPHash": [
+                "814728233"
+            ],
+            "newsClusterV6Hash": [
+                "1581219966"
+            ],
+            "newsClusterV7Hash": [
+                "1165932953"
+            ],
+            "contentId": [
+                "AA1F1BOK"
+            ]
+        }
+    },
+    {
+        "id": "AA1GrdD0",
+        "type": "article",
+        "title": "Archaeologists Were Digging Up a Hospital—and Found the Skeletons of 4 Confederate Soldiers",
+        "abstract": "The deaths were likely tied to a Civil War battle.",
+        "readTimeMin": 3,
+        "url": "https://www.msn.com/en-us/news/world/archaeologists-were-digging-up-a-hospital-and-found-the-skeletons-of-4-confederate-soldiers/ar-AA1GrdD0",
+        "locale": "en-us",
+        "isLocalContent": false,
+        "financeMetadata": {
+            "sentimentRatings": [
+                {
+                    "topic": "wf_sentiment_positive",
+                    "score": 2221
+                },
+                {
+                    "topic": "wf_sentiment_negative",
+                    "score": 299
+                },
+                {
+                    "topic": "wf_sentiment_neutral",
+                    "score": 7479
+                }
+            ]
+        },
+        "publishedDateTime": "2025-06-10T13:30:00Z",
+        "height": 304,
+        "wpoId": 8,
+        "isFeatured": false,
+        "images": [
+            {
+                "width": 1200,
+                "height": 600,
+                "quality": 79,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1GrgiU.img",
+                "attribution": "manx_in_the_world - Getty Images",
+                "title": "Experts Found 4 Skeletons of Confederate Soldiers",
+                "caption": "The deaths were likely tied to a Civil War battle.",
+                "source": "msn"
+            }
+        ],
+        "provider": {
+            "id": "AA2JLGB",
+            "name": "Popular Mechanics",
+            "logoUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1rYdYW.img",
+            "profileId": "vid-vyytdds6ahhmqhjvejygrvk3qw46e34g8nhci3vr0yd7a9bdubua",
+            "lightThemeSVGLogo": {
+                "width": 45,
+                "height": 12,
+                "url": "https://cdn.query.prod.cms.msn.com/cms/api/amp/binary/AA13gF7i"
+            },
+            "darkThemeSVGLogo": {
+                "width": 45,
+                "height": 12,
+                "url": "https://cdn.query.prod.cms.msn.com/cms/api/amp/binary/AA13gF7i-dark"
+            },
+            "feedAllowedFreeItem": 0
+        },
+        "category": "news",
+        "reactionSummary": {
+            "totalCount": 388,
+            "subReactionSummaries": [
+                {
+                    "totalCount": 324,
+                    "type": "upvote"
+                },
+                {
+                    "totalCount": 64,
+                    "type": "downvote"
+                }
+            ]
+        },
+        "reactionStatus": "on",
+        "commentSummary": {
+            "totalCount": 21,
+            "subCommentSummaries": [
+                {
+                    "totalCount": 7,
+                    "type": "comment"
+                },
+                {
+                    "totalCount": 14,
+                    "type": "reply"
+                }
+            ]
+        },
+        "commentStatus": "on",
+        "relevanceScore": 107.001045,
+        "subscriptionProductType": "undefined",
+        "notificationMetadata": {
+            "isBadgeEnabledPreviewCandidate": false,
+            "lastStateChangeFileTimeUtc": 0
+        },
+        "recoDocMetadata": {
+            "ModelScore": "0.00021958901197649539",
+            "IsAtfHighQualityContent": "1"
+        },
+        "cardRankingMetadata": {
+            "pClick": 0,
+            "pRelevance": 0
+        },
+        "feed": {
+            "lastFreActionTimestamp": 0,
+            "feedCompositionCategory": "1"
+        },
+        "topics": [
+            {
+                "label": "News",
+                "weight": 0.5875077247619629,
+                "feedId": "Y_9eb0ac10-32bc-43cf-816e-5beaaf524f7a",
+                "locale": "en-us"
+            }
+        ],
+        "cardId": 7,
+        "isWorkNewsContent": false,
+        "workNewsRankingScore": 0.8214896321296692,
+        "reasons": [
+            {
+                "type": "u2U",
+                "rank": 0
+            }
+        ],
+        "ri": "332",
+        "recoId": "nnRi-T3wsb6_EezrhZ9h8AhGQu",
+        "newsClusterIdV5": "4001551397",
+        "source": "msn",
+        "dedupeIds": {
+            "newsClusterV5HPHash": [
+                "-293415899"
+            ],
+            "newsClusterV6Hash": [
+                "550132903"
+            ],
+            "newsClusterV7Hash": [
+                "360146309"
+            ],
+            "contentId": [
+                "AA1GrdD0"
+            ]
+        }
+    },
+    {
+        "id": "AA1GpuRn",
+        "type": "article",
+        "title": "🛰️ A photographic map of Earth every 35 minutes",
+        "abstract": "A new generation of low Earth orbit (LEO) satellites could transform how we observe our planet. This innovative constellation consists of nearly 900 satellites, organized in teams, capable of...",
+        "readTimeMin": 2,
+        "url": "https://www.msn.com/en-us/news/technology/️-a-photographic-map-of-earth-every-35-minutes/ar-AA1GpuRn",
+        "locale": "en-us",
+        "isLocalContent": false,
+        "financeMetadata": {
+            "stocks": [
+                {
+                    "stockId": "c212n",
+                    "score": 60000100
+                }
+            ],
+            "sentimentRatings": [
+                {
+                    "topic": "wf_sentiment_positive",
+                    "score": 873
+                },
+                {
+                    "topic": "wf_sentiment_negative",
+                    "score": 13
+                },
+                {
+                    "topic": "wf_sentiment_neutral",
+                    "score": 9113
+                }
+            ]
+        },
+        "publishedDateTime": "2025-06-10T06:00:06Z",
+        "height": 304,
+        "wpoId": 9,
+        "isFeatured": false,
+        "images": [
+            {
+                "width": 1269,
+                "height": 972,
+                "quality": 79,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1GpBGf.img",
+                "title": "🛰️ A photographic map of Earth every 35 minutes",
+                "source": "msn"
+            }
+        ],
+        "provider": {
+            "id": "AAYArDM",
+            "name": "Techno-Science",
+            "logoUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAYArLO.img",
+            "profileId": "vid-5e8psj9btnfhb2bwvgcwnv59uy5mnwstuj98d8mwnincpx8a7nws",
+            "feedAllowedFreeItem": 0
+        },
+        "category": "news",
+        "reactionSummary": {
+            "totalCount": 3,
+            "subReactionSummaries": [
+                {
+                    "totalCount": 3,
+                    "type": "upvote"
+                }
+            ]
+        },
+        "reactionStatus": "on",
+        "commentSummary": {
+            "totalCount": 0
+        },
+        "commentStatus": "on",
+        "relevanceScore": 106.001045,
+        "subscriptionProductType": "undefined",
+        "notificationMetadata": {
+            "isBadgeEnabledPreviewCandidate": false,
+            "lastStateChangeFileTimeUtc": 0
+        },
+        "recoDocMetadata": {
+            "ModelScore": "4.3653431930579245E-05",
+            "IsAtfHighQualityContent": "1"
+        },
+        "cardRankingMetadata": {
+            "pClick": 0,
+            "pRelevance": 0
+        },
+        "feed": {
+            "lastFreActionTimestamp": 0,
+            "feedCompositionCategory": "1|4"
+        },
+        "topics": [
+            {
+                "label": "News",
+                "weight": 0.8433553576469421,
+                "feedId": "Y_9eb0ac10-32bc-43cf-816e-5beaaf524f7a",
+                "locale": "en-us"
+            },
+            {
+                "label": "Technology",
+                "weight": 0.8433553576469421,
+                "feedId": "Y_d1cad308-780e-4a75-ba34-6460811ccfe3",
+                "locale": "en-us"
+            }
+        ],
+        "cardId": 8,
+        "isWorkNewsContent": false,
+        "workNewsRankingScore": 0.982677161693573,
+        "reasons": [
+            {
+                "type": "fallback",
+                "rank": 0
+            }
+        ],
+        "ri": "381",
+        "recoId": "nnRi-T3wsb6_EezrhZ9h8AhGQu",
+        "newsClusterIdV5": "2276583501",
+        "source": "msn",
+        "dedupeIds": {
+            "newsClusterV5HPHash": [
+                "-2018383795"
+            ],
+            "newsClusterV6Hash": [
+                "-560603729"
+            ],
+            "newsClusterV7Hash": [
+                "-678668090"
+            ],
+            "contentId": [
+                "AA1GpuRn"
+            ]
+        }
+    },
+    {
+        "id": "AA1GtbfE",
+        "type": "video",
+        "title": "What happens if Trump invokes Insurrection Act?",
+        "abstract": "President Trump said there is \"an insurrection\" happening in certain areas of Los Angeles and said he's looking into whether he should invoke the 1807 Insurrection Act. Elizabeth Goitein, senior director of the Brennan Center for Justice at NYU Law, joins to discuss.",
+        "readTimeMin": 0,
+        "url": "https://www.msn.com/en-us/news/politics/what-happens-if-trump-invokes-insurrection-act/vi-AA1GtbfE",
+        "locale": "en-us",
+        "isLocalContent": false,
+        "financeMetadata": {
+            "sentimentRatings": [
+                {
+                    "topic": "wf_sentiment_positive",
+                    "score": 191
+                },
+                {
+                    "topic": "wf_sentiment_negative",
+                    "score": 62
+                },
+                {
+                    "topic": "wf_sentiment_neutral",
+                    "score": 9746
+                }
+            ]
+        },
+        "publishedDateTime": "2025-06-11T00:31:50Z",
+        "height": 304,
+        "wpoId": 10,
+        "isFeatured": false,
+        "images": [
+            {
+                "width": 640,
+                "height": 360,
+                "quality": 97,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1GtgdQ.img",
+                "title": "What happens if Trump invokes Insurrection Act?",
+                "focalRegion": {
+                    "x1": 339,
+                    "x2": 408,
+                    "y1": 68,
+                    "y2": 137
+                },
+                "source": "msn"
+            }
+        ],
+        "provider": {
+            "id": "BBmNNRV",
+            "name": "CBS News - Video",
+            "logoUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAywUTK.img",
+            "profileId": "vid-9sg538d8084xdac9cqur3c8fr7gyh8mehuf2f55ssbmcapc6hrha",
+            "lightThemeSVGLogo": {
+                "width": 90,
+                "height": 12,
+                "url": "https://cdn.query.prod.cms.msn.com/cms/api/amp/binary/AA13eNIl"
+            },
+            "darkThemeSVGLogo": {
+                "width": 90,
+                "height": 12,
+                "url": "https://cdn.query.prod.cms.msn.com/cms/api/amp/binary/AA13eNIl-dark"
+            },
+            "feedAllowedFreeItem": 0
+        },
+        "category": "news",
+        "reactionSummary": {
+            "totalCount": 6,
+            "subReactionSummaries": [
+                {
+                    "totalCount": 6,
+                    "type": "upvote"
+                }
+            ]
+        },
+        "reactionStatus": "on",
+        "commentSummary": {
+            "totalCount": 1,
+            "subCommentSummaries": [
+                {
+                    "totalCount": 1,
+                    "type": "comment"
+                }
+            ]
+        },
+        "commentStatus": "on",
+        "relevanceScore": 105.001045,
+        "subscriptionProductType": "undefined",
+        "notificationMetadata": {
+            "isBadgeEnabledPreviewCandidate": false,
+            "lastStateChangeFileTimeUtc": 0
+        },
+        "recoDocMetadata": {
+            "ModelScore": "4.334261393523775E-05",
+            "IsAtfHighQualityContent": "1"
+        },
+        "cardRankingMetadata": {
+            "pClick": 0,
+            "pRelevance": 0
+        },
+        "feed": {
+            "lastFreActionTimestamp": 0,
+            "feedCompositionCategory": "0|1|13"
+        },
+        "topics": [
+            {
+                "label": "News",
+                "weight": 0.6310449242591858,
+                "feedId": "Y_9eb0ac10-32bc-43cf-816e-5beaaf524f7a",
+                "locale": "en-us"
+            }
+        ],
+        "cardId": 9,
+        "isWorkNewsContent": false,
+        "workNewsRankingScore": 0.9601796269416809,
+        "reasons": [
+            {
+                "type": "interacted",
+                "rank": 0
+            }
+        ],
+        "ri": "345",
+        "recoId": "nnRi-T3wsb6_EezrhZ9h8AhGQu",
+        "newsClusterIdV5": "337109072",
+        "source": "msn",
+        "videoMetadata": {
+            "playTime": 239,
+            "closedCaptions": [
+                {
+                    "locale": "en-us",
+                    "href": "https://prod-video-cms-amp-microsoft-com.akamaized.net/tenant/amp/entityid/AA1GtbfE?blobrefkey=closedcaptionen-us&$blob=1"
+                }
+            ]
+        },
+        "externalVideoFiles": [
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus002/6b71d5fb-ad55-4dd6-bd3c-e5417eec8302/a938f0f9-1f35-40cb-bc36-9a7ac0f82b82.mp4",
+                "width": 1920,
+                "height": 1080,
+                "contentType": "video/mp4",
+                "fileSize": 155473210
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus002/407eaba8-c330-41d6-b135-0f53f076300a/74cf42b8-c88d-4a66-8359-8f07aaebdc71.m3u8",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus002/407eaba8-c330-41d6-b135-0f53f076300a/74cf42b8-c88d-4a66-8359-8f07aaebdc71.m3u8",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus002/407eaba8-c330-41d6-b135-0f53f076300a/74cf42b8-c88d-4a66-8359-8f07aaebdc71.mpd",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus002/407eaba8-c330-41d6-b135-0f53f076300a/74cf42b8-c88d-4a66-8359-8f07aaebdc71_6750.mp4",
+                "width": 1920,
+                "height": 1080,
+                "contentType": "video/mp4",
+                "fileSize": 204172841
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus002/407eaba8-c330-41d6-b135-0f53f076300a/74cf42b8-c88d-4a66-8359-8f07aaebdc71_3400.mp4",
+                "width": 1280,
+                "height": 720,
+                "contentType": "video/mp4",
+                "fileSize": 103996164
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus002/407eaba8-c330-41d6-b135-0f53f076300a/74cf42b8-c88d-4a66-8359-8f07aaebdc71_2250.mp4",
+                "width": 960,
+                "height": 540,
+                "contentType": "video/mp4",
+                "fileSize": 70402295
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus002/407eaba8-c330-41d6-b135-0f53f076300a/74cf42b8-c88d-4a66-8359-8f07aaebdc71_1500.mp4",
+                "width": 960,
+                "height": 540,
+                "contentType": "video/mp4",
+                "fileSize": 47788809
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus002/407eaba8-c330-41d6-b135-0f53f076300a/74cf42b8-c88d-4a66-8359-8f07aaebdc71_650.mp4",
+                "width": 640,
+                "height": 360,
+                "contentType": "video/mp4",
+                "fileSize": 22569637
+            }
+        ],
+        "dedupeIds": {
+            "newsClusterV5HPHash": [
+                "337109072"
+            ],
+            "newsClusterV6Hash": [
+                "1053268838"
+            ],
+            "newsClusterV7Hash": [
+                "-130245042"
+            ],
+            "contentId": [
+                "AA1GtbfE"
+            ]
+        }
+    },
+    {
+        "id": "AA1APLfe",
+        "type": "video",
+        "title": "Exploring a 130-year-old shipwreck in Lake Superior",
+        "abstract": "Explorers have discovered the wreck of a cargo ship, the Western Reserve, that sank in a storm over 130 years ago in Lake Superior.",
+        "readTimeMin": 0,
+        "url": "https://www.msn.com/en-us/video/peopleandplaces/exploring-a-130-year-old-shipwreck-in-lake-superior/vi-AA1APLfe",
+        "locale": "en-us",
+        "isLocalContent": false,
+        "financeMetadata": {
+            "sentimentRatings": [
+                {
+                    "topic": "wf_sentiment_positive",
+                    "score": 682
+                },
+                {
+                    "topic": "wf_sentiment_negative",
+                    "score": 47
+                },
+                {
+                    "topic": "wf_sentiment_neutral",
+                    "score": 9269
+                }
+            ]
+        },
+        "publishedDateTime": "2025-03-13T10:35:48Z",
+        "height": 304,
+        "wpoId": 11,
+        "isFeatured": false,
+        "images": [
+            {
+                "width": 3072,
+                "height": 1728,
+                "quality": 91,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1APII9.img",
+                "title": "Exploring a 130-year-old shipwreck in Lake Superior",
+                "source": "msn"
+            }
+        ],
+        "provider": {
+            "id": "BBTquMf",
+            "name": "ABC News",
+            "logoUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA15spNo.img",
+            "profileId": "vid-uqv2msu8xmhtu2ffugmt4n046hfm8j7288khugm3j40x7p8g7eka",
+            "lightThemeSVGLogo": {
+                "width": 35,
+                "height": 12,
+                "url": "https://cdn.query.prod.cms.msn.com/cms/api/amp/binary/AA13gyym"
+            },
+            "darkThemeSVGLogo": {
+                "width": 35,
+                "height": 12,
+                "url": "https://cdn.query.prod.cms.msn.com/cms/api/amp/binary/AA13gyym-dark"
+            },
+            "feedAllowedFreeItem": 0
+        },
+        "category": "video",
+        "reactionSummary": {
+            "totalCount": 800,
+            "subReactionSummaries": [
+                {
+                    "totalCount": 740,
+                    "type": "upvote"
+                },
+                {
+                    "totalCount": 60,
+                    "type": "downvote"
+                }
+            ]
+        },
+        "reactionStatus": "on",
+        "commentSummary": {
+            "totalCount": 3,
+            "subCommentSummaries": [
+                {
+                    "totalCount": 2,
+                    "type": "comment"
+                },
+                {
+                    "totalCount": 1,
+                    "type": "reply"
+                }
+            ]
+        },
+        "commentStatus": "on",
+        "relevanceScore": 104.001045,
+        "subscriptionProductType": "undefined",
+        "notificationMetadata": {
+            "isBadgeEnabledPreviewCandidate": false,
+            "lastStateChangeFileTimeUtc": 0
+        },
+        "recoDocMetadata": {
+            "ModelScore": "0.00038272139499895275",
+            "IsAtfHighQualityContent": "1"
+        },
+        "cardRankingMetadata": {
+            "pClick": 0,
+            "pRelevance": 0
+        },
+        "feed": {
+            "lastFreActionTimestamp": 0,
+            "feedCompositionCategory": "1|13"
+        },
+        "cardId": 10,
+        "isWorkNewsContent": false,
+        "workNewsRankingScore": 0.30873554944992065,
+        "reasons": [
+            {
+                "type": "interacted",
+                "rank": 0
+            }
+        ],
+        "ri": "281,328,345",
+        "recoId": "nnRi-T3wsb6_EezrhZ9h8AhGQu",
+        "newsClusterIdV5": "1570321052",
+        "newsClusterIdV6": "166092198",
+        "source": "msn",
+        "videoMetadata": {
+            "playTime": 80,
+            "closedCaptions": [
+                {
+                    "locale": "en-us",
+                    "href": "https://prod-video-cms-amp-microsoft-com.akamaized.net/tenant/amp/entityid/AA1APLfe?blobrefkey=closedcaptionen-us&$blob=1"
+                }
+            ]
+        },
+        "externalVideoFiles": [
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus005/92b7bf56-9fd6-4c9f-b1d1-66198f9f2071/dc93f16a-101b-4ed3-a351-4f405406fa4c.mp4",
+                "width": 1280,
+                "height": 720,
+                "contentType": "video/mp4",
+                "fileSize": 25246707
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus005/b65f0912-028d-4b7c-b681-ecfabf9d3920/744df89b-459f-44fa-8763-2d7d60e6d79a.m3u8",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus005/b65f0912-028d-4b7c-b681-ecfabf9d3920/744df89b-459f-44fa-8763-2d7d60e6d79a.m3u8",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus005/b65f0912-028d-4b7c-b681-ecfabf9d3920/744df89b-459f-44fa-8763-2d7d60e6d79a.mpd",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus005/b65f0912-028d-4b7c-b681-ecfabf9d3920/744df89b-459f-44fa-8763-2d7d60e6d79a_3400.mp4",
+                "width": 1280,
+                "height": 720,
+                "contentType": "video/mp4",
+                "fileSize": 35958966
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus005/b65f0912-028d-4b7c-b681-ecfabf9d3920/744df89b-459f-44fa-8763-2d7d60e6d79a_2250.mp4",
+                "width": 960,
+                "height": 540,
+                "contentType": "video/mp4",
+                "fileSize": 24063163
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus005/b65f0912-028d-4b7c-b681-ecfabf9d3920/744df89b-459f-44fa-8763-2d7d60e6d79a_1500.mp4",
+                "width": 960,
+                "height": 540,
+                "contentType": "video/mp4",
+                "fileSize": 16421446
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus005/b65f0912-028d-4b7c-b681-ecfabf9d3920/744df89b-459f-44fa-8763-2d7d60e6d79a_650.mp4",
+                "width": 640,
+                "height": 360,
+                "contentType": "video/mp4",
+                "fileSize": 7720990
+            }
+        ],
+        "dedupeIds": {
+            "newsClusterV7Hash": [
+                "-846166617"
+            ],
+            "contentId": [
+                "AA1APLfe"
+            ]
+        }
+    },
+    {
+        "id": "AA1G5ckk",
+        "type": "video",
+        "title": "Humpback Whale breaching, comes up from the blue and jumps out of the water. Shot below and above",
+        "abstract": "Amazing slow motion Stock Footage of a humpback whale baby coming up from the deep blue, breaching the water surface - jumps fully out of the water and falls back into the Pacific Ocean with a big splash.",
+        "readTimeMin": 0,
+        "url": "https://www.msn.com/en-us/video/animals/humpback-whale-breaching-comes-up-from-the-blue-and-jumps-out-of-the-water-shot-below-and-above/vi-AA1G5ckk",
+        "locale": "en-us",
+        "isLocalContent": false,
+        "financeMetadata": {
+            "sentimentRatings": [
+                {
+                    "topic": "wf_sentiment_positive",
+                    "score": 7270
+                },
+                {
+                    "topic": "wf_sentiment_negative",
+                    "score": 126
+                },
+                {
+                    "topic": "wf_sentiment_neutral",
+                    "score": 2603
+                }
+            ]
+        },
+        "publishedDateTime": "2025-06-04T14:41:22Z",
+        "height": 304,
+        "wpoId": 12,
+        "isFeatured": false,
+        "images": [
+            {
+                "width": 1280,
+                "height": 720,
+                "quality": 40,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1G59Jw.img",
+                "title": "Humpback Whale breaching, comes up from the blue and jumps out of the water. Shot below and above Thumbnail",
+                "source": "msn"
+            }
+        ],
+        "provider": {
+            "id": "BB1nCKhK",
+            "name": "VideoElephant - Video",
+            "logoUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1nCTVQ.img",
+            "profileId": "vid-rm26t5e2cm0iipr73h8nsqhd2u7p4j6vjwnt8w2g9j2g67ks9mys",
+            "feedAllowedFreeItem": 0
+        },
+        "category": "video",
+        "reactionSummary": {
+            "totalCount": 2083,
+            "subReactionSummaries": [
+                {
+                    "totalCount": 1991,
+                    "type": "upvote"
+                },
+                {
+                    "totalCount": 92,
+                    "type": "downvote"
+                }
+            ]
+        },
+        "reactionStatus": "on",
+        "commentSummary": {
+            "totalCount": 25,
+            "subCommentSummaries": [
+                {
+                    "totalCount": 20,
+                    "type": "comment"
+                },
+                {
+                    "totalCount": 5,
+                    "type": "reply"
+                }
+            ]
+        },
+        "commentStatus": "on",
+        "relevanceScore": 103.001045,
+        "subscriptionProductType": "undefined",
+        "notificationMetadata": {
+            "isBadgeEnabledPreviewCandidate": false,
+            "lastStateChangeFileTimeUtc": 0
+        },
+        "recoDocMetadata": {
+            "ModelScore": "0.00017324567306786776",
+            "IsAtfHighQualityContent": "1"
+        },
+        "cardRankingMetadata": {
+            "pClick": 0,
+            "pRelevance": 0
+        },
+        "feed": {
+            "lastFreActionTimestamp": 0,
+            "feedCompositionCategory": "1|13"
+        },
+        "topics": [
+            {
+                "label": "Animals",
+                "weight": 0.8150932788848877,
+                "feedId": "Y_89a46d43-3fc1-4ab7-992c-bc5964745ba7",
+                "locale": "en-us"
+            },
+            {
+                "label": "Animal Video",
+                "weight": 0.8150932788848877,
+                "feedId": "Y_9577200c-6364-41e8-bdad-42687eef40c2",
+                "locale": "en-us"
+            }
+        ],
+        "cardId": 11,
+        "isWorkNewsContent": false,
+        "workNewsRankingScore": 0.8150932788848877,
+        "reasons": [
+            {
+                "type": "u2U",
+                "rank": 0
+            }
+        ],
+        "ri": "332",
+        "recoId": "nnRi-T3wsb6_EezrhZ9h8AhGQu",
+        "newsClusterIdV5": "2311372509",
+        "newsClusterIdV6": "-1086734242",
+        "source": "msn",
+        "videoMetadata": {
+            "playTime": 23,
+            "closedCaptions": [
+                {
+                    "locale": "en-us",
+                    "href": "https://prod-video-cms-amp-microsoft-com.akamaized.net/tenant/amp/entityid/AA1G5ckk?blobrefkey=closedcaptionen-us&$blob=1"
+                }
+            ]
+        },
+        "externalVideoFiles": [
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/2b880496-b726-4f01-9f34-7123d9ddbd91/a9424131-1a87-4823-b5e2-98d14efbda4b.mp4",
+                "width": 1280,
+                "height": 720,
+                "contentType": "video/mp4",
+                "fileSize": 7593771
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/332a53bd-1f53-44a9-b94f-2b5ac2ea1617/7315a168-910b-40d4-95f5-9486de419050.m3u8",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/332a53bd-1f53-44a9-b94f-2b5ac2ea1617/7315a168-910b-40d4-95f5-9486de419050.m3u8",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/332a53bd-1f53-44a9-b94f-2b5ac2ea1617/7315a168-910b-40d4-95f5-9486de419050.mpd",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/332a53bd-1f53-44a9-b94f-2b5ac2ea1617/7315a168-910b-40d4-95f5-9486de419050_3400.mp4",
+                "width": 1280,
+                "height": 720,
+                "contentType": "video/mp4",
+                "fileSize": 11180134
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/332a53bd-1f53-44a9-b94f-2b5ac2ea1617/7315a168-910b-40d4-95f5-9486de419050_2250.mp4",
+                "width": 960,
+                "height": 540,
+                "contentType": "video/mp4",
+                "fileSize": 7560105
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/332a53bd-1f53-44a9-b94f-2b5ac2ea1617/7315a168-910b-40d4-95f5-9486de419050_1500.mp4",
+                "width": 960,
+                "height": 540,
+                "contentType": "video/mp4",
+                "fileSize": 5150375
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/332a53bd-1f53-44a9-b94f-2b5ac2ea1617/7315a168-910b-40d4-95f5-9486de419050_650.mp4",
+                "width": 640,
+                "height": 360,
+                "contentType": "video/mp4",
+                "fileSize": 2401414
+            }
+        ],
+        "dedupeIds": {
+            "newsClusterV5HPHash": [
+                "-1983594787"
+            ],
+            "newsClusterV6Hash": [
+                "-1086734242"
+            ],
+            "newsClusterV7Hash": [
+                "-802534056"
+            ],
+            "contentId": [
+                "AA1G5ckk"
+            ]
+        }
+    },
+    {
+        "id": "AA1EttC7",
+        "type": "slideshow",
+        "title": "9 Sunken Cities That Changed What We Thought About Ancient Civilizations",
+        "abstract": "Where Legends Sank, Truth Rose It’s one thing to read about lost civilizations in books. It’s another to discover their […]",
+        "readTimeMin": 0,
+        "url": "https://www.msn.com/en-us/travel/article/9-sunken-cities-that-changed-what-we-thought-about-ancient-civilizations/ss-AA1EttC7",
+        "locale": "en-us",
+        "isLocalContent": false,
+        "galleryItemCount": 10,
+        "financeMetadata": {
+            "sentimentRatings": [
+                {
+                    "topic": "wf_sentiment_positive",
+                    "score": 1075
+                },
+                {
+                    "topic": "wf_sentiment_negative",
+                    "score": 122
+                },
+                {
+                    "topic": "wf_sentiment_neutral",
+                    "score": 8802
+                }
+            ]
+        },
+        "slides": [
+            {
+                "title": "Where Legends Sank, Truth Rose",
+                "body": "<p>It’s one thing to read about lost civilizations in books. It’s another to discover their entire cities hidden beneath the sea. These aren’t just myths or old sailor tales. They’re real sunken cities that rewrote what we thought we knew about ancient life, trade, and power. And some? They’re still keeping their secrets. Dive in (literally) to uncover the ancient underwater worlds that shocked archaeologists and reshaped our understanding of history.</p>",
+                "image": {
+                    "width": 1024,
+                    "height": 683,
+                    "quality": 100,
+                    "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1EtmZS.img",
+                    "attribution": "@ YouTube",
+                    "title": "Where Legends Sank, Truth Rose",
+                    "caption": "<p>It’s one thing to read about lost civilizations in books. It’s another to discover their entire cities hidden beneath the sea. These aren’t just myths or old sailor tales. They’re real sunken cities that rewrote what we thought we knew about ancient life, trade, and power. And some? They’re still keeping their secrets. Dive in (literally) to uncover the ancient underwater worlds that shocked archaeologists and reshaped our understanding of history.</p>",
+                    "source": "msn"
+                }
+            },
+            {
+                "title": "1. Dwarka, India",
+                "body": "<p>When marine archaeologists found stone structures off India’s Gulf of Khambhat, they stumbled onto something that shook historical timelines. The city of Dwarka, long believed to be purely mythological, had evidence of ancient urban planning dating back over 9,000 years. Pottery, tools, and walls were found underwater, suggesting that coastal civilizations in India may have thrived long before Mesopotamia or Egypt reached their peak. </p><p>Source: <a href=\"https://archaeology-world.com/india-archaeologists-found-9000-years-old-city-beneath-the-surface-of-modern-day-dwarka/\">ARCHAEOLOGY WORLD</a></p>",
+                "image": {
+                    "width": 707,
+                    "height": 471,
+                    "quality": 81,
+                    "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1EtkKx.img",
+                    "attribution": "@ YouTube",
+                    "title": "1. Dwarka, India",
+                    "caption": "<p>When marine archaeologists found stone structures off India’s Gulf of Khambhat, they stumbled onto something that shook historical timelines. The city of Dwarka, long believed to be purely mythological, had evidence of ancient urban planning dating back over 9,000 years. Pottery, tools, and walls were found underwater, suggesting that coastal civilizations in India may have thrived long before Mesopotamia or Egypt reached their peak. </p><p>Source: <a href=\"https://archaeology-world.com/india-archaeologists-found-9000-years-old-city-beneath-the-surface-of-modern-day-dwarka/\">ARCHAEOLOGY WORLD</a></p>",
+                    "source": "msn"
+                }
+            },
+            {
+                "title": "2. Thonis-Heracleion, Egypt",
+                "body": "<p>Once Egypt’s greatest port city, Thonis-Heracleion vanished beneath the waves over 1,200 years ago. Rediscovered in 2000 in the Mediterranean Sea, it revealed massive temples, statues, and trade records. The city was a bustling international hub before Alexandria rose to power. Its discovery confirmed just how connected ancient Egypt was to the Mediterranean world and shifted ideas about how trade, religion, and politics worked in ancient times. </p><p>Source: <a href=\"https://wildhunt.org/2021/07/new-finds-at-ancient-egyptian-port-city-of-thonis-heracleion.html\">Wild Hunt</a></p>",
+                "image": {
+                    "width": 717,
+                    "height": 478,
+                    "quality": 81,
+                    "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1EtoQ3.img",
+                    "attribution": "@ YouTube",
+                    "title": "2. Thonis-Heracleion, Egypt",
+                    "caption": "<p>Once Egypt’s greatest port city, Thonis-Heracleion vanished beneath the waves over 1,200 years ago. Rediscovered in 2000 in the Mediterranean Sea, it revealed massive temples, statues, and trade records. The city was a bustling international hub before Alexandria rose to power. Its discovery confirmed just how connected ancient Egypt was to the Mediterranean world and shifted ideas about how trade, religion, and politics worked in ancient times. </p><p>Source: <a href=\"https://wildhunt.org/2021/07/new-finds-at-ancient-egyptian-port-city-of-thonis-heracleion.html\">Wild Hunt</a></p>",
+                    "source": "msn"
+                }
+            }
+        ],
+        "publishedDateTime": "2025-05-09T13:15:00Z",
+        "height": 304,
+        "wpoId": 13,
+        "isFeatured": false,
+        "images": [
+            {
+                "width": 1024,
+                "height": 683,
+                "quality": 100,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1EtmZS.img",
+                "attribution": "@ YouTube",
+                "title": "Where Legends Sank, Truth Rose",
+                "caption": "<p>It’s one thing to read about lost civilizations in books. It’s another to discover their entire cities hidden beneath the sea. These aren’t just myths or old sailor tales. They’re real sunken cities that rewrote what we thought we knew about ancient life, trade, and power. And some? They’re still keeping their secrets. Dive in (literally) to uncover the ancient underwater worlds that shocked archaeologists and reshaped our understanding of history.</p>",
+                "source": "msn"
+            },
+            {
+                "width": 707,
+                "height": 471,
+                "quality": 81,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1EtkKx.img",
+                "attribution": "@ YouTube",
+                "title": "1. Dwarka, India",
+                "caption": "<p>When marine archaeologists found stone structures off India’s Gulf of Khambhat, they stumbled onto something that shook historical timelines. The city of Dwarka, long believed to be purely mythological, had evidence of ancient urban planning dating back over 9,000 years. Pottery, tools, and walls were found underwater, suggesting that coastal civilizations in India may have thrived long before Mesopotamia or Egypt reached their peak. </p><p>Source: <a href=\"https://archaeology-world.com/india-archaeologists-found-9000-years-old-city-beneath-the-surface-of-modern-day-dwarka/\">ARCHAEOLOGY WORLD</a></p>",
+                "source": "msn"
+            },
+            {
+                "width": 717,
+                "height": 478,
+                "quality": 81,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1EtoQ3.img",
+                "attribution": "@ YouTube",
+                "title": "2. Thonis-Heracleion, Egypt",
+                "caption": "<p>Once Egypt’s greatest port city, Thonis-Heracleion vanished beneath the waves over 1,200 years ago. Rediscovered in 2000 in the Mediterranean Sea, it revealed massive temples, statues, and trade records. The city was a bustling international hub before Alexandria rose to power. Its discovery confirmed just how connected ancient Egypt was to the Mediterranean world and shifted ideas about how trade, religion, and politics worked in ancient times. </p><p>Source: <a href=\"https://wildhunt.org/2021/07/new-finds-at-ancient-egyptian-port-city-of-thonis-heracleion.html\">Wild Hunt</a></p>",
+                "source": "msn"
+            },
+            {
+                "width": 628,
+                "height": 471,
+                "quality": 81,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1Etrrv.img",
+                "attribution": "@ YouTube",
+                "title": "3. Pavlopetri, Greece",
+                "caption": "<p>Off the coast of southern Greece lies Pavlopetri, one of the oldest submerged cities ever found. Estimated to be around 5,000 years old, its perfectly preserved roads, homes, and courtyards give us a rare snapshot of Bronze Age life. Experts believe the city’s design shows an early form of urban planning and even social zoning, challenging the idea that such concepts only came later in human development. </p><p>Source: <a href=\"https://www.thearchaeologist.org/blog/pavlopetri-5000-year-old-town-discovered-underwater-in-greece\">The Archaeologist</a></p>",
+                "source": "msn"
+            }
+        ],
+        "provider": {
+            "id": "AA1rwBKa",
+            "name": "Daily Fetch",
+            "logoUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1ARBSV.img",
+            "profileId": "vid-y3h9c3i55js8gswwjv7agkapasshskm0iwbsnnk37j7yw0gryxis",
+            "feedAllowedFreeItem": 0
+        },
+        "category": "travel",
+        "reactionSummary": {
+            "totalCount": 47,
+            "subReactionSummaries": [
+                {
+                    "totalCount": 45,
+                    "type": "upvote"
+                },
+                {
+                    "totalCount": 2,
+                    "type": "downvote"
+                }
+            ]
+        },
+        "reactionStatus": "on",
+        "commentSummary": {
+            "totalCount": 3,
+            "subCommentSummaries": [
+                {
+                    "totalCount": 2,
+                    "type": "comment"
+                },
+                {
+                    "totalCount": 1,
+                    "type": "reply"
+                }
+            ]
+        },
+        "commentStatus": "on",
+        "relevanceScore": 102.001045,
+        "subscriptionProductType": "undefined",
+        "notificationMetadata": {
+            "isBadgeEnabledPreviewCandidate": false,
+            "lastStateChangeFileTimeUtc": 0
+        },
+        "recoDocMetadata": {
+            "ModelScore": "9.217152546625584E-05",
+            "IsAtfHighQualityContent": "1"
+        },
+        "cardRankingMetadata": {
+            "pClick": 0,
+            "pRelevance": 0
+        },
+        "feed": {
+            "lastFreActionTimestamp": 0,
+            "feedCompositionCategory": "1"
+        },
+        "topics": [
+            {
+                "label": "Travel news",
+                "weight": 0.39389878511428833,
+                "feedId": "Y_d659302d-5ac4-460a-9baa-8c8684761110",
+                "locale": "en-us"
+            },
+            {
+                "label": "News",
+                "weight": 0.3475818932056427,
+                "feedId": "Y_9eb0ac10-32bc-43cf-816e-5beaaf524f7a",
+                "locale": "en-us"
+            }
+        ],
+        "cardId": 12,
+        "isWorkNewsContent": false,
+        "workNewsRankingScore": 0.39389878511428833,
+        "reasons": [
+            {
+                "type": "fallback",
+                "rank": 0
+            }
+        ],
+        "ri": "347",
+        "recoId": "nnRi-T3wsb6_EezrhZ9h8AhGQu",
+        "newsClusterIdV5": "478450329",
+        "newsClusterIdV6": "-2080830766",
+        "source": "msn",
+        "dedupeIds": {
+            "newsClusterV5HPHash": [
+                "478450329"
+            ],
+            "newsClusterV6Hash": [
+                "-2080830766"
+            ],
+            "newsClusterV7Hash": [
+                "-870261645"
+            ],
+            "contentId": [
+                "AA1EttC7"
+            ]
+        }
+    },
+    {
+        "id": "AA1Gqnu9",
+        "type": "article",
+        "title": "RFK Jr fires entire US vaccine committee",
+        "abstract": "Robert F Kennedy Jr has dismissed all current members of a key federal vaccine advisory panel, accusing them of conflicts of interest. The removal of all 17 experts of the advisory committee on immunisation practices was revealed in a Wall Street Journal op-ed and an official press release. Mr Kennedy, the US health secretary, who has spent two dec...",
+        "readTimeMin": 3,
+        "url": "https://www.msn.com/en-us/health/other/rfk-jr-fires-entire-us-vaccine-committee/ar-AA1Gqnu9",
+        "locale": "en-us",
+        "isLocalContent": false,
+        "financeMetadata": {
+            "sentimentRatings": [
+                {
+                    "topic": "wf_sentiment_positive",
+                    "score": 554
+                },
+                {
+                    "topic": "wf_sentiment_negative",
+                    "score": 9221
+                },
+                {
+                    "topic": "wf_sentiment_neutral",
+                    "score": 224
+                }
+            ]
+        },
+        "publishedDateTime": "2025-06-10T10:12:48Z",
+        "height": 304,
+        "wpoId": 14,
+        "isFeatured": false,
+        "images": [
+            {
+                "width": 1920,
+                "height": 1203,
+                "quality": 88,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1GquuP.img",
+                "title": "Robert F Kennedy Jr testifying before the Senate",
+                "caption": "Robert F Kennedy Jr testifying before the Senate",
+                "focalRegion": {
+                    "x1": 49,
+                    "x2": 536,
+                    "y1": 128,
+                    "y2": 483
+                },
+                "source": "msn"
+            }
+        ],
+        "provider": {
+            "id": "AA2eaY",
+            "name": "The Telegraph",
+            "logoUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBxWcHH.img",
+            "profileId": "vid-b4rx2ek9tp5i3xvk5k2hmtcit9bqw2japksgngb40x9vbhyrq56s",
+            "feedAllowedFreeItem": 0
+        },
+        "category": "health",
+        "reactionSummary": {
+            "totalCount": 385,
+            "subReactionSummaries": [
+                {
+                    "totalCount": 274,
+                    "type": "upvote"
+                },
+                {
+                    "totalCount": 111,
+                    "type": "downvote"
+                }
+            ]
+        },
+        "reactionStatus": "on",
+        "commentSummary": {
+            "totalCount": 71,
+            "subCommentSummaries": [
+                {
+                    "totalCount": 32,
+                    "type": "comment"
+                },
+                {
+                    "totalCount": 39,
+                    "type": "reply"
+                }
+            ]
+        },
+        "commentStatus": "on",
+        "relevanceScore": 101.001045,
+        "subscriptionProductType": "undefined",
+        "notificationMetadata": {
+            "isBadgeEnabledPreviewCandidate": false,
+            "lastStateChangeFileTimeUtc": 0
+        },
+        "recoDocMetadata": {
+            "ModelScore": "0.0008053557248786092",
+            "IsAtfHighQualityContent": "1"
+        },
+        "cardRankingMetadata": {
+            "pClick": 0,
+            "pRelevance": 0
+        },
+        "feed": {
+            "lastFreActionTimestamp": 0,
+            "feedCompositionCategory": "1"
+        },
+        "topics": [
+            {
+                "label": "Health news",
+                "weight": 0.9997599720954895,
+                "feedId": "Y_e9e6276b-7e2e-437e-8e9c-b45f1de22ba7",
+                "locale": "en-us"
+            },
+            {
+                "label": "Health",
+                "weight": 0.9997599720954895,
+                "feedId": "Y_c95b134f-a01c-4439-a13f-337ca34f37ea",
+                "locale": "en-us"
+            }
+        ],
+        "cardId": 13,
+        "isWorkNewsContent": false,
+        "workNewsRankingScore": 0.9997599720954895,
+        "reasons": [
+            {
+                "type": "fallback",
+                "rank": 0
+            }
+        ],
+        "ri": "347",
+        "recoId": "nnRi-T3wsb6_EezrhZ9h8AhGQu",
+        "newsClusterIdV5": "535532358",
+        "source": "msn",
+        "dedupeIds": {
+            "newsClusterV5HPHash": [
+                "535532358"
+            ],
+            "newsClusterV6Hash": [
+                "-1112680949"
+            ],
+            "newsClusterV7Hash": [
+                "1022346370"
+            ],
+            "contentId": [
+                "AA1Gqnu9"
+            ]
+        }
+    },
+    {
+        "id": "AA1GsWk8",
+        "type": "article",
+        "title": "Researchers raise red flag as important island off US coast vanishes into sea: 'All this open water ... was once grassy'",
+        "abstract": "Losing marshlands can mean losing both fragile ecosystems and important buffers against storm surges. Researchers raise red flag as important island off US coast vanishes into sea: 'All this open water ... was once grassy' first appeared on The Cool Down.",
+        "readTimeMin": 3,
+        "url": "https://www.msn.com/en-us/weather/topstories/researchers-raise-red-flag-as-important-island-off-us-coast-vanishes-into-sea-all-this-open-water-was-once-grassy/ar-AA1GsWk8",
+        "locale": "en-us",
+        "isLocalContent": false,
+        "financeMetadata": {
+            "sentimentRatings": [
+                {
+                    "topic": "wf_sentiment_positive",
+                    "score": 142
+                },
+                {
+                    "topic": "wf_sentiment_negative",
+                    "score": 9798
+                },
+                {
+                    "topic": "wf_sentiment_neutral",
+                    "score": 59
+                }
+            ]
+        },
+        "publishedDateTime": "2025-06-10T23:15:00Z",
+        "height": 304,
+        "wpoId": 15,
+        "isFeatured": false,
+        "images": [
+            {
+                "width": 640,
+                "height": 376,
+                "quality": 88,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1GsWjX.img",
+                "title": "Losing marshlands can mean losing both fragile ecosystems and important buffers against storm surges.",
+                "caption": "Losing marshlands can mean losing both fragile ecosystems and important buffers against storm surges.",
+                "source": "msn"
+            }
+        ],
+        "provider": {
+            "id": "AA10gTPA",
+            "name": "The Cool Down",
+            "logoUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13rZME.img",
+            "profileId": "cid-a5c04689f64a9285",
+            "feedAllowedFreeItem": 0
+        },
+        "category": "weather",
+        "reactionSummary": {
+            "totalCount": 36,
+            "subReactionSummaries": [
+                {
+                    "totalCount": 29,
+                    "type": "upvote"
+                },
+                {
+                    "totalCount": 7,
+                    "type": "downvote"
+                }
+            ]
+        },
+        "reactionStatus": "on",
+        "commentSummary": {
+            "totalCount": 10,
+            "subCommentSummaries": [
+                {
+                    "totalCount": 9,
+                    "type": "comment"
+                },
+                {
+                    "totalCount": 1,
+                    "type": "reply"
+                }
+            ]
+        },
+        "commentStatus": "on",
+        "relevanceScore": 100.001045,
+        "subscriptionProductType": "undefined",
+        "notificationMetadata": {
+            "isBadgeEnabledPreviewCandidate": false,
+            "lastStateChangeFileTimeUtc": 0
+        },
+        "recoDocMetadata": {
+            "ModelScore": "0.0001541867241030559",
+            "IsAtfHighQualityContent": "1"
+        },
+        "cardRankingMetadata": {
+            "pClick": 0,
+            "pRelevance": 0
+        },
+        "feed": {
+            "lastFreActionTimestamp": 0,
+            "feedCompositionCategory": "1"
+        },
+        "topics": [
+            {
+                "label": "Weather",
+                "weight": 0.7340226769447327,
+                "feedId": "Y_a952481b-5929-4b40-83be-f2bc6edf43dd",
+                "locale": "en-us"
+            },
+            {
+                "label": "News",
+                "weight": 0.7340226769447327,
+                "feedId": "Y_9eb0ac10-32bc-43cf-816e-5beaaf524f7a",
+                "locale": "en-us"
+            }
+        ],
+        "cardId": 14,
+        "isWorkNewsContent": false,
+        "workNewsRankingScore": 0.9912327527999878,
+        "reasons": [
+            {
+                "type": "u2U",
+                "rank": 0
+            }
+        ],
+        "ri": "332,347",
+        "recoId": "nnRi-T3wsb6_EezrhZ9h8AhGQu",
+        "newsClusterIdV5": "2255859238",
+        "source": "msn",
+        "dedupeIds": {
+            "newsClusterV5HPHash": [
+                "-2039108058"
+            ],
+            "newsClusterV6Hash": [
+                "-917695375"
+            ],
+            "newsClusterV7Hash": [
+                "-996727799"
+            ],
+            "contentId": [
+                "AA1GsWk8"
+            ]
+        }
+    },
+    {
+        "id": "AA1FM2SE",
+        "type": "video",
+        "title": "Sunken Tech – Scuba Diver Finds Crashed Drone Underwater",
+        "abstract": "While diving in murky waters, I stumbled across a piece of tech that shouldn’t be there—a crashed drone lying silent on the seafloor.",
+        "readTimeMin": 0,
+        "url": "https://www.msn.com/en-us/video/animals/sunken-tech-scuba-diver-finds-crashed-drone-underwater/vi-AA1FM2SE",
+        "locale": "en-us",
+        "isLocalContent": false,
+        "financeMetadata": {
+            "sentimentRatings": [
+                {
+                    "topic": "wf_sentiment_positive",
+                    "score": 1215
+                },
+                {
+                    "topic": "wf_sentiment_negative",
+                    "score": 1835
+                },
+                {
+                    "topic": "wf_sentiment_neutral",
+                    "score": 6949
+                }
+            ]
+        },
+        "publishedDateTime": "2025-05-30T10:48:52Z",
+        "height": 304,
+        "wpoId": 16,
+        "isFeatured": false,
+        "images": [
+            {
+                "width": 1280,
+                "height": 720,
+                "quality": 89,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1FM0W6.img",
+                "attribution": "",
+                "title": "Sunken Tech – Scuba Diver Finds Crashed Drone Underwater",
+                "caption": "While diving in murky waters, I stumbled across a piece of tech that shouldn’t be there—a crashed drone lying silent on the seafloor.",
+                "source": "msn"
+            }
+        ],
+        "provider": {
+            "id": "AA1xIvLy",
+            "name": "DALLMYD",
+            "logoUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1xW4H6.img",
+            "profileId": "vid-tjxtf9ewpa73b2ueqjtuhwdtg33kxh6ygqnj05nmmrv3c6c7947s",
+            "feedAllowedFreeItem": 0
+        },
+        "category": "video",
+        "reactionSummary": {
+            "totalCount": 109,
+            "subReactionSummaries": [
+                {
+                    "totalCount": 93,
+                    "type": "upvote"
+                },
+                {
+                    "totalCount": 16,
+                    "type": "downvote"
+                }
+            ]
+        },
+        "reactionStatus": "on",
+        "commentSummary": {
+            "totalCount": 0
+        },
+        "commentStatus": "on",
+        "relevanceScore": 99.001045,
+        "subscriptionProductType": "undefined",
+        "notificationMetadata": {
+            "isBadgeEnabledPreviewCandidate": false,
+            "lastStateChangeFileTimeUtc": 0
+        },
+        "recoDocMetadata": {
+            "ModelScore": "0.00023892625176813453",
+            "IsAtfHighQualityContent": "1"
+        },
+        "cardRankingMetadata": {
+            "pClick": 0,
+            "pRelevance": 0
+        },
+        "feed": {
+            "lastFreActionTimestamp": 0,
+            "feedCompositionCategory": "1|13"
+        },
+        "topics": [
+            {
+                "label": "Animals",
+                "weight": 0.8600683212280273,
+                "feedId": "Y_89a46d43-3fc1-4ab7-992c-bc5964745ba7",
+                "locale": "en-us"
+            },
+            {
+                "label": "Animal Video",
+                "weight": 0.8600683212280273,
+                "feedId": "Y_9577200c-6364-41e8-bdad-42687eef40c2",
+                "locale": "en-us"
+            },
+            {
+                "label": "Travel news",
+                "weight": 0.25866812467575073,
+                "feedId": "Y_d659302d-5ac4-460a-9baa-8c8684761110",
+                "locale": "en-us"
+            }
+        ],
+        "cardId": 15,
+        "isWorkNewsContent": false,
+        "workNewsRankingScore": 0.8600683212280273,
+        "reasons": [
+            {
+                "type": "interacted",
+                "rank": 0
+            }
+        ],
+        "ri": "281,324,328,345,347",
+        "recoId": "nnRi-T3wsb6_EezrhZ9h8AhGQu",
+        "newsClusterIdV5": "1562404371",
+        "newsClusterIdV6": "56095899",
+        "source": "msn",
+        "videoMetadata": {
+            "playTime": 764,
+            "closedCaptions": [
+                {
+                    "locale": "en-us",
+                    "href": "https://prod-video-cms-amp-microsoft-com.akamaized.net/tenant/amp/entityid/AA1FM2SE?blobrefkey=closedcaptionen-us&$blob=1"
+                }
+            ]
+        },
+        "externalVideoFiles": [
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/f59cbb7d-dbab-4a5d-9aee-308b6ace350f/ccfb6927-7dce-42c1-91b4-c3909c56d9e5.mp4",
+                "width": 1920,
+                "height": 1080,
+                "contentType": "video/mp4",
+                "fileSize": 382739861
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/b1ce93cc-9ddf-4e0d-ada0-ae1649b03e50/375076f8-32c7-461a-914b-d79c59b28467.m3u8",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/b1ce93cc-9ddf-4e0d-ada0-ae1649b03e50/375076f8-32c7-461a-914b-d79c59b28467.m3u8",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/b1ce93cc-9ddf-4e0d-ada0-ae1649b03e50/375076f8-32c7-461a-914b-d79c59b28467.mpd",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/b1ce93cc-9ddf-4e0d-ada0-ae1649b03e50/375076f8-32c7-461a-914b-d79c59b28467_6750.mp4",
+                "width": 1920,
+                "height": 1080,
+                "contentType": "video/mp4",
+                "fileSize": 632777480
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/b1ce93cc-9ddf-4e0d-ada0-ae1649b03e50/375076f8-32c7-461a-914b-d79c59b28467_3400.mp4",
+                "width": 1280,
+                "height": 720,
+                "contentType": "video/mp4",
+                "fileSize": 324154919
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/b1ce93cc-9ddf-4e0d-ada0-ae1649b03e50/375076f8-32c7-461a-914b-d79c59b28467_2250.mp4",
+                "width": 960,
+                "height": 540,
+                "contentType": "video/mp4",
+                "fileSize": 217708071
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/b1ce93cc-9ddf-4e0d-ada0-ae1649b03e50/375076f8-32c7-461a-914b-d79c59b28467_1500.mp4",
+                "width": 960,
+                "height": 540,
+                "contentType": "video/mp4",
+                "fileSize": 149732601
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/b1ce93cc-9ddf-4e0d-ada0-ae1649b03e50/375076f8-32c7-461a-914b-d79c59b28467_650.mp4",
+                "width": 640,
+                "height": 360,
+                "contentType": "video/mp4",
+                "fileSize": 71229445
+            }
+        ],
+        "dedupeIds": {
+            "newsClusterV5HPHash": [
+                "1562404371"
+            ],
+            "newsClusterV6Hash": [
+                "56095899"
+            ],
+            "newsClusterV7Hash": [
+                "399100988"
+            ],
+            "contentId": [
+                "AA1FM2SE"
+            ]
+        }
+    },
+    {
+        "id": "AA1FVZuB",
+        "type": "article",
+        "title": "Scientists Found 6,000-Year-Old Human Remains. No Other People Share Their DNA.",
+        "abstract": "If they have no ancestors or descendants, then who are they?",
+        "readTimeMin": 4,
+        "url": "https://www.msn.com/en-us/news/technology/scientists-found-6-000-year-old-human-remains-no-other-people-share-their-dna/ar-AA1FVZuB",
+        "locale": "en-us",
+        "isLocalContent": false,
+        "financeMetadata": {
+            "sentimentRatings": [
+                {
+                    "topic": "wf_sentiment_positive",
+                    "score": 7058
+                },
+                {
+                    "topic": "wf_sentiment_negative",
+                    "score": 328
+                },
+                {
+                    "topic": "wf_sentiment_neutral",
+                    "score": 2612
+                }
+            ]
+        },
+        "publishedDateTime": "2025-06-02T13:30:00Z",
+        "height": 304,
+        "wpoId": 17,
+        "isFeatured": false,
+        "images": [
+            {
+                "width": 1200,
+                "height": 600,
+                "quality": 79,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1FVQ70.img",
+                "attribution": "Yuichiro Chino - Getty Images",
+                "title": "Experts Found Human Remains With No Relatives",
+                "caption": "If they have no ancestors or descendants, then who are they?",
+                "focalRegion": {
+                    "x1": 360,
+                    "x2": 690,
+                    "y1": 220,
+                    "y2": 511
+                },
+                "source": "msn"
+            }
+        ],
+        "provider": {
+            "id": "AA2JLGB",
+            "name": "Popular Mechanics",
+            "logoUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1rYdYW.img",
+            "profileId": "vid-vyytdds6ahhmqhjvejygrvk3qw46e34g8nhci3vr0yd7a9bdubua",
+            "lightThemeSVGLogo": {
+                "width": 45,
+                "height": 12,
+                "url": "https://cdn.query.prod.cms.msn.com/cms/api/amp/binary/AA13gF7i"
+            },
+            "darkThemeSVGLogo": {
+                "width": 45,
+                "height": 12,
+                "url": "https://cdn.query.prod.cms.msn.com/cms/api/amp/binary/AA13gF7i-dark"
+            },
+            "feedAllowedFreeItem": 0
+        },
+        "category": "news",
+        "reactionSummary": {
+            "totalCount": 2507,
+            "subReactionSummaries": [
+                {
+                    "totalCount": 2036,
+                    "type": "upvote"
+                },
+                {
+                    "totalCount": 470,
+                    "type": "downvote"
+                },
+                {
+                    "totalCount": 1,
+                    "type": "like"
+                }
+            ]
+        },
+        "reactionStatus": "on",
+        "commentSummary": {
+            "totalCount": 189,
+            "subCommentSummaries": [
+                {
+                    "totalCount": 113,
+                    "type": "comment"
+                },
+                {
+                    "totalCount": 76,
+                    "type": "reply"
+                }
+            ]
+        },
+        "commentStatus": "on",
+        "relevanceScore": 98.001045,
+        "subscriptionProductType": "undefined",
+        "notificationMetadata": {
+            "isBadgeEnabledPreviewCandidate": false,
+            "lastStateChangeFileTimeUtc": 0
+        },
+        "recoDocMetadata": {
+            "ModelScore": "4.915328463539481E-05",
+            "IsAtfHighQualityContent": "1"
+        },
+        "cardRankingMetadata": {
+            "pClick": 0,
+            "pRelevance": 0
+        },
+        "feed": {
+            "lastFreActionTimestamp": 0,
+            "feedCompositionCategory": "1"
+        },
+        "topics": [
+            {
+                "label": "Science",
+                "weight": 1,
+                "feedId": "Y_3304d105-5132-427d-b027-2f472f2fac07",
+                "locale": "en-us"
+            },
+            {
+                "label": "Technology",
+                "weight": 1,
+                "feedId": "Y_d1cad308-780e-4a75-ba34-6460811ccfe3",
+                "locale": "en-us"
+            },
+            {
+                "label": "News",
+                "weight": 0.8820139169692993,
+                "feedId": "Y_9eb0ac10-32bc-43cf-816e-5beaaf524f7a",
+                "locale": "en-us"
+            }
+        ],
+        "cardId": 16,
+        "isWorkNewsContent": false,
+        "workNewsRankingScore": 0.8820139169692993,
+        "reasons": [
+            {
+                "type": "fallback",
+                "rank": 0
+            }
+        ],
+        "ri": "508",
+        "recoId": "nnRi-T3wsb6_EezrhZ9h8AhGQu",
+        "newsClusterIdV5": "3583836732",
+        "newsClusterIdV6": "297045612",
+        "source": "msn",
+        "dedupeIds": {
+            "newsClusterV5HPHash": [
+                "-711130564"
+            ],
+            "newsClusterV6Hash": [
+                "297045612"
+            ],
+            "newsClusterV7Hash": [
+                "1897625251"
+            ],
+            "contentId": [
+                "AA1FVZuB"
+            ]
+        }
+    },
+    {
+        "id": "AA1Dur25",
+        "type": "slideshow",
+        "title": "NOAA Discovers Mysterious Vintage Car Inside WWII Aircraft Carrier",
+        "abstract": "NOAA explorers using remotely operated vehicles have discovered what appears to be a 1940-41 Ford Super Deluxe \"Woody\" inside the USS Yorktown, a World War II aircraft carrier that sank during the Battle of Midway in 1942.",
+        "readTimeMin": 0,
+        "url": "https://www.msn.com/en-us/news/us/noaa-discovers-mysterious-vintage-car-inside-wwii-aircraft-carrier/ss-AA1Dur25",
+        "locale": "en-us",
+        "isLocalContent": false,
+        "galleryItemCount": 4,
+        "financeMetadata": {
+            "sentimentRatings": [
+                {
+                    "topic": "wf_sentiment_positive",
+                    "score": 8553
+                },
+                {
+                    "topic": "wf_sentiment_negative",
+                    "score": 63
+                },
+                {
+                    "topic": "wf_sentiment_neutral",
+                    "score": 1382
+                }
+            ]
+        },
+        "slides": [
+            {
+                "title": "",
+                "body": "<p>In April 2025, <a href=\"https://oceanexplorer.noaa.gov/okeanos/explorations/okeanos-beyond-the-blue/ex2503/features/exploring-yorktown.html\" rel=\"noopener\">NOAA explorers</a> made a remarkable discovery while investigating the wreck of the USS Yorktown, a World War II aircraft carrier that sank during the Battle of Midway in 1942. Using remotely operated vehicles (ROVs), researchers uncovered something completely unexpected inside the ship’s hangar deck – what appears to be a vintage civilian automobile. This presentation walks through the history of the USS Yorktown, its significance in World War II, and the mysterious car that has remained hidden beneath the Pacific Ocean for over 80 years.</p>",
+                "image": {
+                    "width": 1280,
+                    "height": 720,
+                    "quality": 99,
+                    "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1DumjG.img",
+                    "title": "NOAA Discovers Mysterious Vintage Car Inside WWII Aircraft Carrier",
+                    "caption": "<p>In April 2025, <a href=\"https://oceanexplorer.noaa.gov/okeanos/explorations/okeanos-beyond-the-blue/ex2503/features/exploring-yorktown.html\" rel=\"noopener\">NOAA explorers</a> made a remarkable discovery while investigating the wreck of the USS Yorktown, a World War II aircraft carrier that sank during the Battle of Midway in 1942. Using remotely operated vehicles (ROVs), researchers uncovered something completely unexpected inside the ship’s hangar deck – what appears to be a vintage civilian automobile. This presentation walks through the history of the USS Yorktown, its significance in World War II, and the mysterious car that has remained hidden beneath the Pacific Ocean for over 80 years.</p>",
+                    "source": "msn"
+                }
+            },
+            {
+                "title": "The Legendary USS Yorktown",
+                "body": "<p>The <a href=\"https://en.wikipedia.org/wiki/USS_Yorktown_(CV-5)\" rel=\"noopener\">USS Yorktown (CV-5)</a> was a formidable aircraft carrier commissioned in 1937 at Naval Operating Base Norfolk, Virginia. This impressive vessel stretched 809 feet in length and could carry approximately 2,200 personnel along with up to 90 aircraft. The Yorktown played a crucial role in multiple World War II operations and earned three battle stars for its service.</p> <p>Most notably, the carrier was instrumental in the Battle of Midway, where its bombers delivered the decisive blow that sank the Japanese aircraft carrier Soryu. Despite initially withstanding severe damage from enemy attacks, the USS Yorktown ultimately succumbed to torpedoes from the Japanese submarine I-168 on June 7, 1942, sinking to the ocean floor approximately 1,000 miles northwest of Honolulu.</p> <p>The Battle of Midway in June 1942 marked a pivotal moment in World War II, occurring just six months after Japan attacked Pearl Harbor. During this decisive naval engagement, the USS Yorktown sustained heavy damage but continued fighting. While navigating the Pacific waters, Japanese submarine I-168 struck the vessel twice on the starboard side, causing it to capsize and sink on the morning of June 7.</p> <p>The shipwreck remained lost for decades until 1998, when renowned American Navy officer and explorer Robert Ballard finally located it on the ocean floor. Since then, the wreck has been documented several times, most recently in 2023 by the Ocean Exploration Trust and again in April 2025 during NOAA’s current expedition.</p>",
+                "image": {
+                    "width": 1280,
+                    "height": 989,
+                    "quality": 91,
+                    "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1DumjK.img",
+                    "attribution": " Image: NOAA ",
+                    "title": "The Legendary USS Yorktown",
+                    "caption": "<p>The <a href=\"https://en.wikipedia.org/wiki/USS_Yorktown_(CV-5)\" rel=\"noopener\">USS Yorktown (CV-5)</a> was a formidable aircraft carrier commissioned in 1937 at Naval Operating Base Norfolk, Virginia. This impressive vessel stretched 809 feet in length and could carry approximately 2,200 personnel along with up to 90 aircraft. The Yorktown played a crucial role in multiple World War II operations and earned three battle stars for its service.</p> <p>Most notably, the carrier was instrumental in the Battle of Midway, where its bombers delivered the decisive blow that sank the Japanese aircraft carrier Soryu. Despite initially withstanding severe damage from enemy attacks, the USS Yorktown ultimately succumbed to torpedoes from the Japanese submarine I-168 on June 7, 1942, sinking to the ocean floor approximately 1,000 miles northwest of Honolulu.</p> <p>The Battle of Midway in June 1942 marked a pivotal moment in World War II, occurring just six months after Japan attacked Pearl Harbor. During this decisive naval engagement, the USS Yorktown sustained heavy damage but continued fighting. While navigating the Pacific waters, Japanese submarine I-168 struck the vessel twice on the starboard side, causing it to capsize and sink on the morning of June 7.</p> <p>The shipwreck remained lost for decades until 1998, when renowned American Navy officer and explorer Robert Ballard finally located it on the ocean floor. Since then, the wreck has been documented several times, most recently in 2023 by the Ocean Exploration Trust and again in April 2025 during NOAA’s current expedition.</p>",
+                    "source": "msn"
+                }
+            },
+            {
+                "title": "The Unexpected Discovery",
+                "body": "<p>During NOAA’s April 2025 expedition aboard the research vessel Okeanos Explorer, ROV operators made a stunning discovery while navigating through the wreck’s interior. After entering the number three elevator shaft and looking forward, they spotted what appeared to be a vintage automobile with distinctive features: a square back, curved fenders, and remnants of a shredded soft top. Most notably, flashes of chrome on the bumper and fender caught their attention – details considered unusual for standard military equipment.</p> <p>Based on these observations, NOAA researchers believe the vehicle might be a 1940-41 Ford Super Deluxe “Woody,” a wood-bodied civilian vehicle that seems strangely out of place aboard a warship. This unexpected find has sparked considerable interest and speculation among historians and automotive enthusiasts.</p> <p>How did a civilian vehicle end up inside a military aircraft carrier that sank during one of World War II’s most significant naval battles? NOAA researchers have proposed several intriguing theories:</p> <p>One hypothesis suggests the car might have been the personal or flag vehicle of Rear Admiral Frank Fletcher, who commanded the USS Yorktown during the Battle of Midway. Such vehicles were sometimes transported aboard larger naval vessels for use when commanders went ashore.</p> <p>Alternatively, the car may have been brought aboard for quick repairs after sustaining damage during the Battle of the Coral Sea, which had occurred just a month before Midway. Ships with mechanical facilities sometimes assisted with unexpected repair needs during wartime operations.</p>",
+                "image": {
+                    "width": 800,
+                    "height": 450,
+                    "quality": 91,
+                    "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1DujOk.img",
+                    "attribution": " Image: NOAA ",
+                    "title": "The Unexpected Discovery",
+                    "caption": "<p>During NOAA’s April 2025 expedition aboard the research vessel Okeanos Explorer, ROV operators made a stunning discovery while navigating through the wreck’s interior. After entering the number three elevator shaft and looking forward, they spotted what appeared to be a vintage automobile with distinctive features: a square back, curved fenders, and remnants of a shredded soft top. Most notably, flashes of chrome on the bumper and fender caught their attention – details considered unusual for standard military equipment.</p> <p>Based on these observations, NOAA researchers believe the vehicle might be a 1940-41 Ford Super Deluxe “Woody,” a wood-bodied civilian vehicle that seems strangely out of place aboard a warship. This unexpected find has sparked considerable interest and speculation among historians and automotive enthusiasts.</p> <p>How did a civilian vehicle end up inside a military aircraft carrier that sank during one of World War II’s most significant naval battles? NOAA researchers have proposed several intriguing theories:</p> <p>One hypothesis suggests the car might have been the personal or flag vehicle of Rear Admiral Frank Fletcher, who commanded the USS Yorktown during the Battle of Midway. Such vehicles were sometimes transported aboard larger naval vessels for use when commanders went ashore.</p> <p>Alternatively, the car may have been brought aboard for quick repairs after sustaining damage during the Battle of the Coral Sea, which had occurred just a month before Midway. Ships with mechanical facilities sometimes assisted with unexpected repair needs during wartime operations.</p>",
+                    "source": "msn"
+                }
+            }
+        ],
+        "publishedDateTime": "2025-04-23T21:00:00Z",
+        "height": 304,
+        "wpoId": 18,
+        "isFeatured": false,
+        "images": [
+            {
+                "width": 1280,
+                "height": 720,
+                "quality": 99,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1DumjG.img",
+                "title": "NOAA Discovers Mysterious Vintage Car Inside WWII Aircraft Carrier",
+                "caption": "<p>In April 2025, <a href=\"https://oceanexplorer.noaa.gov/okeanos/explorations/okeanos-beyond-the-blue/ex2503/features/exploring-yorktown.html\" rel=\"noopener\">NOAA explorers</a> made a remarkable discovery while investigating the wreck of the USS Yorktown, a World War II aircraft carrier that sank during the Battle of Midway in 1942. Using remotely operated vehicles (ROVs), researchers uncovered something completely unexpected inside the ship’s hangar deck – what appears to be a vintage civilian automobile. This presentation walks through the history of the USS Yorktown, its significance in World War II, and the mysterious car that has remained hidden beneath the Pacific Ocean for over 80 years.</p>",
+                "source": "msn"
+            },
+            {
+                "width": 1280,
+                "height": 989,
+                "quality": 91,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1DumjK.img",
+                "attribution": " Image: NOAA ",
+                "title": "The Legendary USS Yorktown",
+                "caption": "<p>The <a href=\"https://en.wikipedia.org/wiki/USS_Yorktown_(CV-5)\" rel=\"noopener\">USS Yorktown (CV-5)</a> was a formidable aircraft carrier commissioned in 1937 at Naval Operating Base Norfolk, Virginia. This impressive vessel stretched 809 feet in length and could carry approximately 2,200 personnel along with up to 90 aircraft. The Yorktown played a crucial role in multiple World War II operations and earned three battle stars for its service.</p> <p>Most notably, the carrier was instrumental in the Battle of Midway, where its bombers delivered the decisive blow that sank the Japanese aircraft carrier Soryu. Despite initially withstanding severe damage from enemy attacks, the USS Yorktown ultimately succumbed to torpedoes from the Japanese submarine I-168 on June 7, 1942, sinking to the ocean floor approximately 1,000 miles northwest of Honolulu.</p> <p>The Battle of Midway in June 1942 marked a pivotal moment in World War II, occurring just six months after Japan attacked Pearl Harbor. During this decisive naval engagement, the USS Yorktown sustained heavy damage but continued fighting. While navigating the Pacific waters, Japanese submarine I-168 struck the vessel twice on the starboard side, causing it to capsize and sink on the morning of June 7.</p> <p>The shipwreck remained lost for decades until 1998, when renowned American Navy officer and explorer Robert Ballard finally located it on the ocean floor. Since then, the wreck has been documented several times, most recently in 2023 by the Ocean Exploration Trust and again in April 2025 during NOAA’s current expedition.</p>",
+                "source": "msn"
+            },
+            {
+                "width": 800,
+                "height": 450,
+                "quality": 91,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1DujOk.img",
+                "attribution": " Image: NOAA ",
+                "title": "The Unexpected Discovery",
+                "caption": "<p>During NOAA’s April 2025 expedition aboard the research vessel Okeanos Explorer, ROV operators made a stunning discovery while navigating through the wreck’s interior. After entering the number three elevator shaft and looking forward, they spotted what appeared to be a vintage automobile with distinctive features: a square back, curved fenders, and remnants of a shredded soft top. Most notably, flashes of chrome on the bumper and fender caught their attention – details considered unusual for standard military equipment.</p> <p>Based on these observations, NOAA researchers believe the vehicle might be a 1940-41 Ford Super Deluxe “Woody,” a wood-bodied civilian vehicle that seems strangely out of place aboard a warship. This unexpected find has sparked considerable interest and speculation among historians and automotive enthusiasts.</p> <p>How did a civilian vehicle end up inside a military aircraft carrier that sank during one of World War II’s most significant naval battles? NOAA researchers have proposed several intriguing theories:</p> <p>One hypothesis suggests the car might have been the personal or flag vehicle of Rear Admiral Frank Fletcher, who commanded the USS Yorktown during the Battle of Midway. Such vehicles were sometimes transported aboard larger naval vessels for use when commanders went ashore.</p> <p>Alternatively, the car may have been brought aboard for quick repairs after sustaining damage during the Battle of the Coral Sea, which had occurred just a month before Midway. Ships with mechanical facilities sometimes assisted with unexpected repair needs during wartime operations.</p>",
+                "source": "msn"
+            },
+            {
+                "width": 1600,
+                "height": 900,
+                "quality": 99,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1DujOr.img",
+                "attribution": " Image: NOAA ",
+                "title": "Preserving Maritime History",
+                "caption": "<p>NOAA is now seeking help from the public, particularly automotive experts and enthusiasts, to confirm the vehicle’s identity. During the livestreamed exploration, one ROV operator made a <a href=\"https://interestingengineering.com/culture/noaa-spots-mystery-car-inside-wwii-carrier-uss-yorktown-shipwreck\" rel=\"noopener\">direct appeal</a>: “Here’s an open request to all your automobile vehicle folks out there. I’m sure you are being attentive to this and you understand what you are looking at. Please post on this. It helps.”</p> <p>If verified, this discovery could provide a deeply personal connection to one of America’s most famous naval losses, linking the strategic decisions of a fleet commander to a sunken car that has remained hidden from daylight for over eight decades.</p> <p>The current expedition, named “<a href=\"https://oceanexplorer.noaa.gov/okeanos/explorations/okeanos-beyond-the-blue/ex2503/welcome.html\" rel=\"noopener\">Beyond the Blue</a>: Papahānaumokuākea ROV and Mapping,” continues throughout April and May 2025. NOAA teams are conducting further dives in the monument’s deep waters, with each exploration offering new insights into both the natural ecosystems and historical artifacts preserved beneath the Pacific Ocean.</p> <p>The USS Yorktown wreck site represents just one of many fascinating locations being studied during this comprehensive scientific mission. As exploration technologies continue to advance, researchers anticipate making additional discoveries that may further enhance our understanding of naval history and the legacy of World War II in the Pacific.</p> <p>Discoveries like the mystery car inside the USS Yorktown highlight the importance of continued marine exploration and historical preservation efforts. <a href=\"https://www.gadgetreview.com/15-most-mysterious-shipwrecks-that-hid-priceless-historical-treasures\">Many Mysterious Shipwrecks</a> have hidden valuable treasures, and exploring these wrecks not only uncovers rare artifacts but also brings us closer to understanding significant historical events.</p> <p>As NOAA’s expedition continues, the story of the USS Yorktown and its unexpected automotive passenger serves as a reminder that history often reveals itself in surprising and meaningful ways. Through careful documentation and collaborative research, we can ensure these underwater time capsules continue to share their stories with future generations.</p>",
+                "source": "msn"
+            }
+        ],
+        "provider": {
+            "id": "BB1iF0jz",
+            "name": "Gadget Review",
+            "logoUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1iM9jE.img",
+            "profileId": "vid-ddegt7yxwmqawwmfct9tvwvr8sg9rc5ymubh03gfwaabrmemjd0a",
+            "feedAllowedFreeItem": 0
+        },
+        "category": "news",
+        "reactionSummary": {
+            "totalCount": 154,
+            "subReactionSummaries": [
+                {
+                    "totalCount": 132,
+                    "type": "upvote"
+                },
+                {
+                    "totalCount": 22,
+                    "type": "downvote"
+                }
+            ]
+        },
+        "reactionStatus": "on",
+        "commentSummary": {
+            "totalCount": 9,
+            "subCommentSummaries": [
+                {
+                    "totalCount": 5,
+                    "type": "comment"
+                },
+                {
+                    "totalCount": 4,
+                    "type": "reply"
+                }
+            ]
+        },
+        "commentStatus": "on",
+        "relevanceScore": 97.001045,
+        "subscriptionProductType": "undefined",
+        "notificationMetadata": {
+            "isBadgeEnabledPreviewCandidate": false,
+            "lastStateChangeFileTimeUtc": 0
+        },
+        "recoDocMetadata": {
+            "ModelScore": "0.0001922020601341501",
+            "IsAtfHighQualityContent": "1"
+        },
+        "cardRankingMetadata": {
+            "pClick": 0,
+            "pRelevance": 0
+        },
+        "feed": {
+            "lastFreActionTimestamp": 0,
+            "feedCompositionCategory": "1"
+        },
+        "topics": [
+            {
+                "label": "News",
+                "weight": 0.9193739295005798,
+                "feedId": "Y_9eb0ac10-32bc-43cf-816e-5beaaf524f7a",
+                "locale": "en-us"
+            },
+            {
+                "label": "US",
+                "weight": 0.9193739295005798,
+                "feedId": "Y_a3b33cc2-2c47-48ba-a975-4b87b597644b",
+                "locale": "en-us"
+            }
+        ],
+        "cardId": 17,
+        "isWorkNewsContent": false,
+        "workNewsRankingScore": 0.7047675251960754,
+        "reasons": [
+            {
+                "type": "interacted",
+                "rank": 0
+            }
+        ],
+        "ri": "324",
+        "recoId": "nnRi-T3wsb6_EezrhZ9h8AhGQu",
+        "newsClusterIdV5": "2137162523",
+        "newsClusterIdV6": "381136396",
+        "source": "msn",
+        "dedupeIds": {
+            "newsClusterV5HPHash": [
+                "2137162523"
+            ],
+            "newsClusterV6Hash": [
+                "381136396"
+            ],
+            "newsClusterV7Hash": [
+                "1501850333"
+            ],
+            "contentId": [
+                "AA1Dur25"
+            ]
+        }
+    },
+    {
+        "id": "AA1GoKYT",
+        "type": "video",
+        "title": "Thorough Exploration Of The Tunnels At The Serapeum At Saqqara In Egypt",
+        "abstract": "Ancient Lost Worlds and Hidden History. On location videos made by author and adventurer Brien Foerster exploring Peru, Bolivia, Egypt, Hawaii, Easter Island and other exotic places. With special emphasis on evidence that advanced technology and human history are at least 10,000 years old.",
+        "readTimeMin": 0,
+        "url": "https://www.msn.com/en-us/video/peopleandplaces/thorough-exploration-of-the-tunnels-at-the-serapeum-at-saqqara-in-egypt/vi-AA1GoKYT",
+        "locale": "en-us",
+        "isLocalContent": false,
+        "financeMetadata": {
+            "sentimentRatings": [
+                {
+                    "topic": "wf_sentiment_positive",
+                    "score": 6336
+                },
+                {
+                    "topic": "wf_sentiment_negative",
+                    "score": 135
+                },
+                {
+                    "topic": "wf_sentiment_neutral",
+                    "score": 3527
+                }
+            ]
+        },
+        "publishedDateTime": "2025-06-10T02:15:06Z",
+        "height": 304,
+        "wpoId": 19,
+        "isFeatured": false,
+        "images": [
+            {
+                "width": 1280,
+                "height": 720,
+                "quality": 88,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1GoFKK.img",
+                "attribution": "",
+                "title": "Thorough Exploration Of The Tunnels At The Serapeum At Saqqara In Egypt",
+                "caption": "Ancient Lost Worlds and Hidden History. On location videos made by author and adventurer Brien Foerster exploring Peru, Bolivia, Egypt, Hawaii, Easter Island and other exotic places. With special emphasis on evidence that advanced technology and human history are at least 10,000 years old.",
+                "source": "msn"
+            }
+        ],
+        "provider": {
+            "id": "BB1qfQ3o",
+            "name": "Brien Foerster",
+            "logoUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1t5doA.img",
+            "profileId": "vid-f5xx5ixub00urchdkam48eq0y9gbmrqshn7v4kxjphu53se6gwus",
+            "feedAllowedFreeItem": 0
+        },
+        "category": "video",
+        "reactionSummary": {
+            "totalCount": 56,
+            "subReactionSummaries": [
+                {
+                    "totalCount": 55,
+                    "type": "upvote"
+                },
+                {
+                    "totalCount": 1,
+                    "type": "downvote"
+                }
+            ]
+        },
+        "reactionStatus": "on",
+        "commentSummary": {
+            "totalCount": 0
+        },
+        "commentStatus": "on",
+        "relevanceScore": 96.001045,
+        "subscriptionProductType": "undefined",
+        "notificationMetadata": {
+            "isBadgeEnabledPreviewCandidate": false,
+            "lastStateChangeFileTimeUtc": 0
+        },
+        "recoDocMetadata": {
+            "ModelScore": "0.0002451299806125462",
+            "IsAtfHighQualityContent": "1"
+        },
+        "cardRankingMetadata": {
+            "pClick": 0,
+            "pRelevance": 0
+        },
+        "feed": {
+            "lastFreActionTimestamp": 0,
+            "feedCompositionCategory": "1|13"
+        },
+        "topics": [
+            {
+                "label": "Travel news",
+                "weight": 0.32831764221191406,
+                "feedId": "Y_d659302d-5ac4-460a-9baa-8c8684761110",
+                "locale": "en-us"
+            }
+        ],
+        "cardId": 18,
+        "isWorkNewsContent": false,
+        "workNewsRankingScore": 0.5198184847831726,
+        "reasons": [
+            {
+                "type": "fallback",
+                "rank": 0
+            }
+        ],
+        "ri": "347",
+        "recoId": "nnRi-T3wsb6_EezrhZ9h8AhGQu",
+        "newsClusterIdV6": "1581219966",
+        "source": "msn",
+        "videoMetadata": {
+            "playTime": 1302,
+            "closedCaptions": [
+                {
+                    "locale": "en-us",
+                    "href": "https://prod-video-cms-amp-microsoft-com.akamaized.net/tenant/amp/entityid/AA1GoKYT?blobrefkey=closedcaptionen-us&$blob=1"
+                }
+            ]
+        },
+        "externalVideoFiles": [
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus005/adba5c46-eb7e-4c70-abdf-8532866f688d/04029f56-38f8-4a95-889a-d0db1f07fbd6.mp4",
+                "width": 1280,
+                "height": 720,
+                "contentType": "video/mp4",
+                "fileSize": 92023729
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus005/4c33013c-a9c7-499b-b7d4-b84d29a49e4b/b4fe77bc-821c-4591-b3b9-378b340f3770.m3u8",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus005/4c33013c-a9c7-499b-b7d4-b84d29a49e4b/b4fe77bc-821c-4591-b3b9-378b340f3770.m3u8",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus005/4c33013c-a9c7-499b-b7d4-b84d29a49e4b/b4fe77bc-821c-4591-b3b9-378b340f3770.mpd",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus005/4c33013c-a9c7-499b-b7d4-b84d29a49e4b/b4fe77bc-821c-4591-b3b9-378b340f3770_3400.mp4",
+                "width": 1280,
+                "height": 720,
+                "contentType": "video/mp4",
+                "fileSize": 549033542
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus005/4c33013c-a9c7-499b-b7d4-b84d29a49e4b/b4fe77bc-821c-4591-b3b9-378b340f3770_2250.mp4",
+                "width": 960,
+                "height": 540,
+                "contentType": "video/mp4",
+                "fileSize": 375034432
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus005/4c33013c-a9c7-499b-b7d4-b84d29a49e4b/b4fe77bc-821c-4591-b3b9-378b340f3770_1500.mp4",
+                "width": 960,
+                "height": 540,
+                "contentType": "video/mp4",
+                "fileSize": 256171064
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus005/4c33013c-a9c7-499b-b7d4-b84d29a49e4b/b4fe77bc-821c-4591-b3b9-378b340f3770_650.mp4",
+                "width": 640,
+                "height": 360,
+                "contentType": "video/mp4",
+                "fileSize": 120650252
+            }
+        ],
+        "dedupeIds": {
+            "newsClusterV5HPHash": [
+                "814728233"
+            ],
+            "newsClusterV6Hash": [
+                "1581219966"
+            ],
+            "newsClusterV7Hash": [
+                "-1590241598"
+            ],
+            "contentId": [
+                "AA1GoKYT"
+            ]
+        }
+    },
+    {
+        "id": "AA1GslD1",
+        "type": "slideshow",
+        "title": "Trump Suffers Blow — Lawsuit for Noncitizens Proceeds",
+        "abstract": "Trump Suffers Blow — Lawsuit for Noncitizens Proceeds",
+        "readTimeMin": 0,
+        "url": "https://www.msn.com/en-us/news/politics/trump-suffers-blow-lawsuit-for-noncitizens-proceeds/ss-AA1GslD1",
+        "locale": "en-us",
+        "isLocalContent": false,
+        "galleryItemCount": 7,
+        "financeMetadata": {
+            "sentimentRatings": [
+                {
+                    "topic": "wf_sentiment_positive",
+                    "score": 257
+                },
+                {
+                    "topic": "wf_sentiment_negative",
+                    "score": 9704
+                },
+                {
+                    "topic": "wf_sentiment_neutral",
+                    "score": 38
+                }
+            ]
+        },
+        "slides": [
+            {
+                "title": "President Donald Trump on stage speaking to supporters",
+                "body": "President Donald Trump has been accused of retaliatory immigration policies targeting foreign student protesters engaged in anti-Israel activism. U.S. District Judge William Young has overseen a lawsuit filed by academic groups to determine whether the administration’s actions constitute political suppression. The trial is reportedly examining whether the Department of Homeland Security has aimed to limit dissent. On June 2, a federal judge denied the Trump administration’s motion to avoid a trial, keeping the case on track for July 7.",
+                "image": {
+                    "width": 900,
+                    "height": 566,
+                    "quality": 94,
+                    "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1GslCG.img",
+                    "attribution": "IMAGN",
+                    "title": "President Donald Trump on stage speaking to supporters",
+                    "caption": "President Donald Trump has been accused of retaliatory immigration policies targeting foreign student protesters engaged in anti-Israel activism. U.S. District Judge William Young has overseen a lawsuit filed by academic groups to determine whether the administration’s actions constitute political suppression. The trial is reportedly examining whether the Department of Homeland Security has aimed to limit dissent. On June 2, a federal judge denied the Trump administration’s motion to avoid a trial, keeping the case on track for July 7.",
+                    "focalRegion": {
+                        "x1": 421,
+                        "x2": 481,
+                        "y1": 189,
+                        "y2": 249
+                    },
+                    "source": "msn"
+                }
+            },
+            {
+                "title": "Donald Trump before a campaign rally",
+                "body": "Young said, “What’s in the administrative record is a reference to regulations which say that the conduct, unspecified ... embarrasses the foreign policy of the United States.”",
+                "image": {
+                    "width": 1496,
+                    "height": 2052,
+                    "quality": 94,
+                    "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1Gsej4.img",
+                    "attribution": "IMAGN",
+                    "title": "Donald Trump before a campaign rally",
+                    "caption": "Young said, “What’s in the administrative record is a reference to regulations which say that the conduct, unspecified ... embarrasses the foreign policy of the United States.”",
+                    "source": "msn"
+                }
+            },
+            {
+                "title": "Donald Trump in Albuquerque, New Mexico",
+                "body": "The lawsuit centers on 8 U.S.C. § 1227(a)(4)(C), which permits the removal of noncitizens considered detrimental to U.S. foreign policy. Officials have invoked the provision, including Secretary of State Marco Rubio (R-FL) and Secretary of Homeland Security Kristi Noem.",
+                "image": {
+                    "width": 750,
+                    "height": 500,
+                    "quality": 94,
+                    "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1Gs9o2.img",
+                    "attribution": "IMAGN",
+                    "title": "Donald Trump in Albuquerque, New Mexico",
+                    "caption": "The lawsuit centers on 8 U.S.C. § 1227(a)(4)(C), which permits the removal of noncitizens considered detrimental to U.S. foreign policy. Officials have invoked the provision, including Secretary of State Marco Rubio (R-FL) and Secretary of Homeland Security Kristi Noem.",
+                    "source": "msn"
+                }
+            }
+        ],
+        "publishedDateTime": "2025-06-10T18:37:29Z",
+        "height": 304,
+        "wpoId": 20,
+        "isFeatured": false,
+        "images": [
+            {
+                "width": 900,
+                "height": 566,
+                "quality": 94,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1GslCG.img",
+                "attribution": "IMAGN",
+                "title": "President Donald Trump on stage speaking to supporters",
+                "caption": "President Donald Trump has been accused of retaliatory immigration policies targeting foreign student protesters engaged in anti-Israel activism. U.S. District Judge William Young has overseen a lawsuit filed by academic groups to determine whether the administration’s actions constitute political suppression. The trial is reportedly examining whether the Department of Homeland Security has aimed to limit dissent. On June 2, a federal judge denied the Trump administration’s motion to avoid a trial, keeping the case on track for July 7.",
+                "focalRegion": {
+                    "x1": 421,
+                    "x2": 481,
+                    "y1": 189,
+                    "y2": 249
+                },
+                "source": "msn"
+            },
+            {
+                "width": 1496,
+                "height": 2052,
+                "quality": 94,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1Gsej4.img",
+                "attribution": "IMAGN",
+                "title": "Donald Trump before a campaign rally",
+                "caption": "Young said, “What’s in the administrative record is a reference to regulations which say that the conduct, unspecified ... embarrasses the foreign policy of the United States.”",
+                "source": "msn"
+            },
+            {
+                "width": 750,
+                "height": 500,
+                "quality": 94,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1Gs9o2.img",
+                "attribution": "IMAGN",
+                "title": "Donald Trump in Albuquerque, New Mexico",
+                "caption": "The lawsuit centers on 8 U.S.C. § 1227(a)(4)(C), which permits the removal of noncitizens considered detrimental to U.S. foreign policy. Officials have invoked the provision, including Secretary of State Marco Rubio (R-FL) and Secretary of Homeland Security Kristi Noem.",
+                "source": "msn"
+            },
+            {
+                "width": 512,
+                "height": 341,
+                "quality": 94,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1Gseja.img",
+                "attribution": "IMAGN",
+                "title": "Marco Rubio speaks at a rally",
+                "caption": "Plaintiffs have linked several arrests to efforts intended to intimidate foreign individuals and suppress political expression on college campuses. Among those arrested is Rumeysa Ozturk, a Turkish doctoral student detained after publishing a pro-Palestinian op-ed.",
+                "focalRegion": {
+                    "x1": 178,
+                    "x2": 297,
+                    "y1": 59,
+                    "y2": 178
+                },
+                "source": "msn"
+            }
+        ],
+        "provider": {
+            "id": "BBMBrv1",
+            "name": "The (Raleigh) News & Observer",
+            "logoUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1o3iRY.img",
+            "profileId": "vid-tgtdq2a42jg6whhenpxwhjrh8knsqkmg4j4007bsdikd6788c7ps",
+            "lightThemeSVGLogo": {
+                "width": 97,
+                "height": 12,
+                "url": "https://cdn.query.prod.cms.msn.com/cms/api/amp/binary/AA13glth"
+            },
+            "darkThemeSVGLogo": {
+                "width": 97,
+                "height": 12,
+                "url": "https://cdn.query.prod.cms.msn.com/cms/api/amp/binary/AA13glth-dark"
+            },
+            "feedAllowedFreeItem": 0
+        },
+        "category": "news",
+        "reactionSummary": {
+            "totalCount": 226,
+            "subReactionSummaries": [
+                {
+                    "totalCount": 183,
+                    "type": "upvote"
+                },
+                {
+                    "totalCount": 43,
+                    "type": "downvote"
+                }
+            ]
+        },
+        "reactionStatus": "on",
+        "commentSummary": {
+            "totalCount": 16,
+            "subCommentSummaries": [
+                {
+                    "totalCount": 12,
+                    "type": "comment"
+                },
+                {
+                    "totalCount": 4,
+                    "type": "reply"
+                }
+            ]
+        },
+        "commentStatus": "on",
+        "relevanceScore": 95.001045,
+        "subscriptionProductType": "undefined",
+        "notificationMetadata": {
+            "isBadgeEnabledPreviewCandidate": false,
+            "lastStateChangeFileTimeUtc": 0
+        },
+        "recoDocMetadata": {
+            "ModelScore": "8.634114055894315E-05",
+            "IsAtfHighQualityContent": "1"
+        },
+        "cardRankingMetadata": {
+            "pClick": 0,
+            "pRelevance": 0
+        },
+        "feed": {
+            "lastFreActionTimestamp": 0,
+            "feedCompositionCategory": "1"
+        },
+        "topics": [
+            {
+                "label": "News",
+                "weight": 0.9816436171531677,
+                "feedId": "Y_9eb0ac10-32bc-43cf-816e-5beaaf524f7a",
+                "locale": "en-us"
+            }
+        ],
+        "cardId": 19,
+        "isWorkNewsContent": false,
+        "workNewsRankingScore": 0.9816436171531677,
+        "reasons": [
+            {
+                "type": "interacted",
+                "rank": 0
+            }
+        ],
+        "ri": "283,328",
+        "recoId": "nnRi-T3wsb6_EezrhZ9h8AhGQu",
+        "newsClusterIdV5": "2221302078",
+        "source": "msn",
+        "dedupeIds": {
+            "newsClusterV5HPHash": [
+                "-2073665218"
+            ],
+            "newsClusterV6Hash": [
+                "1955958556"
+            ],
+            "newsClusterV7Hash": [
+                "1976218972"
+            ],
+            "contentId": [
+                "AA1GslD1"
+            ]
+        }
+    },
+    {
+        "id": "AA1vgeuv",
+        "type": "video",
+        "title": "What’s Beneath Lake Mead Now That It’s Drying Out",
+        "abstract": "Lake Mead is at one of its lowest levels ever - and we couldn’t resist exploring the exposed landscape. From forgotten relics to eerie shorelines, this adventure took us deep into the heart of a vanishing lake. It’s a rare chance to see what lies beneath the waterline. Join us as we uncover the hidden stories left behind.",
+        "readTimeMin": 0,
+        "url": "https://www.msn.com/en-us/weather/topstories/what-s-beneath-lake-mead-now-that-it-s-drying-out/vi-AA1vgeuv",
+        "locale": "en-us",
+        "isLocalContent": false,
+        "financeMetadata": {
+            "sentimentRatings": [
+                {
+                    "topic": "wf_sentiment_positive",
+                    "score": 5538
+                },
+                {
+                    "topic": "wf_sentiment_negative",
+                    "score": 308
+                },
+                {
+                    "topic": "wf_sentiment_neutral",
+                    "score": 4152
+                }
+            ]
+        },
+        "publishedDateTime": "2025-05-29T08:40:37Z",
+        "height": 304,
+        "wpoId": 21,
+        "isFeatured": false,
+        "images": [
+            {
+                "width": 1222,
+                "height": 637,
+                "quality": 100,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1FH3WM.img",
+                "attribution": "",
+                "title": "What’s Beneath Lake Mead Now That It’s Drying Out",
+                "caption": "Lake Mead is at one of its lowest levels ever - and we couldn’t resist exploring the exposed landscape. From forgotten relics to eerie shorelines, this adventure took us deep into the heart of a vanishing lake. It’s a rare chance to see what lies beneath the waterline. Join us as we uncover the hidden stories left behind.",
+                "source": "msn"
+            }
+        ],
+        "provider": {
+            "id": "AA1gnaOY",
+            "name": "Man + River",
+            "logoUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1gpUW9.img",
+            "profileId": "vid-csrfaq9pghi3yx7hua8p6jtn8hyib6stdi63tbditbvfs5hxx4ha",
+            "feedAllowedFreeItem": 0
+        },
+        "category": "weather",
+        "reactionSummary": {
+            "totalCount": 555,
+            "subReactionSummaries": [
+                {
+                    "totalCount": 444,
+                    "type": "upvote"
+                },
+                {
+                    "totalCount": 111,
+                    "type": "downvote"
+                }
+            ]
+        },
+        "reactionStatus": "on",
+        "commentSummary": {
+            "totalCount": 20,
+            "subCommentSummaries": [
+                {
+                    "totalCount": 19,
+                    "type": "comment"
+                },
+                {
+                    "totalCount": 1,
+                    "type": "reply"
+                }
+            ]
+        },
+        "commentStatus": "on",
+        "relevanceScore": 94.001045,
+        "subscriptionProductType": "undefined",
+        "notificationMetadata": {
+            "isBadgeEnabledPreviewCandidate": false,
+            "lastStateChangeFileTimeUtc": 0
+        },
+        "recoDocMetadata": {
+            "ModelScore": "0.00010386957001173869",
+            "IsAtfHighQualityContent": "1"
+        },
+        "cardRankingMetadata": {
+            "pClick": 0,
+            "pRelevance": 0
+        },
+        "feed": {
+            "lastFreActionTimestamp": 0,
+            "feedCompositionCategory": "1|13"
+        },
+        "cardId": 20,
+        "isWorkNewsContent": false,
+        "workNewsRankingScore": 0.7224161028862,
+        "reasons": [
+            {
+                "type": "u2U",
+                "rank": 0
+            }
+        ],
+        "ri": "332",
+        "recoId": "nnRi-T3wsb6_EezrhZ9h8AhGQu",
+        "newsClusterIdV5": "4142921497",
+        "newsClusterIdV6": "-527619428",
+        "source": "msn",
+        "videoMetadata": {
+            "playTime": 1125,
+            "closedCaptions": [
+                {
+                    "locale": "en-us",
+                    "href": "https://prod-video-cms-amp-microsoft-com.akamaized.net/tenant/amp/entityid/AA1vgeuv?blobrefkey=closedcaptionen-us&$blob=1"
+                }
+            ]
+        },
+        "externalVideoFiles": [
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/8516a86c-99bc-4dee-9bcb-01bafefcf595/0128f708-15c9-485f-9794-736edba0f00f.mp4",
+                "width": 1920,
+                "height": 1080,
+                "contentType": "video/mp4",
+                "fileSize": 575422331
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/8be1af69-1c60-40c0-93d5-a7a7074c13c5/3956b6c3-1391-4ab6-976e-c67f4642feb3.m3u8",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/8be1af69-1c60-40c0-93d5-a7a7074c13c5/3956b6c3-1391-4ab6-976e-c67f4642feb3.m3u8",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/8be1af69-1c60-40c0-93d5-a7a7074c13c5/3956b6c3-1391-4ab6-976e-c67f4642feb3.mpd",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/8be1af69-1c60-40c0-93d5-a7a7074c13c5/3956b6c3-1391-4ab6-976e-c67f4642feb3_6750.mp4",
+                "width": 1920,
+                "height": 1080,
+                "contentType": "video/mp4",
+                "fileSize": 959886611
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/8be1af69-1c60-40c0-93d5-a7a7074c13c5/3956b6c3-1391-4ab6-976e-c67f4642feb3_3400.mp4",
+                "width": 1280,
+                "height": 720,
+                "contentType": "video/mp4",
+                "fileSize": 492768231
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/8be1af69-1c60-40c0-93d5-a7a7074c13c5/3956b6c3-1391-4ab6-976e-c67f4642feb3_2250.mp4",
+                "width": 960,
+                "height": 540,
+                "contentType": "video/mp4",
+                "fileSize": 331512124
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/8be1af69-1c60-40c0-93d5-a7a7074c13c5/3956b6c3-1391-4ab6-976e-c67f4642feb3_1500.mp4",
+                "width": 960,
+                "height": 540,
+                "contentType": "video/mp4",
+                "fileSize": 226032858
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/8be1af69-1c60-40c0-93d5-a7a7074c13c5/3956b6c3-1391-4ab6-976e-c67f4642feb3_650.mp4",
+                "width": 640,
+                "height": 360,
+                "contentType": "video/mp4",
+                "fileSize": 106505207
+            }
+        ],
+        "dedupeIds": {
+            "newsClusterV5HPHash": [
+                "-152045799"
+            ],
+            "newsClusterV6Hash": [
+                "-527619428"
+            ],
+            "newsClusterV7Hash": [
+                "2081256780"
+            ],
+            "contentId": [
+                "AA1vgeuv"
+            ]
+        }
+    },
+    {
+        "id": "AA1CD1Wk",
+        "type": "video",
+        "title": "David Muir shares 3D scans of Titanic that reveal new insight into its final moments",
+        "abstract": "David Muir shares details on the new National Geographic special and the minute-by-minute timeline the team reconstructed from the first-of-its-kind full-size 3D rendering of the ship's wreckage.",
+        "readTimeMin": 0,
+        "url": "https://www.msn.com/en-us/tv/news/david-muir-shares-3d-scans-of-titanic-that-reveal-new-insight-into-its-final-moments/vi-AA1CD1Wk",
+        "locale": "en-us",
+        "isLocalContent": false,
+        "financeMetadata": {
+            "sentimentRatings": [
+                {
+                    "topic": "wf_sentiment_positive",
+                    "score": 3528
+                },
+                {
+                    "topic": "wf_sentiment_negative",
+                    "score": 74
+                },
+                {
+                    "topic": "wf_sentiment_neutral",
+                    "score": 6397
+                }
+            ]
+        },
+        "publishedDateTime": "2025-04-09T23:48:03Z",
+        "height": 304,
+        "wpoId": 22,
+        "isFeatured": false,
+        "images": [
+            {
+                "width": 3072,
+                "height": 1728,
+                "quality": 91,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1CCUBU.img",
+                "title": "David Muir shares 3D scans of Titanic that reveal new insight into its final moments",
+                "source": "msn"
+            }
+        ],
+        "provider": {
+            "id": "BBTquMf",
+            "name": "ABC News",
+            "logoUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA15spNo.img",
+            "profileId": "vid-uqv2msu8xmhtu2ffugmt4n046hfm8j7288khugm3j40x7p8g7eka",
+            "lightThemeSVGLogo": {
+                "width": 35,
+                "height": 12,
+                "url": "https://cdn.query.prod.cms.msn.com/cms/api/amp/binary/AA13gyym"
+            },
+            "darkThemeSVGLogo": {
+                "width": 35,
+                "height": 12,
+                "url": "https://cdn.query.prod.cms.msn.com/cms/api/amp/binary/AA13gyym-dark"
+            },
+            "feedAllowedFreeItem": 0
+        },
+        "category": "tv",
+        "reactionSummary": {
+            "totalCount": 2134,
+            "subReactionSummaries": [
+                {
+                    "totalCount": 1658,
+                    "type": "upvote"
+                },
+                {
+                    "totalCount": 475,
+                    "type": "downvote"
+                },
+                {
+                    "totalCount": 1,
+                    "type": "sad"
+                }
+            ]
+        },
+        "reactionStatus": "on",
+        "commentSummary": {
+            "totalCount": 32,
+            "subCommentSummaries": [
+                {
+                    "totalCount": 21,
+                    "type": "comment"
+                },
+                {
+                    "totalCount": 11,
+                    "type": "reply"
+                }
+            ]
+        },
+        "commentStatus": "on",
+        "relevanceScore": 93.001045,
+        "subscriptionProductType": "undefined",
+        "notificationMetadata": {
+            "isBadgeEnabledPreviewCandidate": false,
+            "lastStateChangeFileTimeUtc": 0
+        },
+        "recoDocMetadata": {
+            "ModelScore": "0.0003473679244052619",
+            "IsAtfHighQualityContent": "1"
+        },
+        "cardRankingMetadata": {
+            "pClick": 0,
+            "pRelevance": 0
+        },
+        "feed": {
+            "lastFreActionTimestamp": 0,
+            "feedCompositionCategory": "1|13"
+        },
+        "topics": [
+            {
+                "label": "TV",
+                "weight": 0.6402004957199097,
+                "feedId": "Y_ecf14ace-5910-4da7-a26f-3919270f1200",
+                "locale": "en-us"
+            },
+            {
+                "label": "Entertainment",
+                "weight": 0.6402004957199097,
+                "feedId": "Y_414a7c40-a373-4025-b4ce-e9502e9e17ed",
+                "locale": "en-us"
+            }
+        ],
+        "cardId": 21,
+        "isWorkNewsContent": false,
+        "workNewsRankingScore": 0.7461890578269958,
+        "reasons": [
+            {
+                "type": "fallback",
+                "rank": 0
+            }
+        ],
+        "ri": "347",
+        "recoId": "nnRi-T3wsb6_EezrhZ9h8AhGQu",
+        "newsClusterIdV5": "3092788643",
+        "newsClusterIdV6": "1135908295",
+        "source": "msn",
+        "videoMetadata": {
+            "playTime": 64,
+            "closedCaptions": [
+                {
+                    "locale": "en-us",
+                    "href": "https://prod-video-cms-amp-microsoft-com.akamaized.net/tenant/amp/entityid/AA1CD1Wk?blobrefkey=closedcaptionen-us&$blob=1"
+                }
+            ]
+        },
+        "externalVideoFiles": [
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/7b084483-7fe0-4c30-b518-929ac1f88613/8eb8efc6-33c6-492d-9e95-4d36b853d72a.mp4",
+                "width": 1280,
+                "height": 720,
+                "contentType": "video/mp4",
+                "fileSize": 20031230
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/f40372df-ebe2-451a-8f7f-323398806dab/d56bcab9-1baf-4a62-963b-f42f111b1d7c.m3u8",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/f40372df-ebe2-451a-8f7f-323398806dab/d56bcab9-1baf-4a62-963b-f42f111b1d7c.m3u8",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/f40372df-ebe2-451a-8f7f-323398806dab/d56bcab9-1baf-4a62-963b-f42f111b1d7c.mpd",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/f40372df-ebe2-451a-8f7f-323398806dab/d56bcab9-1baf-4a62-963b-f42f111b1d7c_3400.mp4",
+                "width": 1280,
+                "height": 720,
+                "contentType": "video/mp4",
+                "fileSize": 28677827
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/f40372df-ebe2-451a-8f7f-323398806dab/d56bcab9-1baf-4a62-963b-f42f111b1d7c_2250.mp4",
+                "width": 960,
+                "height": 540,
+                "contentType": "video/mp4",
+                "fileSize": 19355234
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/f40372df-ebe2-451a-8f7f-323398806dab/d56bcab9-1baf-4a62-963b-f42f111b1d7c_1500.mp4",
+                "width": 960,
+                "height": 540,
+                "contentType": "video/mp4",
+                "fileSize": 13176249
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/f40372df-ebe2-451a-8f7f-323398806dab/d56bcab9-1baf-4a62-963b-f42f111b1d7c_650.mp4",
+                "width": 640,
+                "height": 360,
+                "contentType": "video/mp4",
+                "fileSize": 6194326
+            }
+        ],
+        "dedupeIds": {
+            "newsClusterV5HPHash": [
+                "-1996911099"
+            ],
+            "newsClusterV6Hash": [
+                "1135908295"
+            ],
+            "newsClusterV7Hash": [
+                "-1863154365"
+            ],
+            "contentId": [
+                "AA1CD1Wk"
+            ]
+        }
+    },
+    {
+        "id": "AA1GtihZ",
+        "type": "video",
+        "title": "Federal immigration raid at Omaha meat production plant sparks protests",
+        "abstract": "Immigration authorities raided an Omaha meat production plant Tuesday morning and took dozens of workers away in buses, leaving company officials bewildered because they said they had followed the law. The raid happened around 9 a.m. at Glenn Valley Foods in south Omaha, an area where nearly a quarter of residents were foreign born, according to the 2020 census. AP Video by Margery Beck",
+        "readTimeMin": 0,
+        "url": "https://www.msn.com/en-us/news/crime/federal-immigration-raid-at-omaha-meat-production-plant-sparks-protests/vi-AA1GtihZ",
+        "locale": "en-us",
+        "isLocalContent": false,
+        "financeMetadata": {
+            "sentimentRatings": [
+                {
+                    "topic": "wf_sentiment_positive",
+                    "score": 341
+                },
+                {
+                    "topic": "wf_sentiment_negative",
+                    "score": 9618
+                },
+                {
+                    "topic": "wf_sentiment_neutral",
+                    "score": 39
+                }
+            ]
+        },
+        "publishedDateTime": "2025-06-11T01:08:33Z",
+        "height": 304,
+        "wpoId": 23,
+        "isFeatured": false,
+        "images": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "quality": 74,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1GtdT7.img",
+                "title": "Federal immigration raid at Omaha meat production plant sparks protests",
+                "source": "msn"
+            }
+        ],
+        "provider": {
+            "id": "AA7mZ3",
+            "name": "The Associated Press",
+            "logoUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA15Yat4.img",
+            "profileId": "vid-b5wrcq2rxin3r63c989gsixnar8rq6k82y8babncp60xqtjibrgs",
+            "lightThemeSVGLogo": {
+                "width": 72,
+                "height": 12,
+                "url": "https://cdn.query.prod.cms.msn.com/cms/api/amp/binary/AA13f2DV"
+            },
+            "darkThemeSVGLogo": {
+                "width": 72,
+                "height": 12,
+                "url": "https://cdn.query.prod.cms.msn.com/cms/api/amp/binary/AA13f2DV-dark"
+            },
+            "feedAllowedFreeItem": 0
+        },
+        "category": "news",
+        "reactionSummary": {
+            "totalCount": 52,
+            "subReactionSummaries": [
+                {
+                    "totalCount": 41,
+                    "type": "upvote"
+                },
+                {
+                    "totalCount": 11,
+                    "type": "downvote"
+                }
+            ]
+        },
+        "reactionStatus": "on",
+        "commentSummary": {
+            "totalCount": 12,
+            "subCommentSummaries": [
+                {
+                    "totalCount": 11,
+                    "type": "comment"
+                },
+                {
+                    "totalCount": 1,
+                    "type": "reply"
+                }
+            ]
+        },
+        "commentStatus": "on",
+        "relevanceScore": 92.001045,
+        "subscriptionProductType": "undefined",
+        "notificationMetadata": {
+            "isBadgeEnabledPreviewCandidate": false,
+            "lastStateChangeFileTimeUtc": 0
+        },
+        "recoDocMetadata": {
+            "ModelScore": "0.00020126580784562975",
+            "IsAtfHighQualityContent": "1"
+        },
+        "cardRankingMetadata": {
+            "pClick": 0,
+            "pRelevance": 0
+        },
+        "feed": {
+            "lastFreActionTimestamp": 0,
+            "feedCompositionCategory": "1|13"
+        },
+        "topics": [
+            {
+                "label": "News",
+                "weight": 0.6008234024047852,
+                "feedId": "Y_9eb0ac10-32bc-43cf-816e-5beaaf524f7a",
+                "locale": "en-us"
+            }
+        ],
+        "cardId": 22,
+        "isWorkNewsContent": false,
+        "workNewsRankingScore": 0.6008234024047852,
+        "reasons": [
+            {
+                "type": "interacted",
+                "rank": 0
+            }
+        ],
+        "ri": "323",
+        "recoId": "nnRi-T3wsb6_EezrhZ9h8AhGQu",
+        "newsClusterIdV5": "2766165595",
+        "source": "msn",
+        "videoMetadata": {
+            "playTime": 98,
+            "closedCaptions": [
+                {
+                    "locale": "en-us",
+                    "href": "https://prod-video-cms-amp-microsoft-com.akamaized.net/tenant/amp/entityid/AA1GtihZ?blobrefkey=closedcaptionen-us&$blob=1"
+                }
+            ]
+        },
+        "externalVideoFiles": [
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/35189297-55f4-4ff1-a9c0-a567f5390580/1b07f877-8f16-4a64-81a3-f0afec693d37.mp4",
+                "width": 1920,
+                "height": 1080,
+                "contentType": "video/mp4",
+                "fileSize": 126343573
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/1e25d972-ae2c-492c-b19f-8ac8c639c2c7/dcc3f505-70ec-4509-a475-1460cf17761c.m3u8",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/1e25d972-ae2c-492c-b19f-8ac8c639c2c7/dcc3f505-70ec-4509-a475-1460cf17761c.m3u8",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/1e25d972-ae2c-492c-b19f-8ac8c639c2c7/dcc3f505-70ec-4509-a475-1460cf17761c.mpd",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/1e25d972-ae2c-492c-b19f-8ac8c639c2c7/dcc3f505-70ec-4509-a475-1460cf17761c_6750.mp4",
+                "width": 1920,
+                "height": 1080,
+                "contentType": "video/mp4",
+                "fileSize": 84548042
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/1e25d972-ae2c-492c-b19f-8ac8c639c2c7/dcc3f505-70ec-4509-a475-1460cf17761c_3400.mp4",
+                "width": 1280,
+                "height": 720,
+                "contentType": "video/mp4",
+                "fileSize": 43313412
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/1e25d972-ae2c-492c-b19f-8ac8c639c2c7/dcc3f505-70ec-4509-a475-1460cf17761c_2250.mp4",
+                "width": 960,
+                "height": 540,
+                "contentType": "video/mp4",
+                "fileSize": 29033127
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/1e25d972-ae2c-492c-b19f-8ac8c639c2c7/dcc3f505-70ec-4509-a475-1460cf17761c_1500.mp4",
+                "width": 960,
+                "height": 540,
+                "contentType": "video/mp4",
+                "fileSize": 19775999
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/1e25d972-ae2c-492c-b19f-8ac8c639c2c7/dcc3f505-70ec-4509-a475-1460cf17761c_650.mp4",
+                "width": 640,
+                "height": 360,
+                "contentType": "video/mp4",
+                "fileSize": 9297827
+            }
+        ],
+        "dedupeIds": {
+            "newsClusterV5HPHash": [
+                "-1528801701"
+            ],
+            "newsClusterV6Hash": [
+                "338956913"
+            ],
+            "newsClusterV7Hash": [
+                "-1948508307"
+            ],
+            "contentId": [
+                "AA1GtihZ"
+            ]
+        }
+    },
+    {
+        "id": "AA1EqzV6",
+        "type": "video",
+        "title": "7000 Year Old Advanced Seafaring Technology",
+        "abstract": "A team of archaeologists from the Spanish National Research Council in Barcelona studied five intricately crafted canoes discovered at the Neolithic lakeshore settlement of La Marmotta, located in the Region of Lazio, approximately 32 kilometers Northwest of Rome. These canoes date back to between 5700 BCE and 5100 BCE, making them the oldest boats discovered in the Mediterranean Sea to date. #History #Archaeology #AncientBoats #Neolithic #MediterraneanSea",
+        "readTimeMin": 0,
+        "url": "https://www.msn.com/en-us/video/peopleandplaces/7000-year-old-advanced-seafaring-technology/vi-AA1EqzV6",
+        "locale": "en-us",
+        "isLocalContent": false,
+        "financeMetadata": {
+            "sentimentRatings": [
+                {
+                    "topic": "wf_sentiment_positive",
+                    "score": 9640
+                },
+                {
+                    "topic": "wf_sentiment_negative",
+                    "score": 87
+                },
+                {
+                    "topic": "wf_sentiment_neutral",
+                    "score": 271
+                }
+            ]
+        },
+        "publishedDateTime": "2025-05-08T21:00:00Z",
+        "height": 304,
+        "wpoId": 24,
+        "isFeatured": false,
+        "images": [
+            {
+                "width": 1280,
+                "height": 720,
+                "quality": 87,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1EqnNG.img",
+                "title": "7000 Year Old Advanced Seafaring Technology",
+                "focalRegion": {
+                    "x1": 108,
+                    "x2": 225,
+                    "y1": 68,
+                    "y2": 185
+                },
+                "source": "msn"
+            }
+        ],
+        "provider": {
+            "id": "AA1xeEpo",
+            "name": "History with Kayleigh",
+            "logoUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1xwhs3.img",
+            "profileId": "vid-9tfx2i40mpejhwbd90rrai8c6dhc9c7622amhxj48ek3xs68j6wa",
+            "feedAllowedFreeItem": 0
+        },
+        "category": "video",
+        "reactionSummary": {
+            "totalCount": 139,
+            "subReactionSummaries": [
+                {
+                    "totalCount": 119,
+                    "type": "upvote"
+                },
+                {
+                    "totalCount": 20,
+                    "type": "downvote"
+                }
+            ]
+        },
+        "reactionStatus": "on",
+        "commentSummary": {
+            "totalCount": 6,
+            "subCommentSummaries": [
+                {
+                    "totalCount": 6,
+                    "type": "comment"
+                }
+            ]
+        },
+        "commentStatus": "on",
+        "relevanceScore": 91.001045,
+        "subscriptionProductType": "undefined",
+        "notificationMetadata": {
+            "isBadgeEnabledPreviewCandidate": false,
+            "lastStateChangeFileTimeUtc": 0
+        },
+        "recoDocMetadata": {
+            "ModelScore": "0.000242019203142263",
+            "IsAtfHighQualityContent": "1"
+        },
+        "cardRankingMetadata": {
+            "pClick": 0,
+            "pRelevance": 0
+        },
+        "feed": {
+            "lastFreActionTimestamp": 0,
+            "feedCompositionCategory": "1|13"
+        },
+        "topics": [
+            {
+                "label": "Travel news",
+                "weight": 0.23095804452896118,
+                "feedId": "Y_d659302d-5ac4-460a-9baa-8c8684761110",
+                "locale": "en-us"
+            }
+        ],
+        "cardId": 23,
+        "isWorkNewsContent": false,
+        "workNewsRankingScore": 0.3132946789264679,
+        "reasons": [
+            {
+                "type": "interacted",
+                "rank": 0
+            }
+        ],
+        "ri": "328",
+        "recoId": "nnRi-T3wsb6_EezrhZ9h8AhGQu",
+        "newsClusterIdV5": "683675533",
+        "newsClusterIdV6": "787648891",
+        "source": "msn",
+        "videoMetadata": {
+            "playTime": 350,
+            "closedCaptions": [
+                {
+                    "locale": "en-us",
+                    "href": "https://prod-video-cms-amp-microsoft-com.akamaized.net/tenant/amp/entityid/AA1EqzV6?blobrefkey=closedcaptionen-us&$blob=1"
+                }
+            ]
+        },
+        "externalVideoFiles": [
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/29186599-564a-4112-827b-0f108d977c94/09d3bc87-07aa-4d8c-a6e4-acab1ec1c9b8.mp4",
+                "width": 1920,
+                "height": 1080,
+                "contentType": "video/mp4",
+                "fileSize": 490270191
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/f5dffd2f-533d-4bed-b6fd-753c5b8842ad/19793e76-124e-4b64-a70c-943625374925.m3u8",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/f5dffd2f-533d-4bed-b6fd-753c5b8842ad/19793e76-124e-4b64-a70c-943625374925.m3u8",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/f5dffd2f-533d-4bed-b6fd-753c5b8842ad/19793e76-124e-4b64-a70c-943625374925.mpd",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/f5dffd2f-533d-4bed-b6fd-753c5b8842ad/19793e76-124e-4b64-a70c-943625374925_6750.mp4",
+                "width": 1920,
+                "height": 1080,
+                "contentType": "video/mp4",
+                "fileSize": 291102516
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/f5dffd2f-533d-4bed-b6fd-753c5b8842ad/19793e76-124e-4b64-a70c-943625374925_3400.mp4",
+                "width": 1280,
+                "height": 720,
+                "contentType": "video/mp4",
+                "fileSize": 148252718
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/f5dffd2f-533d-4bed-b6fd-753c5b8842ad/19793e76-124e-4b64-a70c-943625374925_2250.mp4",
+                "width": 960,
+                "height": 540,
+                "contentType": "video/mp4",
+                "fileSize": 99603356
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/f5dffd2f-533d-4bed-b6fd-753c5b8842ad/19793e76-124e-4b64-a70c-943625374925_1500.mp4",
+                "width": 960,
+                "height": 540,
+                "contentType": "video/mp4",
+                "fileSize": 68351846
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/f5dffd2f-533d-4bed-b6fd-753c5b8842ad/19793e76-124e-4b64-a70c-943625374925_650.mp4",
+                "width": 640,
+                "height": 360,
+                "contentType": "video/mp4",
+                "fileSize": 32353688
+            }
+        ],
+        "dedupeIds": {
+            "newsClusterV5HPHash": [
+                "683675533"
+            ],
+            "newsClusterV6Hash": [
+                "787648891"
+            ],
+            "newsClusterV7Hash": [
+                "-597136165"
+            ],
+            "contentId": [
+                "AA1EqzV6"
+            ]
+        }
+    },
+    {
+        "id": "AA1DRClP",
+        "type": "slideshow",
+        "title": "Scientists Discovered the Tunnels of a Possibly Unknown Ancient Lifeform",
+        "abstract": "Scientists digging deep into Earth’s ancient crust have made an astonishing discovery. While examining rock samples from miles beneath the surface, they found intricate tunnels unlike anything seen before. These strange passageways were not random cracks or natural fractures. Instead, they showed clear signs of being carved by an unknown lifeform. Because of this, researchers... The post Scientists Uncover Mysterious Tunnels Belonging to an Unknown Ancient Lifeform appeared first on The Hearty Soul.",
+        "readTimeMin": 0,
+        "url": "https://www.msn.com/en-us/news/technology/scientists-discovered-the-tunnels-of-a-possibly-unknown-ancient-lifeform/ss-AA1DRClP",
+        "locale": "en-us",
+        "isLocalContent": false,
+        "galleryItemCount": 12,
+        "financeMetadata": {
+            "sentimentRatings": [
+                {
+                    "topic": "wf_sentiment_positive",
+                    "score": 3695
+                },
+                {
+                    "topic": "wf_sentiment_negative",
+                    "score": 215
+                },
+                {
+                    "topic": "wf_sentiment_neutral",
+                    "score": 6089
+                }
+            ]
+        },
+        "slides": [
+            {
+                "title": "",
+                "body": "<p>Scientists digging deep into Earth’s ancient crust have made an astonishing discovery. While examining rock samples from miles beneath the surface, they found intricate tunnels unlike anything seen before. These strange passageways were not random cracks or natural fractures. Instead, they showed clear signs of being carved by an unknown lifeform. Because of this, researchers quickly realized they had stumbled onto something remarkable-evidence that life can exist in places once thought completely uninhabitable. </p><p>This unknown lifeform thrived without sunlight, oxygen, or any traditional source of nutrients. Therefore, as studies continue, this discovery could unlock new secrets about Earth’s hidden ecosystems-and even guide future searches for life beyond our planet.</p>",
+                "image": {
+                    "width": 1200,
+                    "height": 628,
+                    "quality": 87,
+                    "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1DRIRZ.img",
+                    "title": "Scientists Discovered the Tunnels of a Possibly Unknown Ancient Lifeform",
+                    "caption": "<p>Scientists digging deep into Earth’s ancient crust have made an astonishing discovery. While examining rock samples from miles beneath the surface, they found intricate tunnels unlike anything seen before. These strange passageways were not random cracks or natural fractures. Instead, they showed clear signs of being carved by an unknown lifeform. Because of this, researchers quickly realized they had stumbled onto something remarkable-evidence that life can exist in places once thought completely uninhabitable. </p><p>This unknown lifeform thrived without sunlight, oxygen, or any traditional source of nutrients. Therefore, as studies continue, this discovery could unlock new secrets about Earth’s hidden ecosystems-and even guide future searches for life beyond our planet.</p>",
+                    "source": "msn"
+                }
+            },
+            {
+                "title": "A Stunning Discovery Deep Within the Earth",
+                "body": "<p>Scientists drilling deep into Earth’s crust recently uncovered an incredible surprise-ancient tunnels created by an unknown lifeform. At first, these twisting structures didn't match any known biological or geological process. Researchers immediately knew they were looking at evidence of life surviving in extreme isolation. Moreover, the tunnels were buried deep beneath the surface, <a href=\"https://www.msn.com/en-us/news/world/scientists-discover-unknown-lifeform-they-are-unable-to-explain/ss-AA1BLWCG#image=2\">sealed in rocks untouched for millions of years</a>. Their organized shapes hinted at deliberate construction by some mysterious organism. As a result, scientists now believe this discovery could change our entire understanding of life on Earth. The presence of an unknown lifeform so deep underground opens a world of possibilities.</p>",
+                "image": {
+                    "width": 505,
+                    "height": 435,
+                    "quality": 100,
+                    "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1DRIS1.img",
+                    "attribution": " Image Credit: Cees Passchier/ Geomicrobiology Journal ",
+                    "title": "A Stunning Discovery Deep Within the Earth",
+                    "caption": "<p>Scientists drilling deep into Earth’s crust recently uncovered an incredible surprise-ancient tunnels created by an unknown lifeform. At first, these twisting structures didn't match any known biological or geological process. Researchers immediately knew they were looking at evidence of life surviving in extreme isolation. Moreover, the tunnels were buried deep beneath the surface, <a href=\"https://www.msn.com/en-us/news/world/scientists-discover-unknown-lifeform-they-are-unable-to-explain/ss-AA1BLWCG#image=2\">sealed in rocks untouched for millions of years</a>. Their organized shapes hinted at deliberate construction by some mysterious organism. As a result, scientists now believe this discovery could change our entire understanding of life on Earth. The presence of an unknown lifeform so deep underground opens a world of possibilities.</p>",
+                    "source": "msn"
+                }
+            },
+            {
+                "title": "The Mysterious Tunnels",
+                "body": "<p>Under high-powered microscopes, the <a href=\"https://www.popularmechanics.com/science/environment/a64254417/unknown-organism-rocks/\">tunnels appeared as tiny, intricate passageways</a> carved through solid stone. Their smooth walls and consistent shapes ruled out natural cracking. Instead, the tunnels suggested that something alive had shaped them with precision. Meanwhile, no known microbes, worms, or fungi fit the profile. Some tunnels were so narrow they could only have been made by incredibly small organisms. Researchers realized they were dealing with an extreme survivor. Even more, the deeper they looked, the stranger the mystery became.</p>",
+                "image": {
+                    "width": 871,
+                    "height": 435,
+                    "quality": 100,
+                    "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1DRLp3.img",
+                    "attribution": " Image Credit: Cees Passchier/ Geomicrobiology Journal ",
+                    "title": "The Mysterious Tunnels",
+                    "caption": "<p>Under high-powered microscopes, the <a href=\"https://www.popularmechanics.com/science/environment/a64254417/unknown-organism-rocks/\">tunnels appeared as tiny, intricate passageways</a> carved through solid stone. Their smooth walls and consistent shapes ruled out natural cracking. Instead, the tunnels suggested that something alive had shaped them with precision. Meanwhile, no known microbes, worms, or fungi fit the profile. Some tunnels were so narrow they could only have been made by incredibly small organisms. Researchers realized they were dealing with an extreme survivor. Even more, the deeper they looked, the stranger the mystery became.</p>",
+                    "source": "msn"
+                }
+            }
+        ],
+        "publishedDateTime": "2025-04-25T11:27:00Z",
+        "height": 304,
+        "wpoId": 25,
+        "isFeatured": false,
+        "images": [
+            {
+                "width": 1200,
+                "height": 628,
+                "quality": 87,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1DRIRZ.img",
+                "title": "Scientists Discovered the Tunnels of a Possibly Unknown Ancient Lifeform",
+                "caption": "<p>Scientists digging deep into Earth’s ancient crust have made an astonishing discovery. While examining rock samples from miles beneath the surface, they found intricate tunnels unlike anything seen before. These strange passageways were not random cracks or natural fractures. Instead, they showed clear signs of being carved by an unknown lifeform. Because of this, researchers quickly realized they had stumbled onto something remarkable-evidence that life can exist in places once thought completely uninhabitable. </p><p>This unknown lifeform thrived without sunlight, oxygen, or any traditional source of nutrients. Therefore, as studies continue, this discovery could unlock new secrets about Earth’s hidden ecosystems-and even guide future searches for life beyond our planet.</p>",
+                "source": "msn"
+            },
+            {
+                "width": 505,
+                "height": 435,
+                "quality": 100,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1DRIS1.img",
+                "attribution": " Image Credit: Cees Passchier/ Geomicrobiology Journal ",
+                "title": "A Stunning Discovery Deep Within the Earth",
+                "caption": "<p>Scientists drilling deep into Earth’s crust recently uncovered an incredible surprise-ancient tunnels created by an unknown lifeform. At first, these twisting structures didn't match any known biological or geological process. Researchers immediately knew they were looking at evidence of life surviving in extreme isolation. Moreover, the tunnels were buried deep beneath the surface, <a href=\"https://www.msn.com/en-us/news/world/scientists-discover-unknown-lifeform-they-are-unable-to-explain/ss-AA1BLWCG#image=2\">sealed in rocks untouched for millions of years</a>. Their organized shapes hinted at deliberate construction by some mysterious organism. As a result, scientists now believe this discovery could change our entire understanding of life on Earth. The presence of an unknown lifeform so deep underground opens a world of possibilities.</p>",
+                "source": "msn"
+            },
+            {
+                "width": 871,
+                "height": 435,
+                "quality": 100,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1DRLp3.img",
+                "attribution": " Image Credit: Cees Passchier/ Geomicrobiology Journal ",
+                "title": "The Mysterious Tunnels",
+                "caption": "<p>Under high-powered microscopes, the <a href=\"https://www.popularmechanics.com/science/environment/a64254417/unknown-organism-rocks/\">tunnels appeared as tiny, intricate passageways</a> carved through solid stone. Their smooth walls and consistent shapes ruled out natural cracking. Instead, the tunnels suggested that something alive had shaped them with precision. Meanwhile, no known microbes, worms, or fungi fit the profile. Some tunnels were so narrow they could only have been made by incredibly small organisms. Researchers realized they were dealing with an extreme survivor. Even more, the deeper they looked, the stranger the mystery became.</p>",
+                "source": "msn"
+            },
+            {
+                "width": 1000,
+                "height": 607,
+                "quality": 99,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1DRDX3.img",
+                "attribution": " Source: Shutterstock ",
+                "title": "A Lifeform Beyond Our Imagination",
+                "caption": "<p>Chemical analysis of the tunnels revealed biological signatures, but something didn’t add up. When scientists tested the material, it didn't match any known form of life. In fact, the DNA fragments couldn't be placed within bacteria, archaea, or eukaryotes. This left researchers considering the possibility of a brand-new “fourth domain” of life. Such a domain would completely reshape biological classification. Therefore, the discovery of an unknown lifeform living miles underground shows just how little we truly understand our planet. Every new finding opens more questions than answers.</p>",
+                "source": "msn"
+            }
+        ],
+        "provider": {
+            "id": "AA1jynyU",
+            "name": "The Hearty Soul",
+            "logoUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1llZEd.img",
+            "profileId": "vid-ddjq85w6tntc32rk44y36uubw4b57bmyvma80q22ybkcepuwfrms",
+            "feedAllowedFreeItem": 0
+        },
+        "category": "news",
+        "reactionSummary": {
+            "totalCount": 805,
+            "subReactionSummaries": [
+                {
+                    "totalCount": 682,
+                    "type": "upvote"
+                },
+                {
+                    "totalCount": 123,
+                    "type": "downvote"
+                }
+            ]
+        },
+        "reactionStatus": "on",
+        "commentSummary": {
+            "totalCount": 44,
+            "subCommentSummaries": [
+                {
+                    "totalCount": 32,
+                    "type": "comment"
+                },
+                {
+                    "totalCount": 12,
+                    "type": "reply"
+                }
+            ]
+        },
+        "commentStatus": "on",
+        "relevanceScore": 90.001045,
+        "subscriptionProductType": "undefined",
+        "notificationMetadata": {
+            "isBadgeEnabledPreviewCandidate": false,
+            "lastStateChangeFileTimeUtc": 0
+        },
+        "recoDocMetadata": {
+            "ModelScore": "0.00022145983530208468",
+            "IsAtfHighQualityContent": "1"
+        },
+        "cardRankingMetadata": {
+            "pClick": 0,
+            "pRelevance": 0
+        },
+        "feed": {
+            "lastFreActionTimestamp": 0,
+            "feedCompositionCategory": "1"
+        },
+        "topics": [
+            {
+                "label": "Technology",
+                "weight": 0.7598041296005249,
+                "feedId": "Y_d1cad308-780e-4a75-ba34-6460811ccfe3",
+                "locale": "en-us"
+            },
+            {
+                "label": "News",
+                "weight": 0.7598041296005249,
+                "feedId": "Y_9eb0ac10-32bc-43cf-816e-5beaaf524f7a",
+                "locale": "en-us"
+            }
+        ],
+        "cardId": 24,
+        "isWorkNewsContent": false,
+        "workNewsRankingScore": 0.8445104956626892,
+        "reasons": [
+            {
+                "type": "fallback",
+                "rank": 0
+            }
+        ],
+        "ri": "347",
+        "recoId": "nnRi-T3wsb6_EezrhZ9h8AhGQu",
+        "newsClusterIdV5": "721107055",
+        "newsClusterIdV6": "-1617995513",
+        "source": "msn",
+        "dedupeIds": {
+            "newsClusterV5HPHash": [
+                "721107055"
+            ],
+            "newsClusterV6Hash": [
+                "-1617995513"
+            ],
+            "newsClusterV7Hash": [
+                "2090577443"
+            ],
+            "contentId": [
+                "AA1DRClP"
+            ]
+        }
+    },
+    {
+        "id": "AA1GqBQh",
+        "type": "article",
+        "title": "RFK Jr fires all members of CDC vaccine panel as states battle with major outbreaks",
+        "abstract": "Long time anti-vaccine advocate Robert F. Kennedy Jr. was made Health Secretary by Donald Trump in a move that horrified many in the scientific community",
+        "readTimeMin": 3,
+        "url": "https://www.msn.com/en-us/health/other/rfk-jr-fires-all-members-of-cdc-vaccine-panel-as-states-battle-with-major-outbreaks/ar-AA1GqBQh",
+        "locale": "en-us",
+        "isLocalContent": false,
+        "financeMetadata": {
+            "sentimentRatings": [
+                {
+                    "topic": "wf_sentiment_positive",
+                    "score": 2343
+                },
+                {
+                    "topic": "wf_sentiment_negative",
+                    "score": 4403
+                },
+                {
+                    "topic": "wf_sentiment_neutral",
+                    "score": 3253
+                }
+            ]
+        },
+        "publishedDateTime": "2025-06-10T10:10:35Z",
+        "height": 304,
+        "wpoId": 26,
+        "isFeatured": false,
+        "images": [
+            {
+                "width": 810,
+                "height": 539,
+                "quality": 79,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1GquuO.img",
+                "attribution": "undefined via Getty Images",
+                "title": "Health Secretary Robert F. Kennedy Jr. was made one of the most powerful health officials in the US",
+                "caption": "Health Secretary Robert F. Kennedy Jr. was made one of the most powerful health officials in the US",
+                "focalRegion": {
+                    "x1": 254,
+                    "x2": 458,
+                    "y1": 204,
+                    "y2": 408
+                },
+                "source": "msn"
+            }
+        ],
+        "provider": {
+            "id": "AA1eCsaE",
+            "name": "The Mirror US",
+            "logoUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1eCEg5.img",
+            "profileId": "vid-bvubrikhsxk7i8qvuw56f3t558friyfqa7armwfwau54aqpdn8ws",
+            "feedAllowedFreeItem": 0
+        },
+        "category": "health",
+        "reactionSummary": {
+            "totalCount": 48,
+            "subReactionSummaries": [
+                {
+                    "totalCount": 40,
+                    "type": "upvote"
+                },
+                {
+                    "totalCount": 8,
+                    "type": "downvote"
+                }
+            ]
+        },
+        "reactionStatus": "on",
+        "commentSummary": {
+            "totalCount": 8,
+            "subCommentSummaries": [
+                {
+                    "totalCount": 8,
+                    "type": "comment"
+                }
+            ]
+        },
+        "commentStatus": "on",
+        "relevanceScore": 89.001045,
+        "subscriptionProductType": "undefined",
+        "notificationMetadata": {
+            "isBadgeEnabledPreviewCandidate": false,
+            "lastStateChangeFileTimeUtc": 0
+        },
+        "recoDocMetadata": {
+            "ModelScore": "0.00022880393953528255",
+            "IsAtfHighQualityContent": "1"
+        },
+        "cardRankingMetadata": {
+            "pClick": 0,
+            "pRelevance": 0
+        },
+        "feed": {
+            "lastFreActionTimestamp": 0,
+            "feedCompositionCategory": "1"
+        },
+        "topics": [
+            {
+                "label": "Health",
+                "weight": 0.9997599720954895,
+                "feedId": "Y_c95b134f-a01c-4439-a13f-337ca34f37ea",
+                "locale": "en-us"
+            },
+            {
+                "label": "Health news",
+                "weight": 0.9997599720954895,
+                "feedId": "Y_e9e6276b-7e2e-437e-8e9c-b45f1de22ba7",
+                "locale": "en-us"
+            }
+        ],
+        "cardId": 25,
+        "isWorkNewsContent": false,
+        "workNewsRankingScore": 0.9997599720954895,
+        "reasons": [
+            {
+                "type": "fallback",
+                "rank": 0
+            }
+        ],
+        "ri": "283,347",
+        "recoId": "nnRi-T3wsb6_EezrhZ9h8AhGQu",
+        "newsClusterIdV5": "535532358",
+        "source": "msn",
+        "dedupeIds": {
+            "newsClusterV5HPHash": [
+                "535532358"
+            ],
+            "newsClusterV6Hash": [
+                "-1112680949"
+            ],
+            "newsClusterV7Hash": [
+                "1022346370"
+            ],
+            "contentId": [
+                "AA1GqBQh"
+            ]
+        }
+    },
+    {
+        "id": "AA1Gfeli",
+        "type": "video",
+        "title": "Archaeologists discover evidence of Roanoke colonists' fate after abandoning settlement",
+        "abstract": "Mark Horton, an archaeology professor at the Royal Agricultural University in the United Kingdom, spoke with Fox News Digital about his recent research that may reveal the fate of the Roanoke colonists.",
+        "readTimeMin": 0,
+        "url": "https://www.msn.com/en-us/news/world/archaeologists-discover-evidence-of-roanoke-colonists-fate-after-abandoning-settlement/vi-AA1Gfeli",
+        "locale": "en-us",
+        "isLocalContent": false,
+        "financeMetadata": {
+            "sentimentRatings": [
+                {
+                    "topic": "wf_sentiment_positive",
+                    "score": 622
+                },
+                {
+                    "topic": "wf_sentiment_negative",
+                    "score": 3269
+                },
+                {
+                    "topic": "wf_sentiment_neutral",
+                    "score": 6107
+                }
+            ]
+        },
+        "publishedDateTime": "2025-06-07T01:26:37Z",
+        "height": 304,
+        "wpoId": 27,
+        "isFeatured": false,
+        "images": [
+            {
+                "width": 1280,
+                "height": 720,
+                "quality": 89,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1Gfelf.img",
+                "title": "Archaeologists discover evidence of Roanoke colonists' fate after abandoning settlement",
+                "source": "msn"
+            }
+        ],
+        "provider": {
+            "id": "AAygcM",
+            "name": "FOX News",
+            "logoUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAywOab.img",
+            "profileId": "vid-i3g0qyhrtn28biukcpyvsrmhccmv8k8ugtmtr6kqhb9dkf6ccrua",
+            "lightThemeSVGLogo": {
+                "width": 12,
+                "height": 12,
+                "url": "https://cdn.query.prod.cms.msn.com/cms/api/amp/binary/AA12QGB8"
+            },
+            "darkThemeSVGLogo": {
+                "width": 12,
+                "height": 12,
+                "url": "https://cdn.query.prod.cms.msn.com/cms/api/amp/binary/AA12QGB8-dark"
+            },
+            "feedAllowedFreeItem": 0
+        },
+        "category": "news",
+        "reactionSummary": {
+            "totalCount": 2708,
+            "subReactionSummaries": [
+                {
+                    "totalCount": 1985,
+                    "type": "upvote"
+                },
+                {
+                    "totalCount": 722,
+                    "type": "downvote"
+                },
+                {
+                    "totalCount": 1,
+                    "type": "love"
+                }
+            ]
+        },
+        "reactionStatus": "on",
+        "commentSummary": {
+            "totalCount": 59,
+            "subCommentSummaries": [
+                {
+                    "totalCount": 45,
+                    "type": "comment"
+                },
+                {
+                    "totalCount": 14,
+                    "type": "reply"
+                }
+            ]
+        },
+        "commentStatus": "on",
+        "relevanceScore": 88.001045,
+        "subscriptionProductType": "undefined",
+        "notificationMetadata": {
+            "isBadgeEnabledPreviewCandidate": false,
+            "lastStateChangeFileTimeUtc": 0
+        },
+        "recoDocMetadata": {
+            "ModelScore": "0.0001979089283850044",
+            "IsAtfHighQualityContent": "1"
+        },
+        "cardRankingMetadata": {
+            "pClick": 0,
+            "pRelevance": 0
+        },
+        "feed": {
+            "lastFreActionTimestamp": 0,
+            "feedCompositionCategory": "1|13"
+        },
+        "topics": [
+            {
+                "label": "News",
+                "weight": 0.5209428668022156,
+                "feedId": "Y_9eb0ac10-32bc-43cf-816e-5beaaf524f7a",
+                "locale": "en-us"
+            }
+        ],
+        "cardId": 26,
+        "isWorkNewsContent": false,
+        "workNewsRankingScore": 0.5209428668022156,
+        "reasons": [
+            {
+                "type": "u2U",
+                "rank": 0
+            }
+        ],
+        "ri": "332,347",
+        "recoId": "nnRi-T3wsb6_EezrhZ9h8AhGQu",
+        "newsClusterIdV5": "694709394",
+        "newsClusterIdV6": "20124749",
+        "source": "msn",
+        "videoMetadata": {
+            "playTime": 132,
+            "closedCaptions": [
+                {
+                    "locale": "en-us",
+                    "href": "https://prod-video-cms-amp-microsoft-com.akamaized.net/tenant/amp/entityid/AA1Gfeli?blobrefkey=closedcaptionen-us&$blob=1"
+                }
+            ]
+        },
+        "externalVideoFiles": [
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus002/de40b84b-a1b0-4c12-97c9-7b6f5731955e/b768a13b-18b0-41aa-bd8d-edb0e5199ddf.mp4",
+                "width": 1280,
+                "height": 720,
+                "contentType": "video/mp4",
+                "fileSize": 44607694
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus002/cf97f7fa-7269-4e2c-aa92-16226beca13e/95dacb08-b8c4-478f-a691-2abbdbc457f7.m3u8",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus002/cf97f7fa-7269-4e2c-aa92-16226beca13e/95dacb08-b8c4-478f-a691-2abbdbc457f7.m3u8",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus002/cf97f7fa-7269-4e2c-aa92-16226beca13e/95dacb08-b8c4-478f-a691-2abbdbc457f7.mpd",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus002/cf97f7fa-7269-4e2c-aa92-16226beca13e/95dacb08-b8c4-478f-a691-2abbdbc457f7_3400.mp4",
+                "width": 1280,
+                "height": 720,
+                "contentType": "video/mp4",
+                "fileSize": 57302806
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus002/cf97f7fa-7269-4e2c-aa92-16226beca13e/95dacb08-b8c4-478f-a691-2abbdbc457f7_2250.mp4",
+                "width": 960,
+                "height": 540,
+                "contentType": "video/mp4",
+                "fileSize": 38821089
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus002/cf97f7fa-7269-4e2c-aa92-16226beca13e/95dacb08-b8c4-478f-a691-2abbdbc457f7_1500.mp4",
+                "width": 960,
+                "height": 540,
+                "contentType": "video/mp4",
+                "fileSize": 26447506
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus002/cf97f7fa-7269-4e2c-aa92-16226beca13e/95dacb08-b8c4-478f-a691-2abbdbc457f7_650.mp4",
+                "width": 640,
+                "height": 360,
+                "contentType": "video/mp4",
+                "fileSize": 12427386
+            }
+        ],
+        "dedupeIds": {
+            "newsClusterV5HPHash": [
+                "694709394"
+            ],
+            "newsClusterV6Hash": [
+                "20124749"
+            ],
+            "newsClusterV7Hash": [
+                "-142893175"
+            ],
+            "contentId": [
+                "AA1Gfeli"
+            ]
+        }
+    },
+    {
+        "id": "AA1xNSmr",
+        "type": "video",
+        "title": "A Navy Submarine Surfaced in the Frozen Arctic",
+        "abstract": "During ICEX 2016, the USS HARTFORD, a US Navy submarine, surfaced through the Arctic ice near Ice Camp Sargo, demonstrating the submarine's ice navigation and surface capabilities in extreme polar environments. The post A Navy Submarine Surfaced in the Frozen Arctic appeared first on 24/7 Wall St..",
+        "readTimeMin": 0,
+        "url": "https://www.msn.com/en-us/weather/topstories/a-navy-submarine-surfaced-in-the-frozen-arctic/vi-AA1xNSmr",
+        "locale": "en-us",
+        "isLocalContent": false,
+        "financeMetadata": {
+            "sentimentRatings": [
+                {
+                    "topic": "wf_sentiment_positive",
+                    "score": 9672
+                },
+                {
+                    "topic": "wf_sentiment_negative",
+                    "score": 110
+                },
+                {
+                    "topic": "wf_sentiment_neutral",
+                    "score": 217
+                }
+            ]
+        },
+        "publishedDateTime": "2025-01-24T16:30:50Z",
+        "height": 304,
+        "wpoId": 28,
+        "isFeatured": false,
+        "images": [
+            {
+                "width": 1500,
+                "height": 843,
+                "quality": 65,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1xNZsg.img",
+                "title": "A Navy Submarine Surfaced in the Frozen Arctic",
+                "source": "msn"
+            }
+        ],
+        "provider": {
+            "id": "AA28H7",
+            "name": "24/7 Wall St.",
+            "logoUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1njO7B.img",
+            "profileId": "vid-3c8sush48v7rfh5fh9dqbr0a33ubuxkhitq85gq6hde2i7jntpbs",
+            "feedAllowedFreeItem": 0
+        },
+        "category": "weather",
+        "reactionSummary": {
+            "totalCount": 1836,
+            "subReactionSummaries": [
+                {
+                    "totalCount": 1698,
+                    "type": "upvote"
+                },
+                {
+                    "totalCount": 138,
+                    "type": "downvote"
+                }
+            ]
+        },
+        "reactionStatus": "on",
+        "commentSummary": {
+            "totalCount": 75,
+            "subCommentSummaries": [
+                {
+                    "totalCount": 63,
+                    "type": "comment"
+                },
+                {
+                    "totalCount": 12,
+                    "type": "reply"
+                }
+            ]
+        },
+        "commentStatus": "on",
+        "relevanceScore": 87.001045,
+        "subscriptionProductType": "undefined",
+        "notificationMetadata": {
+            "isBadgeEnabledPreviewCandidate": false,
+            "lastStateChangeFileTimeUtc": 0
+        },
+        "recoDocMetadata": {
+            "ModelScore": "0.0002490422048140317",
+            "IsAtfHighQualityContent": "1"
+        },
+        "cardRankingMetadata": {
+            "pClick": 0,
+            "pRelevance": 0
+        },
+        "feed": {
+            "lastFreActionTimestamp": 0,
+            "feedCompositionCategory": "1|13"
+        },
+        "cardId": 27,
+        "isWorkNewsContent": false,
+        "workNewsRankingScore": 0.7513359785079956,
+        "reasons": [
+            {
+                "type": "interacted",
+                "rank": 0
+            }
+        ],
+        "ri": "328",
+        "recoId": "nnRi-T3wsb6_EezrhZ9h8AhGQu",
+        "newsClusterIdV5": "1553910840",
+        "newsClusterIdV6": "-229327750",
+        "source": "msn",
+        "videoMetadata": {
+            "playTime": 281,
+            "closedCaptions": [
+                {
+                    "locale": "en-us",
+                    "href": "https://prod-video-cms-amp-microsoft-com.akamaized.net/tenant/amp/entityid/AA1xNSmr?blobrefkey=closedcaptionen-us&$blob=1"
+                }
+            ]
+        },
+        "externalVideoFiles": [
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus005/89ecb38f-6f1c-4aaa-9cf2-9434ddd33ffc/2702fbaf-4851-4881-8c6d-60801209a22c.mp4",
+                "width": 1280,
+                "height": 720,
+                "contentType": "video/mp4",
+                "fileSize": 102730333
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus005/eb620609-fbbf-431a-80eb-f79c4fabe7f4/d4b9bcad-ba14-4ade-8114-33f2e58ea078.m3u8",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus005/eb620609-fbbf-431a-80eb-f79c4fabe7f4/d4b9bcad-ba14-4ade-8114-33f2e58ea078.m3u8",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus005/eb620609-fbbf-431a-80eb-f79c4fabe7f4/d4b9bcad-ba14-4ade-8114-33f2e58ea078.mpd",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus005/eb620609-fbbf-431a-80eb-f79c4fabe7f4/d4b9bcad-ba14-4ade-8114-33f2e58ea078_3400.mp4",
+                "width": 1280,
+                "height": 720,
+                "contentType": "video/mp4",
+                "fileSize": 118625657
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus005/eb620609-fbbf-431a-80eb-f79c4fabe7f4/d4b9bcad-ba14-4ade-8114-33f2e58ea078_2250.mp4",
+                "width": 960,
+                "height": 540,
+                "contentType": "video/mp4",
+                "fileSize": 81673488
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus005/eb620609-fbbf-431a-80eb-f79c4fabe7f4/d4b9bcad-ba14-4ade-8114-33f2e58ea078_1500.mp4",
+                "width": 960,
+                "height": 540,
+                "contentType": "video/mp4",
+                "fileSize": 55524878
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus005/eb620609-fbbf-431a-80eb-f79c4fabe7f4/d4b9bcad-ba14-4ade-8114-33f2e58ea078_650.mp4",
+                "width": 640,
+                "height": 360,
+                "contentType": "video/mp4",
+                "fileSize": 25902720
+            }
+        ],
+        "dedupeIds": {
+            "newsClusterV5HPHash": [
+                "1553910840"
+            ],
+            "newsClusterV6Hash": [
+                "-229327750"
+            ],
+            "newsClusterV7Hash": [
+                "1291110201"
+            ],
+            "contentId": [
+                "AA1xNSmr"
+            ]
+        }
+    },
+    {
+        "id": "AA1GqB3q",
+        "type": "slideshow",
+        "title": "Study shows that a 1,000-foot-tall 'mega-tsunami' could hit the United States",
+        "abstract": "Study shows that a 1,000-foot-tall 'mega-tsunami' could hit the United States",
+        "readTimeMin": 0,
+        "url": "https://www.msn.com/en-us/weather/topstories/study-shows-that-a-1-000-foot-tall-mega-tsunami-could-hit-the-united-states/ss-AA1GqB3q",
+        "locale": "en-us",
+        "isLocalContent": false,
+        "galleryItemCount": 10,
+        "financeMetadata": {
+            "sentimentRatings": [
+                {
+                    "topic": "wf_sentiment_positive",
+                    "score": 4501
+                },
+                {
+                    "topic": "wf_sentiment_negative",
+                    "score": 1463
+                },
+                {
+                    "topic": "wf_sentiment_neutral",
+                    "score": 4035
+                }
+            ]
+        },
+        "slides": [
+            {
+                "title": "A possible mega tsunami",
+                "body": "<p>A study carried out by Virginia Tech warns of the risk of a mega tsunami with waves up to 300 meters (1,000 feet) tall hitting the US coast in the coming decades.</p>",
+                "image": {
+                    "width": 1890,
+                    "height": 1280,
+                    "quality": 81,
+                    "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1GqwdV.img",
+                    "attribution": "The Daily Digest",
+                    "title": "A possible mega tsunami",
+                    "caption": "<p>A study carried out by Virginia Tech warns of the risk of a mega tsunami with waves up to 300 meters (1,000 feet) tall hitting the US coast in the coming decades.</p>",
+                    "source": "msn"
+                }
+            },
+            {
+                "title": "Cascadia Subduction Zone",
+                "body": "<p>A megatsunami can be triggered by an earthquake of magnitude 8.0 or greater in the Cascadia Subduction Zone.</p>",
+                "image": {
+                    "width": 1920,
+                    "height": 1280,
+                    "quality": 81,
+                    "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1GqB0h.img",
+                    "attribution": "The Daily Digest",
+                    "title": "Cascadia Subduction Zone",
+                    "caption": "<p>A megatsunami can be triggered by an earthquake of magnitude 8.0 or greater in the Cascadia Subduction Zone.</p>",
+                    "source": "msn"
+                }
+            },
+            {
+                "title": "A giant failure",
+                "body": "<p>The Economic Times reported that it is a gigantic fault that stretches from Vancouver Island in Canada to northern California.</p>",
+                "image": {
+                    "width": 1920,
+                    "height": 1280,
+                    "quality": 81,
+                    "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1GqHAP.img",
+                    "attribution": "The Daily Digest",
+                    "title": "A giant failure",
+                    "caption": "<p>The Economic Times reported that it is a gigantic fault that stretches from Vancouver Island in Canada to northern California.</p>",
+                    "source": "msn"
+                }
+            }
+        ],
+        "publishedDateTime": "2025-06-10T19:10:00Z",
+        "height": 304,
+        "wpoId": 29,
+        "isFeatured": false,
+        "images": [
+            {
+                "width": 1890,
+                "height": 1280,
+                "quality": 81,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1GqwdV.img",
+                "title": "A possible mega tsunami",
+                "caption": "<p>A study carried out by Virginia Tech warns of the risk of a mega tsunami with waves up to 300 meters (1,000 feet) tall hitting the US coast in the coming decades.</p>",
+                "source": "msn"
+            },
+            {
+                "width": 1920,
+                "height": 1280,
+                "quality": 81,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1GqB0h.img",
+                "title": "Cascadia Subduction Zone",
+                "caption": "<p>A megatsunami can be triggered by an earthquake of magnitude 8.0 or greater in the Cascadia Subduction Zone.</p>",
+                "source": "msn"
+            },
+            {
+                "width": 1920,
+                "height": 1280,
+                "quality": 81,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1GqHAP.img",
+                "title": "A giant failure",
+                "caption": "<p>The Economic Times reported that it is a gigantic fault that stretches from Vancouver Island in Canada to northern California.</p>",
+                "source": "msn"
+            },
+            {
+                "width": 1920,
+                "height": 1280,
+                "quality": 81,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1GqJtd.img",
+                "title": "15% chance of an earthquake happening",
+                "caption": "<p>According to the study, published in the journal Proceedings of the National Academy of Sciences, there is a 15% chance of the earthquake occurring. Its consequences would wipe out entire cities along the coast of the Pacific Ocean.</p>",
+                "source": "msn"
+            }
+        ],
+        "provider": {
+            "id": "BB1e7EoL",
+            "name": "The Daily Digest",
+            "logoUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1gJOWA.img",
+            "profileId": "vid-m9m4jvvns2j07r8ryna4ukyusv9y69vg8cgntexr4kid2uw7wgvs",
+            "feedAllowedFreeItem": 0
+        },
+        "category": "weather",
+        "reactionSummary": {
+            "totalCount": 371,
+            "subReactionSummaries": [
+                {
+                    "totalCount": 237,
+                    "type": "upvote"
+                },
+                {
+                    "totalCount": 134,
+                    "type": "downvote"
+                }
+            ]
+        },
+        "reactionStatus": "on",
+        "commentSummary": {
+            "totalCount": 60,
+            "subCommentSummaries": [
+                {
+                    "totalCount": 39,
+                    "type": "comment"
+                },
+                {
+                    "totalCount": 21,
+                    "type": "reply"
+                }
+            ]
+        },
+        "commentStatus": "on",
+        "relevanceScore": 86.001045,
+        "subscriptionProductType": "undefined",
+        "notificationMetadata": {
+            "isBadgeEnabledPreviewCandidate": false,
+            "lastStateChangeFileTimeUtc": 0
+        },
+        "recoDocMetadata": {
+            "ModelScore": "7.313935930142179E-05",
+            "IsAtfHighQualityContent": "1"
+        },
+        "cardRankingMetadata": {
+            "pClick": 0,
+            "pRelevance": 0
+        },
+        "feed": {
+            "lastFreActionTimestamp": 0,
+            "feedCompositionCategory": "1"
+        },
+        "topics": [
+            {
+                "label": "Weather",
+                "weight": 0.602451503276825,
+                "feedId": "Y_a952481b-5929-4b40-83be-f2bc6edf43dd",
+                "locale": "en-us"
+            },
+            {
+                "label": "News",
+                "weight": 0.602451503276825,
+                "feedId": "Y_9eb0ac10-32bc-43cf-816e-5beaaf524f7a",
+                "locale": "en-us"
+            }
+        ],
+        "cardId": 28,
+        "isWorkNewsContent": false,
+        "workNewsRankingScore": 0.7371193766593933,
+        "reasons": [
+            {
+                "type": "u2U",
+                "rank": 0
+            }
+        ],
+        "ri": "332",
+        "recoId": "nnRi-T3wsb6_EezrhZ9h8AhGQu",
+        "newsClusterIdV5": "2755541108",
+        "source": "msn",
+        "dedupeIds": {
+            "newsClusterV5HPHash": [
+                "-1539426188"
+            ],
+            "newsClusterV6Hash": [
+                "584382397"
+            ],
+            "newsClusterV7Hash": [
+                "-354084529"
+            ],
+            "contentId": [
+                "AA1GqB3q"
+            ]
+        }
+    },
+    {
+        "id": "AA1GoN77",
+        "type": "slideshow",
+        "title": "Geneticists Bring Back A Near-Extinct American Species",
+        "abstract": "Ever wondered what happens when science steps in to save a vanishing species? In an amazing breakthrough, geneticists have successfully cloned the black-footed ferret, pulling this adorable American critter back from the edge of extinction. This scientific miracle combines cutting-edge technology with conservation efforts, offering new hope for biodiversity in North America's prairies.",
+        "readTimeMin": 0,
+        "url": "https://www.msn.com/en-us/news/technology/geneticists-bring-back-a-near-extinct-american-species/ss-AA1GoN77",
+        "locale": "en-us",
+        "isLocalContent": false,
+        "galleryItemCount": 17,
+        "financeMetadata": {
+            "sentimentRatings": [
+                {
+                    "topic": "wf_sentiment_positive",
+                    "score": 9536
+                },
+                {
+                    "topic": "wf_sentiment_negative",
+                    "score": 92
+                },
+                {
+                    "topic": "wf_sentiment_neutral",
+                    "score": 370
+                }
+            ]
+        },
+        "slides": [
+            {
+                "title": "Geneticists Bring Back A Near-Extinct American Species",
+                "body": "Ever wondered what happens when science steps in to save a vanishing species? In an amazing breakthrough, geneticists have successfully cloned the black-footed ferret, pulling this adorable American critter back from the edge of extinction.    This scientific miracle combines cutting-edge technology with conservation efforts, offering new hope for biodiversity in North America's prairies.",
+                "image": {
+                    "width": 1200,
+                    "height": 624,
+                    "quality": 99,
+                    "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1GoWhB.img",
+                    "attribution": "Geneticists Bring Back A Near-Extinct American Species",
+                    "title": "Geneticists Bring Back A Near-Extinct American Species",
+                    "caption": "Ever wondered what happens when science steps in to save a vanishing species? In an amazing breakthrough, geneticists have successfully cloned the black-footed ferret, pulling this adorable American critter back from the edge of extinction.    This scientific miracle combines cutting-edge technology with conservation efforts, offering new hope for biodiversity in North America's prairies.",
+                    "source": "msn"
+                }
+            },
+            {
+                "title": "1. The Cloning Of A Near-Extinct American Species",
+                "body": "<p>Back in 2020, scientists made history by creating Elizabeth Ann, the first-ever cloned black-footed ferret. She wasn't just any lab experiment—she represented a revolutionary approach to saving species.</p><p>Her DNA came from Willa, a ferret that died in 1988 whose cells were frozen in a special zoo bank. Elizabeth Ann's birth proved that decades-old genetic material could create new life!</p>",
+                "image": {
+                    "width": 800,
+                    "height": 533,
+                    "quality": 79,
+                    "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1GoPtA.img",
+                    "attribution": "\n                © Revive & Restore",
+                    "title": "1. The Cloning Of A Near-Extinct American Species",
+                    "caption": "<p>Back in 2020, scientists made history by creating Elizabeth Ann, the first-ever cloned black-footed ferret. She wasn't just any lab experiment—she represented a revolutionary approach to saving species.</p><p>Her DNA came from Willa, a ferret that died in 1988 whose cells were frozen in a special zoo bank. Elizabeth Ann's birth proved that decades-old genetic material could create new life!</p>",
+                    "source": "msn"
+                }
+            },
+            {
+                "title": "2. A Brief History Of Its Decline",
+                "body": "<p>Once thriving across America's Great Plains, black-footed ferrets nearly vanished when farmers poisoned prairie dogs—their main food source. By 1979, they were declared extinct in the wild!</p><p>A shocking discovery changed everything in 1981 when a ranch dog in Wyoming brought home a dead ferret. This lucky find led to the last wild colony, with just 18 survivors becoming the ancestors of all living black-footed ferrets today.</p>",
+                "image": {
+                    "width": 800,
+                    "height": 450,
+                    "quality": 79,
+                    "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1GoUj9.img",
+                    "attribution": "\n                © Undark Magazine",
+                    "title": "2. A Brief History Of Its Decline",
+                    "caption": "<p>Once thriving across America's Great Plains, black-footed ferrets nearly vanished when farmers poisoned prairie dogs—their main food source. By 1979, they were declared extinct in the wild!</p><p>A shocking discovery changed everything in 1981 when a ranch dog in Wyoming brought home a dead ferret. This lucky find led to the last wild colony, with just 18 survivors becoming the ancestors of all living black-footed ferrets today.</p>",
+                    "source": "msn"
+                }
+            }
+        ],
+        "publishedDateTime": "2025-06-10T02:09:00Z",
+        "height": 304,
+        "wpoId": 30,
+        "isFeatured": false,
+        "images": [
+            {
+                "width": 1200,
+                "height": 624,
+                "quality": 99,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1GoWhB.img",
+                "attribution": "Geneticists Bring Back A Near-Extinct American Species",
+                "title": "Geneticists Bring Back A Near-Extinct American Species",
+                "caption": "Ever wondered what happens when science steps in to save a vanishing species? In an amazing breakthrough, geneticists have successfully cloned the black-footed ferret, pulling this adorable American critter back from the edge of extinction.    This scientific miracle combines cutting-edge technology with conservation efforts, offering new hope for biodiversity in North America's prairies.",
+                "source": "msn"
+            },
+            {
+                "width": 800,
+                "height": 533,
+                "quality": 79,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1GoPtA.img",
+                "attribution": "\n                © Revive & Restore",
+                "title": "1. The Cloning Of A Near-Extinct American Species",
+                "caption": "<p>Back in 2020, scientists made history by creating Elizabeth Ann, the first-ever cloned black-footed ferret. She wasn't just any lab experiment—she represented a revolutionary approach to saving species.</p><p>Her DNA came from Willa, a ferret that died in 1988 whose cells were frozen in a special zoo bank. Elizabeth Ann's birth proved that decades-old genetic material could create new life!</p>",
+                "source": "msn"
+            },
+            {
+                "width": 800,
+                "height": 450,
+                "quality": 79,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1GoUj9.img",
+                "attribution": "\n                © Undark Magazine",
+                "title": "2. A Brief History Of Its Decline",
+                "caption": "<p>Once thriving across America's Great Plains, black-footed ferrets nearly vanished when farmers poisoned prairie dogs—their main food source. By 1979, they were declared extinct in the wild!</p><p>A shocking discovery changed everything in 1981 when a ranch dog in Wyoming brought home a dead ferret. This lucky find led to the last wild colony, with just 18 survivors becoming the ancestors of all living black-footed ferrets today.</p>",
+                "source": "msn"
+            },
+            {
+                "width": 800,
+                "height": 600,
+                "quality": 79,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1GoRWe.img",
+                "attribution": "\n                © WyoFile",
+                "title": "3. Geneticists And Their Role In Cloning The Black-Footed Ferret",
+                "caption": "<p>Revive & Restore, a wildlife conservation group, teamed up with the U.S. Fish and Wildlife Service and pet cloning company ViaGen Pets for this groundbreaking project. The scientists faced unique challenges since they were working with decades-old DNA.</p><p>Unlike regular breeding programs, these geneticists had to figure out how to transfer genetic material into donor cells and create embryos. Their success opened doors for saving other endangered species through similar techniques.</p>",
+                "source": "msn"
+            }
+        ],
+        "provider": {
+            "id": "AA1s2IRw",
+            "name": "Animalko",
+            "logoUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1soDvs.img",
+            "profileId": "vid-8ye52erbrj9egj2cp6uk8psjxtrj8cc5rwcuucqpr9jvmmpah5ha",
+            "feedAllowedFreeItem": 0
+        },
+        "category": "news",
+        "reactionSummary": {
+            "totalCount": 80,
+            "subReactionSummaries": [
+                {
+                    "totalCount": 72,
+                    "type": "upvote"
+                },
+                {
+                    "totalCount": 8,
+                    "type": "downvote"
+                }
+            ]
+        },
+        "reactionStatus": "on",
+        "commentSummary": {
+            "totalCount": 0
+        },
+        "commentStatus": "on",
+        "relevanceScore": 85.001045,
+        "subscriptionProductType": "undefined",
+        "notificationMetadata": {
+            "isBadgeEnabledPreviewCandidate": false,
+            "lastStateChangeFileTimeUtc": 0
+        },
+        "recoDocMetadata": {
+            "ModelScore": "3.9647195080760866E-05",
+            "IsAtfHighQualityContent": "1"
+        },
+        "cardRankingMetadata": {
+            "pClick": 0,
+            "pRelevance": 0
+        },
+        "feed": {
+            "lastFreActionTimestamp": 0,
+            "feedCompositionCategory": "1"
+        },
+        "topics": [
+            {
+                "label": "News",
+                "weight": 0.5238505601882935,
+                "feedId": "Y_9eb0ac10-32bc-43cf-816e-5beaaf524f7a",
+                "locale": "en-us"
+            }
+        ],
+        "cardId": 29,
+        "isWorkNewsContent": false,
+        "workNewsRankingScore": 0.8223639726638794,
+        "reasons": [
+            {
+                "type": "u2U",
+                "rank": 0
+            }
+        ],
+        "ri": "332",
+        "recoId": "nnRi-T3wsb6_EezrhZ9h8AhGQu",
+        "newsClusterIdV5": "27220217",
+        "newsClusterIdV6": "-1809371584",
+        "source": "msn",
+        "dedupeIds": {
+            "newsClusterV5HPHash": [
+                "978226334"
+            ],
+            "newsClusterV6Hash": [
+                "-1809371584"
+            ],
+            "newsClusterV7Hash": [
+                "1260614948"
+            ],
+            "contentId": [
+                "AA1GoN77"
+            ]
+        }
+    },
+    {
+        "id": "AA1FXTxH",
+        "type": "video",
+        "title": "Decoding Ancient Anomalies In Egypt",
+        "abstract": "Ancient Lost Worlds and Hidden History. On location videos made by author and adventurer Brien Foerster exploring Peru, Bolivia, Egypt, Hawaii, Easter Island and other exotic places. With special emphasis on evidence that advanced technology and human history are at least 10,000 years old.",
+        "readTimeMin": 0,
+        "url": "https://www.msn.com/en-us/travel/article/decoding-ancient-anomalies-in-egypt/vi-AA1FXTxH",
+        "locale": "en-us",
+        "isLocalContent": false,
+        "financeMetadata": {
+            "sentimentRatings": [
+                {
+                    "topic": "wf_sentiment_positive",
+                    "score": 385
+                },
+                {
+                    "topic": "wf_sentiment_negative",
+                    "score": 40
+                },
+                {
+                    "topic": "wf_sentiment_neutral",
+                    "score": 9574
+                }
+            ]
+        },
+        "publishedDateTime": "2025-06-03T02:37:05Z",
+        "height": 304,
+        "wpoId": 31,
+        "isFeatured": false,
+        "images": [
+            {
+                "width": 1280,
+                "height": 720,
+                "quality": 88,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1FXVzK.img",
+                "attribution": "",
+                "title": "Decoding Ancient Anomalies In Egypt",
+                "caption": "Ancient Lost Worlds and Hidden History. On location videos made by author and adventurer Brien Foerster exploring Peru, Bolivia, Egypt, Hawaii, Easter Island and other exotic places. With special emphasis on evidence that advanced technology and human history are at least 10,000 years old.",
+                "source": "msn"
+            }
+        ],
+        "provider": {
+            "id": "BB1qfQ3o",
+            "name": "Brien Foerster",
+            "logoUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1t5doA.img",
+            "profileId": "vid-f5xx5ixub00urchdkam48eq0y9gbmrqshn7v4kxjphu53se6gwus",
+            "feedAllowedFreeItem": 0
+        },
+        "category": "travel",
+        "reactionSummary": {
+            "totalCount": 108,
+            "subReactionSummaries": [
+                {
+                    "totalCount": 101,
+                    "type": "upvote"
+                },
+                {
+                    "totalCount": 7,
+                    "type": "downvote"
+                }
+            ]
+        },
+        "reactionStatus": "on",
+        "commentSummary": {
+            "totalCount": 2,
+            "subCommentSummaries": [
+                {
+                    "totalCount": 2,
+                    "type": "comment"
+                }
+            ]
+        },
+        "commentStatus": "on",
+        "relevanceScore": 84.001045,
+        "subscriptionProductType": "undefined",
+        "notificationMetadata": {
+            "isBadgeEnabledPreviewCandidate": false,
+            "lastStateChangeFileTimeUtc": 0
+        },
+        "recoDocMetadata": {
+            "ModelScore": "0.00042375174234621227",
+            "IsAtfHighQualityContent": "1"
+        },
+        "cardRankingMetadata": {
+            "pClick": 0,
+            "pRelevance": 0
+        },
+        "feed": {
+            "lastFreActionTimestamp": 0,
+            "feedCompositionCategory": "1|13"
+        },
+        "cardId": 30,
+        "isWorkNewsContent": false,
+        "workNewsRankingScore": 0.4121108949184418,
+        "reasons": [
+            {
+                "type": "fallback",
+                "rank": 0
+            }
+        ],
+        "ri": "347",
+        "recoId": "nnRi-T3wsb6_EezrhZ9h8AhGQu",
+        "newsClusterIdV5": "814728233",
+        "newsClusterIdV6": "1581219966",
+        "source": "msn",
+        "videoMetadata": {
+            "playTime": 1238,
+            "closedCaptions": [
+                {
+                    "locale": "en-us",
+                    "href": "https://prod-video-cms-amp-microsoft-com.akamaized.net/tenant/amp/entityid/AA1FXTxH?blobrefkey=closedcaptionen-us&$blob=1"
+                }
+            ]
+        },
+        "externalVideoFiles": [
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/df1a717b-83fa-41e5-a57e-c29abb2b2861/26837d91-a3c8-46b1-acf6-d0c85bceb958.mp4",
+                "width": 1280,
+                "height": 720,
+                "contentType": "video/mp4",
+                "fileSize": 492004506
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/02c03f46-b7c0-4ff4-9125-04f394bb2de6/62214add-bb75-4a60-bfb4-18eb6ce5d3b8.m3u8",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/02c03f46-b7c0-4ff4-9125-04f394bb2de6/62214add-bb75-4a60-bfb4-18eb6ce5d3b8.m3u8",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/02c03f46-b7c0-4ff4-9125-04f394bb2de6/62214add-bb75-4a60-bfb4-18eb6ce5d3b8.mpd",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/02c03f46-b7c0-4ff4-9125-04f394bb2de6/62214add-bb75-4a60-bfb4-18eb6ce5d3b8_3400.mp4",
+                "width": 1280,
+                "height": 720,
+                "contentType": "video/mp4",
+                "fileSize": 532879109
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/02c03f46-b7c0-4ff4-9125-04f394bb2de6/62214add-bb75-4a60-bfb4-18eb6ce5d3b8_2250.mp4",
+                "width": 960,
+                "height": 540,
+                "contentType": "video/mp4",
+                "fileSize": 358861522
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/02c03f46-b7c0-4ff4-9125-04f394bb2de6/62214add-bb75-4a60-bfb4-18eb6ce5d3b8_1500.mp4",
+                "width": 960,
+                "height": 540,
+                "contentType": "video/mp4",
+                "fileSize": 245926877
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus003/02c03f46-b7c0-4ff4-9125-04f394bb2de6/62214add-bb75-4a60-bfb4-18eb6ce5d3b8_650.mp4",
+                "width": 640,
+                "height": 360,
+                "contentType": "video/mp4",
+                "fileSize": 115974231
+            }
+        ],
+        "dedupeIds": {
+            "newsClusterV5HPHash": [
+                "814728233"
+            ],
+            "newsClusterV6Hash": [
+                "1581219966"
+            ],
+            "newsClusterV7Hash": [
+                "-1590241598"
+            ],
+            "contentId": [
+                "AA1FXTxH"
+            ]
+        }
+    },
+    {
+        "id": "AA1GsXD1",
+        "type": "article",
+        "title": "GOP Lawmaker Bombarded With Confederate Flags After Declaring 'We Fly the American Flag' Over LA Protests",
+        "abstract": "Rep. Jim Jordan (R-OH) is being bombarded with images of Confederate flags after writing, \"We fly the American flag in America\" on social media amid LA protests",
+        "readTimeMin": 2,
+        "url": "https://www.msn.com/en-us/news/us/gop-lawmaker-bombarded-with-confederate-flags-after-declaring-we-fly-the-american-flag-over-la-protests/ar-AA1GsXD1",
+        "locale": "en-us",
+        "isLocalContent": false,
+        "financeMetadata": {
+            "sentimentRatings": [
+                {
+                    "topic": "wf_sentiment_positive",
+                    "score": 394
+                },
+                {
+                    "topic": "wf_sentiment_negative",
+                    "score": 9414
+                },
+                {
+                    "topic": "wf_sentiment_neutral",
+                    "score": 190
+                }
+            ]
+        },
+        "publishedDateTime": "2025-06-10T22:04:48Z",
+        "height": 304,
+        "wpoId": 32,
+        "isFeatured": false,
+        "images": [
+            {
+                "width": 2000,
+                "height": 1332,
+                "quality": 99,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1Gt0aA.img",
+                "attribution": "Samuel Corum; Ringo Chiu/Getty Images",
+                "title": "GOP Lawmaker Bombarded With Confederate Flags After Declaring 'We Fly",
+                "caption": "GOP Lawmaker Bombarded With Confederate Flags After Declaring 'We Fly",
+                "focalRegion": {
+                    "x1": 120,
+                    "x2": 809,
+                    "y1": 527,
+                    "y2": 1225
+                },
+                "source": "msn"
+            }
+        ],
+        "provider": {
+            "id": "BB1ji0PE",
+            "name": "Latin Times",
+            "logoUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1jhVI9.img",
+            "profileId": "vid-j9fh75c46x28y4jn70py5qqgabu6nqfbhms40qpvww5fxg23n07s",
+            "feedAllowedFreeItem": 0
+        },
+        "category": "news",
+        "reactionSummary": {
+            "totalCount": 68,
+            "subReactionSummaries": [
+                {
+                    "totalCount": 61,
+                    "type": "upvote"
+                },
+                {
+                    "totalCount": 7,
+                    "type": "downvote"
+                }
+            ]
+        },
+        "reactionStatus": "on",
+        "commentSummary": {
+            "totalCount": 46,
+            "subCommentSummaries": [
+                {
+                    "totalCount": 19,
+                    "type": "comment"
+                },
+                {
+                    "totalCount": 27,
+                    "type": "reply"
+                }
+            ]
+        },
+        "commentStatus": "on",
+        "relevanceScore": 83.001045,
+        "subscriptionProductType": "undefined",
+        "notificationMetadata": {
+            "isBadgeEnabledPreviewCandidate": false,
+            "lastStateChangeFileTimeUtc": 0
+        },
+        "recoDocMetadata": {
+            "ModelScore": "0.0002961351128760725",
+            "IsAtfHighQualityContent": "1"
+        },
+        "cardRankingMetadata": {
+            "pClick": 0,
+            "pRelevance": 0
+        },
+        "feed": {
+            "lastFreActionTimestamp": 0,
+            "feedCompositionCategory": "1"
+        },
+        "topics": [
+            {
+                "label": "US",
+                "weight": 0.6998718976974487,
+                "feedId": "Y_a3b33cc2-2c47-48ba-a975-4b87b597644b",
+                "locale": "en-us"
+            },
+            {
+                "label": "News",
+                "weight": 0.6998718976974487,
+                "feedId": "Y_9eb0ac10-32bc-43cf-816e-5beaaf524f7a",
+                "locale": "en-us"
+            }
+        ],
+        "cardId": 31,
+        "isWorkNewsContent": false,
+        "workNewsRankingScore": 0.9913093447685242,
+        "reasons": [
+            {
+                "type": "u2U",
+                "rank": 0
+            }
+        ],
+        "ri": "332",
+        "recoId": "nnRi-T3wsb6_EezrhZ9h8AhGQu",
+        "newsClusterIdV5": "826875008",
+        "source": "msn",
+        "dedupeIds": {
+            "newsClusterV5HPHash": [
+                "826875008"
+            ],
+            "newsClusterV6Hash": [
+                "1251619305"
+            ],
+            "newsClusterV7Hash": [
+                "1822554476"
+            ],
+            "contentId": [
+                "AA1GsXD1"
+            ]
+        }
+    },
+    {
+        "id": "AA1GrBBj",
+        "type": "video",
+        "title": "Restoring 1951's Tin Toy Submarine! 😍",
+        "abstract": "From old to restored: tin submarine.",
+        "readTimeMin": 0,
+        "url": "https://www.msn.com/en-us/money/news/restoring-1951-s-tin-toy-submarine/vi-AA1GrBBj",
+        "locale": "en-us",
+        "isLocalContent": false,
+        "financeMetadata": {
+            "sentimentRatings": [
+                {
+                    "topic": "wf_sentiment_positive",
+                    "score": 9776
+                },
+                {
+                    "topic": "wf_sentiment_negative",
+                    "score": 42
+                },
+                {
+                    "topic": "wf_sentiment_neutral",
+                    "score": 181
+                }
+            ],
+            "categories": [
+                {
+                    "topic": "money",
+                    "score": 10000
+                }
+            ]
+        },
+        "publishedDateTime": "2025-06-10T16:00:00Z",
+        "height": 304,
+        "wpoId": 33,
+        "isFeatured": false,
+        "images": [
+            {
+                "width": 1280,
+                "height": 720,
+                "quality": 87,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1GrKj1.img",
+                "title": "Restoring 1951's Tin Toy Submarine! 😍",
+                "source": "msn"
+            }
+        ],
+        "provider": {
+            "id": "AA1ttn1c",
+            "name": "TheFabrik",
+            "logoUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1ujBW6.img",
+            "profileId": "vid-q6qti748b9x44t4v6k9ahg602q4bjmmr8qca4emqq92apa59axcs",
+            "feedAllowedFreeItem": 0
+        },
+        "category": "money",
+        "reactionSummary": {
+            "totalCount": 1,
+            "subReactionSummaries": [
+                {
+                    "totalCount": 1,
+                    "type": "upvote"
+                }
+            ]
+        },
+        "reactionStatus": "on",
+        "commentSummary": {
+            "totalCount": 0
+        },
+        "commentStatus": "on",
+        "relevanceScore": 82.001045,
+        "subscriptionProductType": "undefined",
+        "notificationMetadata": {
+            "isBadgeEnabledPreviewCandidate": false,
+            "lastStateChangeFileTimeUtc": 0
+        },
+        "recoDocMetadata": {
+            "ModelScore": "0.0003576820017769933",
+            "IsAtfHighQualityContent": "1"
+        },
+        "cardRankingMetadata": {
+            "pClick": 0,
+            "pRelevance": 0
+        },
+        "feed": {
+            "lastFreActionTimestamp": 0,
+            "feedCompositionCategory": "1|13"
+        },
+        "topics": [
+            {
+                "label": "Business",
+                "weight": 0.76225745677948,
+                "feedId": "Y_367b7be1-6bd2-44e7-95b3-b0d077ccc28d",
+                "locale": "en-us"
+            },
+            {
+                "label": "Money",
+                "weight": 0.76225745677948,
+                "feedId": "Y_f714b6e2-e9db-41d0-9b5f-b2e0a52f85da",
+                "locale": "en-us"
+            }
+        ],
+        "cardId": 32,
+        "isWorkNewsContent": false,
+        "workNewsRankingScore": 0.76225745677948,
+        "reasons": [
+            {
+                "type": "fallback",
+                "rank": 0
+            }
+        ],
+        "ri": "347",
+        "recoId": "nnRi-T3wsb6_EezrhZ9h8AhGQu",
+        "newsClusterIdV5": "3021438670",
+        "source": "msn",
+        "videoMetadata": {
+            "playTime": 1075,
+            "closedCaptions": [
+                {
+                    "locale": "en-us",
+                    "href": "https://prod-video-cms-amp-microsoft-com.akamaized.net/tenant/amp/entityid/AA1GrBBj?blobrefkey=closedcaptionen-us&$blob=1"
+                }
+            ]
+        },
+        "externalVideoFiles": [
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/353783a4-29ad-421d-8ff5-77f27000ed16/e832170e-7cc3-4813-986f-b9d34221411a.mp4",
+                "width": 1920,
+                "height": 1080,
+                "contentType": "video/mp4",
+                "fileSize": 357642992
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/f085d3dc-91cc-4103-8897-632cd1704f97/b2a1ef8d-4d62-4f0c-b912-2a7c9c9d71e0.m3u8",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/f085d3dc-91cc-4103-8897-632cd1704f97/b2a1ef8d-4d62-4f0c-b912-2a7c9c9d71e0.m3u8",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/f085d3dc-91cc-4103-8897-632cd1704f97/b2a1ef8d-4d62-4f0c-b912-2a7c9c9d71e0.mpd",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/f085d3dc-91cc-4103-8897-632cd1704f97/b2a1ef8d-4d62-4f0c-b912-2a7c9c9d71e0_6750.mp4",
+                "width": 1920,
+                "height": 1080,
+                "contentType": "video/mp4",
+                "fileSize": 918209401
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/f085d3dc-91cc-4103-8897-632cd1704f97/b2a1ef8d-4d62-4f0c-b912-2a7c9c9d71e0_3400.mp4",
+                "width": 1280,
+                "height": 720,
+                "contentType": "video/mp4",
+                "fileSize": 470576123
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/f085d3dc-91cc-4103-8897-632cd1704f97/b2a1ef8d-4d62-4f0c-b912-2a7c9c9d71e0_2250.mp4",
+                "width": 960,
+                "height": 540,
+                "contentType": "video/mp4",
+                "fileSize": 316233011
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/f085d3dc-91cc-4103-8897-632cd1704f97/b2a1ef8d-4d62-4f0c-b912-2a7c9c9d71e0_1500.mp4",
+                "width": 960,
+                "height": 540,
+                "contentType": "video/mp4",
+                "fileSize": 215583896
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/f085d3dc-91cc-4103-8897-632cd1704f97/b2a1ef8d-4d62-4f0c-b912-2a7c9c9d71e0_650.mp4",
+                "width": 640,
+                "height": 360,
+                "contentType": "video/mp4",
+                "fileSize": 101517705
+            }
+        ],
+        "dedupeIds": {
+            "newsClusterV5HPHash": [
+                "-1273528626"
+            ],
+            "newsClusterV6Hash": [
+                "1868915404"
+            ],
+            "newsClusterV7Hash": [
+                "944243205"
+            ],
+            "contentId": [
+                "AA1GrBBj"
+            ]
+        }
+    },
+    {
+        "id": "AA1GrRFB",
+        "type": "slideshow",
+        "title": "Satellite Images Reveal Hidden Methane Leaks the Industry Didn’t Disclose",
+        "abstract": "Satellite Images Reveal Hidden Methane Leaks the Industry Didn’t Disclose",
+        "readTimeMin": 0,
+        "url": "https://www.msn.com/en-us/weather/topstories/satellite-images-reveal-hidden-methane-leaks-the-industry-didn-t-disclose/ss-AA1GrRFB",
+        "locale": "en-us",
+        "isLocalContent": false,
+        "galleryItemCount": 8,
+        "financeMetadata": {
+            "sentimentRatings": [
+                {
+                    "topic": "wf_sentiment_positive",
+                    "score": 200
+                },
+                {
+                    "topic": "wf_sentiment_negative",
+                    "score": 9683
+                },
+                {
+                    "topic": "wf_sentiment_neutral",
+                    "score": 115
+                }
+            ]
+        },
+        "slides": [
+            {
+                "title": "MethaneSAT’s Global Eye Exposes the Invisible",
+                "body": "Until recently, methane leaks from oil and gas fields were largely invisible—hidden both from the public and often from regulators. That changed dramatically in 2024 with the deployment of MethaneSAT, a satellite mission spearheaded by the Environmental Defense Fund.<br><br>MethaneSAT has been scanning 12 major oil and gas regions worldwide, detecting an astonishing 1,300 tonnes of methane released per hour between July 2024 and January 2025. This volume of methane is not just an environmental catastrophe; it’s economically shocking, representing roughly $200,000 worth of lost gas every single hour.<br><br>By turning a once-invisible problem into something you can see from space, MethaneSAT has forced the industry to confront leaks they never publicly admitted. According to MethaneSAT’s project director, “We’re seeing things that just weren’t possible to monitor before.” The satellite’s data is now at the heart of urgent policy debates, shaking up both industry and government.<br><br>What was hidden is now undeniable—and the numbers are too big to ignore.",
+                "image": {
+                    "width": 1546,
+                    "height": 803,
+                    "quality": 100,
+                    "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1GrBOF.img",
+                    "attribution": "wikimedia",
+                    "title": "MethaneSAT’s Global Eye Exposes the Invisible",
+                    "caption": "Until recently, methane leaks from oil and gas fields were largely invisible—hidden both from the public and often from regulators. That changed dramatically in 2024 with the deployment of MethaneSAT, a satellite mission spearheaded by the Environmental Defense Fund.<br><br>MethaneSAT has been scanning 12 major oil and gas regions worldwide, detecting an astonishing 1,300 tonnes of methane released per hour between July 2024 and January 2025. This volume of methane is not just an environmental catastrophe; it’s economically shocking, representing roughly $200,000 worth of lost gas every single hour.<br><br>By turning a once-invisible problem into something you can see from space, MethaneSAT has forced the industry to confront leaks they never publicly admitted. According to MethaneSAT’s project director, “We’re seeing things that just weren’t possible to monitor before.” The satellite’s data is now at the heart of urgent policy debates, shaking up both industry and government.<br><br>What was hidden is now undeniable—and the numbers are too big to ignore.",
+                    "source": "msn"
+                }
+            },
+            {
+                "title": "The Small Leak Problem: Tiny Sources, Massive Impact",
+                "body": "It’s easy to picture massive gas plumes as the main culprits in methane pollution. But new satellite data flips this assumption.<br><br>In the United States, sources emitting less than 100 kilograms of methane per hour now account for most of the total methane released, according to MethaneSAT’s 2025 findings. These small leaks, scattered across thousands of wells, add up to a staggering share of emissions—so much so that ignoring them would mean missing the real problem.<br><br>“The majority of methane is coming from these small, persistent sources, not just the headline-making super-emitters,” explains a senior EDF scientist. This insight has upended how regulators and companies must tackle methane: focusing only on big leaks is like bailing water with a teaspoon while the boat has dozens of small holes.<br><br>Satellite monitoring is now the only way to track these countless, often unreported, leaks across huge geographic areas.",
+                "image": {
+                    "width": 4206,
+                    "height": 2804,
+                    "quality": 70,
+                    "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1GrmrR.img",
+                    "attribution": "wikimedia",
+                    "title": "Expert Voices Warn of Overlooked Dangers",
+                    "caption": "Climate scientists and engineers are raising the alarm about our blind spots when it comes to methane. “We’ve underestimated how much methane is leaking from abandoned infrastructure,” said Dr.<br><br>Maria Gonzalez, a geochemist, at a recent climate summit. She pointed out that even small, persistent leaks can add up to a major climate threat over time.<br><br>The emotional urgency in her voice was clear: ignoring these invisible emissions could undermine decades of progress. It’s a stark reminder that fighting climate change means looking below the surface—literally.",
+                    "source": "msn"
+                }
+            },
+            {
+                "title": "Regional Surprises: Methane’s Wild Fluctuations",
+                "body": "Methane emissions don’t follow a neat or predictable pattern. In Turkmenistan’s Amu Darya Basin, one of the world’s largest gas-producing regions, satellite images caught a dramatic drop in methane emissions from 203 tonnes per hour in July to much lower levels just a few months later in October.<br><br>But this wasn’t a simple fix—emissions didn’t disappear; they shifted, highlighting how methane releases can be episodic and unpredictable. These wild swings challenge old assumptions that leaks are constant or easily managed.<br><br>“Methane is like a ghost—it comes and goes, and you need eyes everywhere to catch it,” said an emissions monitoring expert in late 2024. Such findings have sparked calls for real-time monitoring, not just annual inspections, as the only way to catch the industry’s slippery emissions in the act.",
+                "image": {
+                    "width": 1280,
+                    "height": 720,
+                    "quality": 91,
+                    "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1GrP71.img",
+                    "attribution": "pixabay",
+                    "title": "Regional Surprises: Methane’s Wild Fluctuations",
+                    "caption": "Methane emissions don’t follow a neat or predictable pattern. In Turkmenistan’s Amu Darya Basin, one of the world’s largest gas-producing regions, satellite images caught a dramatic drop in methane emissions from 203 tonnes per hour in July to much lower levels just a few months later in October.<br><br>But this wasn’t a simple fix—emissions didn’t disappear; they shifted, highlighting how methane releases can be episodic and unpredictable. These wild swings challenge old assumptions that leaks are constant or easily managed.<br><br>“Methane is like a ghost—it comes and goes, and you need eyes everywhere to catch it,” said an emissions monitoring expert in late 2024. Such findings have sparked calls for real-time monitoring, not just annual inspections, as the only way to catch the industry’s slippery emissions in the act.",
+                    "source": "msn"
+                }
+            }
+        ],
+        "publishedDateTime": "2025-06-10T15:25:26Z",
+        "height": 304,
+        "wpoId": 34,
+        "isFeatured": false,
+        "images": [
+            {
+                "width": 1546,
+                "height": 803,
+                "quality": 100,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1GrBOF.img",
+                "attribution": "wikimedia",
+                "title": "MethaneSAT’s Global Eye Exposes the Invisible",
+                "caption": "Until recently, methane leaks from oil and gas fields were largely invisible—hidden both from the public and often from regulators. That changed dramatically in 2024 with the deployment of MethaneSAT, a satellite mission spearheaded by the Environmental Defense Fund.<br><br>MethaneSAT has been scanning 12 major oil and gas regions worldwide, detecting an astonishing 1,300 tonnes of methane released per hour between July 2024 and January 2025. This volume of methane is not just an environmental catastrophe; it’s economically shocking, representing roughly $200,000 worth of lost gas every single hour.<br><br>By turning a once-invisible problem into something you can see from space, MethaneSAT has forced the industry to confront leaks they never publicly admitted. According to MethaneSAT’s project director, “We’re seeing things that just weren’t possible to monitor before.” The satellite’s data is now at the heart of urgent policy debates, shaking up both industry and government.<br><br>What was hidden is now undeniable—and the numbers are too big to ignore.",
+                "source": "msn"
+            },
+            {
+                "width": 4206,
+                "height": 2804,
+                "quality": 70,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1GrmrR.img",
+                "attribution": "wikimedia",
+                "title": "Expert Voices Warn of Overlooked Dangers",
+                "caption": "Climate scientists and engineers are raising the alarm about our blind spots when it comes to methane. “We’ve underestimated how much methane is leaking from abandoned infrastructure,” said Dr.<br><br>Maria Gonzalez, a geochemist, at a recent climate summit. She pointed out that even small, persistent leaks can add up to a major climate threat over time.<br><br>The emotional urgency in her voice was clear: ignoring these invisible emissions could undermine decades of progress. It’s a stark reminder that fighting climate change means looking below the surface—literally.",
+                "source": "msn"
+            },
+            {
+                "width": 1280,
+                "height": 720,
+                "quality": 91,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1GrP71.img",
+                "attribution": "pixabay",
+                "title": "Regional Surprises: Methane’s Wild Fluctuations",
+                "caption": "Methane emissions don’t follow a neat or predictable pattern. In Turkmenistan’s Amu Darya Basin, one of the world’s largest gas-producing regions, satellite images caught a dramatic drop in methane emissions from 203 tonnes per hour in July to much lower levels just a few months later in October.<br><br>But this wasn’t a simple fix—emissions didn’t disappear; they shifted, highlighting how methane releases can be episodic and unpredictable. These wild swings challenge old assumptions that leaks are constant or easily managed.<br><br>“Methane is like a ghost—it comes and goes, and you need eyes everywhere to catch it,” said an emissions monitoring expert in late 2024. Such findings have sparked calls for real-time monitoring, not just annual inspections, as the only way to catch the industry’s slippery emissions in the act.",
+                "source": "msn"
+            },
+            {
+                "width": 1558,
+                "height": 854,
+                "quality": 99,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1GrIXy.img",
+                "attribution": "wikimedia",
+                "title": "Industry Promises vs. Reality: Loss Rates Far Above Targets",
+                "caption": "The oil and gas industry has made bold promises to slash methane leaks, with a global target of reducing loss rates to just 0.2% by 2030. Yet, satellite data from 2024–2025 paints a very different picture, especially in the Permian Basin, America’s largest oil field.<br><br>There, the actual loss rate is measured at 1.8% to 2.9%—a whopping 9 to 14 times higher than the industry’s public commitment. This gap exposes a credibility crisis for the sector, as well as for regulators relying on self-reported data.<br><br>“The numbers don’t lie,” says a leading climate watchdog. “The loss rates we’re seeing on satellite images make it clear the current approach isn’t working.” These stark differences have fueled public distrust and calls for tougher, independent oversight backed by real-time satellite evidence.",
+                "source": "msn"
+            }
+        ],
+        "provider": {
+            "id": "AA1AfkHw",
+            "name": "Climate Compass",
+            "logoUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1Afpn4.img",
+            "profileId": "vid-cck99c883isakt2jxyxgcxa303kx98wjnyxfwdx7phk0u9b6t7xs",
+            "feedAllowedFreeItem": 0
+        },
+        "category": "weather",
+        "reactionSummary": {
+            "totalCount": 53,
+            "subReactionSummaries": [
+                {
+                    "totalCount": 40,
+                    "type": "upvote"
+                },
+                {
+                    "totalCount": 13,
+                    "type": "downvote"
+                }
+            ]
+        },
+        "reactionStatus": "on",
+        "commentSummary": {
+            "totalCount": 12,
+            "subCommentSummaries": [
+                {
+                    "totalCount": 10,
+                    "type": "comment"
+                },
+                {
+                    "totalCount": 2,
+                    "type": "reply"
+                }
+            ]
+        },
+        "commentStatus": "on",
+        "relevanceScore": 81.001045,
+        "subscriptionProductType": "undefined",
+        "notificationMetadata": {
+            "isBadgeEnabledPreviewCandidate": false,
+            "lastStateChangeFileTimeUtc": 0
+        },
+        "recoDocMetadata": {
+            "ModelScore": "0.00017630058573558927",
+            "IsAtfHighQualityContent": "1"
+        },
+        "cardRankingMetadata": {
+            "pClick": 0,
+            "pRelevance": 0
+        },
+        "feed": {
+            "lastFreActionTimestamp": 0,
+            "feedCompositionCategory": "1"
+        },
+        "cardId": 33,
+        "isWorkNewsContent": false,
+        "workNewsRankingScore": 0.5802311897277832,
+        "reasons": [
+            {
+                "type": "u2U",
+                "rank": 0
+            }
+        ],
+        "ri": "332",
+        "recoId": "nnRi-T3wsb6_EezrhZ9h8AhGQu",
+        "newsClusterIdV5": "2654402737",
+        "source": "msn",
+        "dedupeIds": {
+            "newsClusterV5HPHash": [
+                "-1640564559"
+            ],
+            "newsClusterV6Hash": [
+                "-240988093"
+            ],
+            "newsClusterV7Hash": [
+                "1732273990"
+            ],
+            "contentId": [
+                "AA1GrRFB"
+            ]
+        }
+    },
+    {
+        "id": "AA1G0ckU",
+        "type": "video",
+        "title": "Trapped 360ft Below – The Johnson Sea Link Submarine Disaster",
+        "abstract": "Long before the Titan, this deep-sea dive nearly ended in tragedy. Four men, freezing cold, oxygen fading—no one knew if they'd survive.",
+        "readTimeMin": 0,
+        "url": "https://www.msn.com/en-us/weather/topstories/trapped-360ft-below-the-johnson-sea-link-submarine-disaster/vi-AA1G0ckU",
+        "locale": "en-us",
+        "isLocalContent": false,
+        "financeMetadata": {
+            "sentimentRatings": [
+                {
+                    "topic": "wf_sentiment_positive",
+                    "score": 1024
+                },
+                {
+                    "topic": "wf_sentiment_negative",
+                    "score": 4264
+                },
+                {
+                    "topic": "wf_sentiment_neutral",
+                    "score": 4710
+                }
+            ]
+        },
+        "publishedDateTime": "2025-06-03T13:27:33Z",
+        "height": 304,
+        "wpoId": 35,
+        "isFeatured": false,
+        "images": [
+            {
+                "width": 1920,
+                "height": 1080,
+                "quality": 100,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1G0qwt.img",
+                "attribution": "",
+                "title": "Trapped 360ft Below – The Johnson Sea Link Submarine Disaster",
+                "caption": "Long before the Titan, this deep-sea dive nearly ended in tragedy. Four men, freezing cold, oxygen fading—no one knew if they'd survive.",
+                "source": "msn"
+            }
+        ],
+        "provider": {
+            "id": "AA1pVuQn",
+            "name": "Dark Records",
+            "logoUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1q6l5u.img",
+            "profileId": "vid-ea7m3w9m3ifhf3tqyr4gv0w2k7v2b66tpg0ihujmy25pftyxqhva",
+            "feedAllowedFreeItem": 0
+        },
+        "category": "weather",
+        "reactionSummary": {
+            "totalCount": 98,
+            "subReactionSummaries": [
+                {
+                    "totalCount": 84,
+                    "type": "upvote"
+                },
+                {
+                    "totalCount": 14,
+                    "type": "downvote"
+                }
+            ]
+        },
+        "reactionStatus": "on",
+        "commentSummary": {
+            "totalCount": 1,
+            "subCommentSummaries": [
+                {
+                    "totalCount": 1,
+                    "type": "comment"
+                }
+            ]
+        },
+        "commentStatus": "on",
+        "relevanceScore": 80.001045,
+        "subscriptionProductType": "undefined",
+        "notificationMetadata": {
+            "isBadgeEnabledPreviewCandidate": false,
+            "lastStateChangeFileTimeUtc": 0
+        },
+        "recoDocMetadata": {
+            "ModelScore": "0.0004110311856493354",
+            "IsAtfHighQualityContent": "1"
+        },
+        "cardRankingMetadata": {
+            "pClick": 0,
+            "pRelevance": 0
+        },
+        "feed": {
+            "lastFreActionTimestamp": 0,
+            "feedCompositionCategory": "1|13"
+        },
+        "cardId": 34,
+        "isWorkNewsContent": false,
+        "workNewsRankingScore": 0.5776306390762329,
+        "reasons": [
+            {
+                "type": "fallback",
+                "rank": 0
+            }
+        ],
+        "ri": "347",
+        "recoId": "nnRi-T3wsb6_EezrhZ9h8AhGQu",
+        "newsClusterIdV5": "1326999348",
+        "newsClusterIdV6": "741904007",
+        "source": "msn",
+        "videoMetadata": {
+            "playTime": 682,
+            "closedCaptions": [
+                {
+                    "locale": "en-us",
+                    "href": "https://prod-video-cms-amp-microsoft-com.akamaized.net/tenant/amp/entityid/AA1G0ckU?blobrefkey=closedcaptionen-us&$blob=1"
+                }
+            ]
+        },
+        "externalVideoFiles": [
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/37b1edb3-e784-4a73-9b54-71004f650019/f33e964b-389a-404b-be29-aa208985a094.mp4",
+                "width": 1920,
+                "height": 1080,
+                "contentType": "video/mp4",
+                "fileSize": 121863348
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/b750c06b-31ba-424e-889a-a60c3e0402b0/8b91e663-9583-4fa9-9b13-464e3c352169.m3u8",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/b750c06b-31ba-424e-889a-a60c3e0402b0/8b91e663-9583-4fa9-9b13-464e3c352169.m3u8",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/b750c06b-31ba-424e-889a-a60c3e0402b0/8b91e663-9583-4fa9-9b13-464e3c352169.mpd",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/b750c06b-31ba-424e-889a-a60c3e0402b0/8b91e663-9583-4fa9-9b13-464e3c352169_6750.mp4",
+                "width": 1920,
+                "height": 1080,
+                "contentType": "video/mp4",
+                "fileSize": 495447371
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/b750c06b-31ba-424e-889a-a60c3e0402b0/8b91e663-9583-4fa9-9b13-464e3c352169_3400.mp4",
+                "width": 1280,
+                "height": 720,
+                "contentType": "video/mp4",
+                "fileSize": 268538114
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/b750c06b-31ba-424e-889a-a60c3e0402b0/8b91e663-9583-4fa9-9b13-464e3c352169_2250.mp4",
+                "width": 960,
+                "height": 540,
+                "contentType": "video/mp4",
+                "fileSize": 181535750
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/b750c06b-31ba-424e-889a-a60c3e0402b0/8b91e663-9583-4fa9-9b13-464e3c352169_1500.mp4",
+                "width": 960,
+                "height": 540,
+                "contentType": "video/mp4",
+                "fileSize": 124815110
+            },
+            {
+                "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/b750c06b-31ba-424e-889a-a60c3e0402b0/8b91e663-9583-4fa9-9b13-464e3c352169_650.mp4",
+                "width": 640,
+                "height": 360,
+                "contentType": "video/mp4",
+                "fileSize": 60858902
+            }
+        ],
+        "dedupeIds": {
+            "newsClusterV5HPHash": [
+                "1326999348"
+            ],
+            "newsClusterV6Hash": [
+                "741904007"
+            ],
+            "newsClusterV7Hash": [
+                "-2142007387"
+            ],
+            "contentId": [
+                "AA1G0ckU"
+            ]
+        }
+    },
+    {
+        "id": "AA1GsfnC",
+        "type": "article",
+        "title": "'Binds the entire government': Law firm targeted by Trump says agencies have 'not fully complied' with ruling over 'unconstitutional' executive order",
+        "abstract": "\"WilmerHale is at risk that an executive order this Court has 'struck down in its entirety as unconstitutional,' will nevertheless be enforced against it.\" The post ‘Binds the entire government’: Law firm targeted by ‘unconstitutional’ executive order says Trump admin has failed to comply with court’s ‘null and void’ ruling first appeared on Law & Crime.",
+        "readTimeMin": 5,
+        "url": "https://www.msn.com/en-us/news/crime/binds-the-entire-government-law-firm-targeted-by-trump-says-agencies-have-not-fully-complied-with-ruling-over-unconstitutional-executive-order/ar-AA1GsfnC",
+        "locale": "en-us",
+        "isLocalContent": false,
+        "financeMetadata": {
+            "sentimentRatings": [
+                {
+                    "topic": "wf_sentiment_positive",
+                    "score": 197
+                },
+                {
+                    "topic": "wf_sentiment_negative",
+                    "score": 9729
+                },
+                {
+                    "topic": "wf_sentiment_neutral",
+                    "score": 72
+                }
+            ]
+        },
+        "publishedDateTime": "2025-06-10T17:31:25Z",
+        "height": 304,
+        "wpoId": 36,
+        "isFeatured": false,
+        "images": [
+            {
+                "width": 1200,
+                "height": 627,
+                "quality": 79,
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1Fw8FP.img",
+                "title": "President Donald Trump attends the 157th National Memorial Day Observance at Arlington National Cemetery, Monday, May 26, 2025, in Arlington, Va. (AP Photo/Jacquelyn Martin).",
+                "caption": "President Donald Trump attends the 157th National Memorial Day Observance at Arlington National Cemetery, Monday, May 26, 2025, in Arlington, Va. (AP Photo/Jacquelyn Martin).",
+                "focalRegion": {
+                    "x1": 438,
+                    "x2": 580,
+                    "y1": 103,
+                    "y2": 245
+                },
+                "source": "msn"
+            }
+        ],
+        "provider": {
+            "id": "BBqTjvy",
+            "name": "Law & Crime",
+            "logoUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13UIt8.img",
+            "profileId": "vid-bavj8ifbcvx557rjce8nf8uyfpyn8nc8rb3q6qv93se7cjcvm68s",
+            "feedAllowedFreeItem": 0
+        },
+        "category": "news",
+        "reactionSummary": {
+            "totalCount": 457,
+            "subReactionSummaries": [
+                {
+                    "totalCount": 368,
+                    "type": "upvote"
+                },
+                {
+                    "totalCount": 89,
+                    "type": "downvote"
+                }
+            ]
+        },
+        "reactionStatus": "on",
+        "commentSummary": {
+            "totalCount": 92,
+            "subCommentSummaries": [
+                {
+                    "totalCount": 47,
+                    "type": "comment"
+                },
+                {
+                    "totalCount": 45,
+                    "type": "reply"
+                }
+            ]
+        },
+        "commentStatus": "on",
+        "relevanceScore": 79.001045,
+        "subscriptionProductType": "undefined",
+        "notificationMetadata": {
+            "isBadgeEnabledPreviewCandidate": false,
+            "lastStateChangeFileTimeUtc": 0
+        },
+        "recoDocMetadata": {
+            "ModelScore": "8.395004988415167E-05",
+            "IsAtfHighQualityContent": "1"
+        },
+        "cardRankingMetadata": {
+            "pClick": 0,
+            "pRelevance": 0
+        },
+        "feed": {
+            "lastFreActionTimestamp": 0,
+            "feedCompositionCategory": "1"
+        },
+        "topics": [
+            {
+                "label": "News",
+                "weight": 0.6396870017051697,
+                "feedId": "Y_9eb0ac10-32bc-43cf-816e-5beaaf524f7a",
+                "locale": "en-us"
+            },
+            {
+                "label": "Crime",
+                "weight": 0.6396870017051697,
+                "feedId": "Y_6f320357-0418-4bb0-a654-f5ba77f31552",
+                "locale": "en-us"
+            }
+        ],
+        "cardId": 35,
+        "isWorkNewsContent": false,
+        "workNewsRankingScore": 0.8067675232887268,
+        "reasons": [
+            {
+                "type": "interacted",
+                "rank": 0
+            }
+        ],
+        "ri": "283,324,328",
+        "recoId": "nnRi-T3wsb6_EezrhZ9h8AhGQu",
+        "newsClusterIdV5": "2185689712",
+        "source": "msn",
+        "dedupeIds": {
+            "newsClusterV5HPHash": [
+                "-2109277584"
+            ],
+            "newsClusterV6Hash": [
+                "-2126005875"
+            ],
+            "newsClusterV7Hash": [
+                "748354274"
+            ],
+            "contentId": [
+                "AA1GsfnC"
+            ]
+        }
+    },
+    // {
+    //     "id": "AA1Gm5W5",
+    //     "type": "video",
+    //     "title": "12,500-Year-Old Rock Art Reveals Creatures Once Believed Extinct Long Before Humans Walked the Earth",
+    //     "abstract": "Discover the stunning 12,500-year-old rock art of Colombia's Amazon rainforest in our latest video, \"12,500-Year-Old Rock Art: A Glimpse into Prehistoric Amazon.\" This ancient artwork reveals a world of extinct creatures, vibrant human activity, and rich cultural history. From detailed depictions of megafauna like giant sloths to the daily lives of early inhabitants, these ochre paintings provide invaluable insight into prehistoric life and biodiversity. Join us as we explore the Serranía de la Lindosa, uncover artistic techniques, and discuss the significance of these findings for archaeology and contemporary indigenous cultures. Dive into the beauty and mystery of early human expression today! Don’t forget to like and share this video!",
+    //     "readTimeMin": 0,
+    //     "url": "https://www.msn.com/en-us/video/animals/12-500-year-old-rock-art-reveals-creatures-once-believed-extinct-long-before-humans-walked-the-earth/vi-AA1Gm5W5",
+    //     "locale": "en-us",
+    //     "isLocalContent": false,
+    //     "financeMetadata": {
+    //         "sentimentRatings": [
+    //             {
+    //                 "topic": "wf_sentiment_positive",
+    //                 "score": 812
+    //             },
+    //             {
+    //                 "topic": "wf_sentiment_negative",
+    //                 "score": 171
+    //             },
+    //             {
+    //                 "topic": "wf_sentiment_neutral",
+    //                 "score": 9016
+    //             }
+    //         ]
+    //     },
+    //     "publishedDateTime": "2025-06-09T10:13:53Z",
+    //     "height": 304,
+    //     "wpoId": 37,
+    //     "isFeatured": false,
+    //     "images": [
+    //         {
+    //             "width": 1920,
+    //             "height": 1080,
+    //             "quality": 100,
+    //             "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1Gm5VH.img",
+    //             "attribution": "",
+    //             "title": "12,500-Year-Old Rock Art Reveals Creatures Once Believed Extinct Long Before Humans Walked the Earth",
+    //             "caption": "Discover the stunning 12,500-year-old rock art of Colombia's Amazon rainforest in our latest video, \"12,500-Year-Old Rock Art: A Glimpse into Prehistoric Amazon.\" This ancient artwork reveals a world of extinct creatures, vibrant human activity, and rich cultural history. From detailed depictions of megafauna like giant sloths to the daily lives of early inhabitants, these ochre paintings provide invaluable insight into prehistoric life and biodiversity.   Join us as we explore the Serranía de la Lindosa, uncover artistic techniques, and discuss the significance of these findings for archaeology and contemporary indigenous cultures. Dive into the beauty and mystery of early human expression today!  Don’t forget to like and share this video!",
+    //             "source": "msn"
+    //         }
+    //     ],
+    //     "provider": {
+    //         "id": "AA1skoAR",
+    //         "name": "Animal Planet HQ",
+    //         "logoUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1sJ0Bl.img",
+    //         "profileId": "vid-76d93u59n3t9km2ei33g530pv6r84digspgqvx30uwcr0yy205pa",
+    //         "feedAllowedFreeItem": 0
+    //     },
+    //     "category": "video",
+    //     "reactionSummary": {
+    //         "totalCount": 313,
+    //         "subReactionSummaries": [
+    //             {
+    //                 "totalCount": 298,
+    //                 "type": "upvote"
+    //             },
+    //             {
+    //                 "totalCount": 15,
+    //                 "type": "downvote"
+    //             }
+    //         ]
+    //     },
+    //     "reactionStatus": "on",
+    //     "commentSummary": {
+    //         "totalCount": 6,
+    //         "subCommentSummaries": [
+    //             {
+    //                 "totalCount": 6,
+    //                 "type": "comment"
+    //             }
+    //         ]
+    //     },
+    //     "commentStatus": "on",
+    //     "relevanceScore": 78.001045,
+    //     "subscriptionProductType": "undefined",
+    //     "notificationMetadata": {
+    //         "isBadgeEnabledPreviewCandidate": false,
+    //         "lastStateChangeFileTimeUtc": 0
+    //     },
+    //     "recoDocMetadata": {
+    //         "ModelScore": "0.00014375134196598083",
+    //         "IsAtfHighQualityContent": "1"
+    //     },
+    //     "cardRankingMetadata": {
+    //         "pClick": 0,
+    //         "pRelevance": 0
+    //     },
+    //     "feed": {
+    //         "lastFreActionTimestamp": 0,
+    //         "feedCompositionCategory": "1|13"
+    //     },
+    //     "topics": [
+    //         {
+    //             "label": "Animals",
+    //             "weight": 0.8857472538948059,
+    //             "feedId": "Y_89a46d43-3fc1-4ab7-992c-bc5964745ba7",
+    //             "locale": "en-us"
+    //         },
+    //         {
+    //             "label": "Animal Video",
+    //             "weight": 0.8857472538948059,
+    //             "feedId": "Y_9577200c-6364-41e8-bdad-42687eef40c2",
+    //             "locale": "en-us"
+    //         },
+    //         {
+    //             "label": "Travel news",
+    //             "weight": 0.19395127892494202,
+    //             "feedId": "Y_d659302d-5ac4-460a-9baa-8c8684761110",
+    //             "locale": "en-us"
+    //         }
+    //     ],
+    //     "cardId": 36,
+    //     "isWorkNewsContent": false,
+    //     "workNewsRankingScore": 0.8857472538948059,
+    //     "reasons": [
+    //         {
+    //             "type": "u2U",
+    //             "rank": 0
+    //         }
+    //     ],
+    //     "ri": "332",
+    //     "recoId": "nnRi-T3wsb6_EezrhZ9h8AhGQu",
+    //     "newsClusterIdV5": "3746474721",
+    //     "newsClusterIdV6": "-1679690764",
+    //     "source": "msn",
+    //     "videoMetadata": {
+    //         "playTime": 299,
+    //         "closedCaptions": [
+    //             {
+    //                 "locale": "en-us",
+    //                 "href": "https://prod-video-cms-amp-microsoft-com.akamaized.net/tenant/amp/entityid/AA1Gm5W5?blobrefkey=closedcaptionen-us&$blob=1"
+    //             }
+    //         ]
+    //     },
+    //     "externalVideoFiles": [
+    //         {
+    //             "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/826d87ec-ba69-4181-b06e-76bec7c8f11b/d91dc1a1-12c1-4a00-81ba-e44fe94d4e5c.mp4",
+    //             "width": 1280,
+    //             "height": 720,
+    //             "contentType": "video/mp4",
+    //             "fileSize": 217147420
+    //         },
+    //         {
+    //             "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/28a5618e-9841-45e3-b501-d32d5dd46513/ad606ebe-08d7-416b-952d-8ecc0da29728.m3u8",
+    //             "width": 1280,
+    //             "height": 720
+    //         },
+    //         {
+    //             "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/28a5618e-9841-45e3-b501-d32d5dd46513/ad606ebe-08d7-416b-952d-8ecc0da29728.m3u8",
+    //             "width": 1280,
+    //             "height": 720
+    //         },
+    //         {
+    //             "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/28a5618e-9841-45e3-b501-d32d5dd46513/ad606ebe-08d7-416b-952d-8ecc0da29728.mpd",
+    //             "width": 1280,
+    //             "height": 720
+    //         },
+    //         {
+    //             "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/28a5618e-9841-45e3-b501-d32d5dd46513/ad606ebe-08d7-416b-952d-8ecc0da29728_3400.mp4",
+    //             "width": 1280,
+    //             "height": 720,
+    //             "contentType": "video/mp4",
+    //             "fileSize": 130091286
+    //         },
+    //         {
+    //             "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/28a5618e-9841-45e3-b501-d32d5dd46513/ad606ebe-08d7-416b-952d-8ecc0da29728_2250.mp4",
+    //             "width": 960,
+    //             "height": 540,
+    //             "contentType": "video/mp4",
+    //             "fileSize": 87751531
+    //         },
+    //         {
+    //             "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/28a5618e-9841-45e3-b501-d32d5dd46513/ad606ebe-08d7-416b-952d-8ecc0da29728_1500.mp4",
+    //             "width": 960,
+    //             "height": 540,
+    //             "contentType": "video/mp4",
+    //             "fileSize": 59667954
+    //         },
+    //         {
+    //             "url": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus004/28a5618e-9841-45e3-b501-d32d5dd46513/ad606ebe-08d7-416b-952d-8ecc0da29728_650.mp4",
+    //             "width": 640,
+    //             "height": 360,
+    //             "contentType": "video/mp4",
+    //             "fileSize": 28269395
+    //         }
+    //     ],
+    //     "dedupeIds": {
+    //         "newsClusterV5HPHash": [
+    //             "-548492575"
+    //         ],
+    //         "newsClusterV6Hash": [
+    //             "-1679690764"
+    //         ],
+    //         "newsClusterV7Hash": [
+    //             "1314917832"
+    //         ],
+    //         "contentId": [
+    //             "AA1Gm5W5"
+    //         ]
+    //     }
+    // }
+];
+
+export const mockCardList01 = [
+  {
+    "id": "AA1GsJxX0",
+    "type": "article",
+    "title": "Donald Trump makes huge World War I blunder in fiery speech as LA riots rage",
+    "abstract": "Donald Trump made a huge blunder about World War I in a fiery speech at Fort Bragg, as the U.S. continues to be rocked by riots over the President's mass deportation order",
+    "url": "https://www.msn.com/en-us/news/us/article-0",
+    "locale": "en-us",
+    "publishedDateTime": "2025-06-10T21:43:20Z",
+    "height": 304,
+    "wpoId": 2,
+    "images": [
+      {
+        "width": 810,
+        "height": 539,
+        "quality": 79,
+        "url": "https://th.bing.com/th?id=ORMS.f4489821df604d4da1d95aba7da2873a&amp;pid=Wdp&amp;w=260&amp;h=136&amp;qlt=90&amp;c=1&amp;rs=1&amp;dpr=1&amp;p=0",
+        "attribution": "AP",
+        "title": "President Donald Trump arrives to speak at Fort Bragg, June 10, 2025 (AP Photo/Alex Brandon)",
+        "caption": "President Donald Trump arrives to speak at Fort Bragg, June 10, 2025 (AP Photo/Alex Brandon)",
+        "source": "siteCSI"
+      }
+    ],
+    "provider": {
+      "id": "AAakMrc0",
+      "name": "Mirror",
+      "logoUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAMVTYz0.img",
+      "profileId": "vid-0a2nmje94kgjdreprcwvbug3bsxetrapvd3ru5xjeqtuedkq3g3vs",
+      "lightThemeSVGLogo": {
+        "width": 33,
+        "height": 12,
+        "url": "https://cdn.query.prod.cms.msn.com/cms/api/amp/binary/AA13gF8F0"
+      },
+      "darkThemeSVGLogo": {
+        "width": 33,
+        "height": 12,
+        "url": "https://cdn.query.prod.cms.msn.com/cms/api/amp/binary/AA13gF8F0-dark"
+      },
+      "feedAllowedFreeItem": 0
+    },
+    "category": "news",
+    "topics": [
+      {
+        "label": "News",
+        "weight": 0.6,
+        "feedId": "Y_9eb0ac10-32bc-43cf-816e-5beaaf524f7a",
+        "locale": "en-us"
+      },
+      {
+        "label": "US",
+        "weight": 0.6,
+        "feedId": "Y_a3b33cc2-2c47-48ba-a975-4b87b597644b",
+        "locale": "en-us"
+      },
+      {
+        "label": "Travel news",
+        "weight": 0.23,
+        "feedId": "Y_d659302d-5ac4-460a-9baa-8c8684761110",
+        "locale": "en-us"
+      }
+    ],
+    "source": "site1",
+    "acceptStatus": 0
+  },
+  {
+    "id": "AA1GsJxX1",
+    "type": "article",
+    "title": "New technology breakthrough in AI announced by major company",
+    "abstract": "A major tech company announced a breakthrough in AI technology that promises faster and more accurate processing.",
+    "url": "https://www.msn.com/en-us/news/tech/article-1",
+    "locale": "en-us",
+    "publishedDateTime": "2025-06-09T15:20:00Z",
+    "height": 304,
+    "wpoId": 2,
+    "images": [
+      {
+        "width": 800,
+        "height": 540,
+        "quality": 80,
+        "url": "https://th.bing.com/th?id=ORMS.f4489821df604d4da1d95aba7da2873a&amp;pid=Wdp&amp;w=260&amp;h=136&amp;qlt=90&amp;c=1&amp;rs=1&amp;dpr=1&amp;p=0",
+        "attribution": "Reuters",
+        "title": "AI breakthrough announced at conference, June 9, 2025",
+        "caption": "AI breakthrough announced at conference, June 9, 2025",
+        "source": "siteCSI"
+      }
+    ],
+    "provider": {
+      "id": "AAakMrc1",
+      "name": "TechDaily",
+      "logoUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAMVTYz1.img",
+      "profileId": "vid-1a2nmje94kgjdreprcwvbug3bsxetrapvd3ru5xjeqtuedkq3g3vs",
+      "lightThemeSVGLogo": {
+        "width": 33,
+        "height": 12,
+        "url": "https://cdn.query.prod.cms.msn.com/cms/api/amp/binary/AA13gF8F1"
+      },
+      "darkThemeSVGLogo": {
+        "width": 33,
+        "height": 12,
+        "url": "https://cdn.query.prod.cms.msn.com/cms/api/amp/binary/AA13gF8F1-dark"
+      },
+      "feedAllowedFreeItem": 0
+    },
+    "category": "technology",
+    "topics": [
+      {
+        "label": "Technology",
+        "weight": 0.7,
+        "feedId": "Y_techfeed",
+        "locale": "en-us"
+      }
+    ],
+    "source": "site2",
+    "acceptStatus": 0
+  },
+  {
+    "id": "AA1GsJxX2",
+    "type": "article",
+    "title": "Global climate summit sets new targets for emissions reductions",
+    "abstract": "World leaders gathered to set ambitious goals to reduce carbon emissions and tackle climate change.",
+    "url": "https://www.msn.com/en-us/news/environment/article-2",
+    "locale": "en-us",
+    "publishedDateTime": "2025-06-08T11:30:00Z",
+    "height": 300,
+    "wpoId": 3,
+    "images": [
+      {
+        "width": 850,
+        "height": 550,
+        "quality": 85,
+        "url": "https://th.bing.com/th?id=ORMS.f4489821df604d4da1d95aba7da2873a&amp;pid=Wdp&amp;w=260&amp;h=136&amp;qlt=90&amp;c=1&amp;rs=1&amp;dpr=1&amp;p=0",
+        "attribution": "EPA",
+        "title": "Leaders at climate summit, June 8, 2025",
+        "caption": "Leaders at climate summit, June 8, 2025",
+        "source": "siteCSI"
+      }
+    ],
+    "provider": {
+      "id": "AAakMrc2",
+      "name": "GreenTimes",
+      "logoUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAMVTYz2.img",
+      "profileId": "vid-2a2nmje94kgjdreprcwvbug3bsxetrapvd3ru5xjeqtuedkq3g3vs",
+      "lightThemeSVGLogo": {
+        "width": 33,
+        "height": 12,
+        "url": "https://cdn.query.prod.cms.msn.com/cms/api/amp/binary/AA13gF8F2"
+      },
+      "darkThemeSVGLogo": {
+        "width": 33,
+        "height": 12,
+        "url": "https://cdn.query.prod.cms.msn.com/cms/api/amp/binary/AA13gF8F2-dark"
+      },
+      "feedAllowedFreeItem": 0
+    },
+    "category": "environment",
+    "topics": [
+      {
+        "label": "Environment",
+        "weight": 0.65,
+        "feedId": "Y_envfeed",
+        "locale": "en-us"
+      }
+    ],
+    "source": "site3",
+    "acceptStatus": 0
+  },
+  {
+    "id": "AA1GsJxX19",
+    "type": "article",
+    "title": "Breakthrough in cancer research offers new hope to patients",
+    "abstract": "Scientists announce a major breakthrough in cancer treatment with promising clinical trial results.",
+    "url": "https://www.msn.com/en-us/news/health/article-19",
+    "locale": "en-us",
+    "publishedDateTime": "2025-05-25T09:15:00Z",
+    "height": 310,
+    "wpoId": 5,
+    "images": [
+      {
+        "width": 820,
+        "height": 530,
+        "quality": 78,
+        "url": "https://th.bing.com/th?id=ORMS.f4489821df604d4da1d95aba7da2873a&amp;pid=Wdp&amp;w=260&amp;h=136&amp;qlt=90&amp;c=1&amp;rs=1&amp;dpr=1&amp;p=0",
+        "attribution": "Medical News Today",
+        "title": "Cancer research breakthrough, May 25, 2025",
+        "caption": "Cancer research breakthrough, May 25, 2025",
+        "source": "siteCSI"
+      }
+    ],
+    "provider": {
+      "id": "AAakMrc19",
+      "name": "HealthDaily",
+      "logoUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAMVTYz19.img",
+      "profileId": "vid-19a2nmje94kgjdreprcwvbug3bsxetrapvd3ru5xjeqtuedkq3g3vs",
+      "lightThemeSVGLogo": {
+        "width": 33,
+        "height": 12,
+        "url": "https://cdn.query.prod.cms.msn.com/cms/api/amp/binary/AA13gF8F19"
+      },
+      "darkThemeSVGLogo": {
+        "width": 33,
+        "height": 12,
+        "url": "https://cdn.query.prod.cms.msn.com/cms/api/amp/binary/AA13gF8F19-dark"
+      },
+      "feedAllowedFreeItem": 0
+    },
+    "category": "health",
+    "topics": [
+      {
+        "label": "Health",
+        "weight": 0.7,
+        "feedId": "Y_healthfeed",
+        "locale": "en-us"
+      }
+    ],
+    "source": "site4",
+    "acceptStatus": 0
+  }
+]
