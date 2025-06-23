@@ -11,14 +11,14 @@ app.use('/', express.static(path.join(__dirname, 'dist')))
 // })
 
 const proxyMiddleware = createProxyMiddleware({
-  target: 'https://jolly-sea-0d3061c1e.6.azurestaticapps.net',
+  target: 'https://jolly-sea-0d3061c1e.6.azurestaticapps.net/output',
   changeOrigin: true,
   pathRewrite: {
-    '^/api/azure': '', // Remove the /api/azure prefix when forwarding to the target
+    '^/api': '', // Remove the /api prefix when forwarding to the target
   },
 });
 
-app.use('/api/azure', proxyMiddleware);
+app.use('/api', proxyMiddleware);
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
 })

@@ -5,31 +5,23 @@ import { Card as CardType } from '../types';
 import CategoryPage from './CategoryPage';
 import Loading from '../components/Loading';
 import axios from 'axios';
+import config from '../config';
 
-const getFileName = [
-    'pre_rendering_en-us_20250618225520.json',
-    'pre_rendering_en-us_20250618225651.json',
-    'pre_rendering_en-us_20250618225754.json',
-    'pre_rendering_en-us_20250618225908.json',
-    'pre_rendering_en-us_20250618230023.json',
-    'pre_rendering_en-us_20250618230150.json',
-    'pre_rendering_en-us_20250618230302.json',
-    'pre_rendering_en-us_20250618230424.json',
-    'pre_rendering_en-us_20250618230533.json',
-    'pre_rendering_en-us_20250618230726.json'
-]
 const MSN = '20250618_msnDataTest';
 const NoNMSN = '20250618_NonMsnDataTest';
 const MSN01 ='20250619_msnDataTest'
 
 const path = {
-  directoryName: '20250620',
+  directoryName: '20250621',
   fileName: 'pre_rendering_en-us_metaInfo.json'
 }
 let fileNameList: string[];
+// const baseUrl = 'https://jolly-sea-0d3061c1e.6.azurestaticapps.net/output';
+const baseUrl = config.apiUrl;
+console.log('baseUrl===========', baseUrl);
 
 const Home: React.FC = () => {
-  let url = '/api/azure/output/pre_rendering_en-us_20250617170000.json';
+  // let url = '/api/pre_rendering_en-us_20250617170000.json';
   const [error, setError] = useState<string | null>(null);
   const [loading, setLoading] = useState<boolean>(true);
   const [currentPage, setCurrentPage] = useState<number>(1);
@@ -44,8 +36,11 @@ const Home: React.FC = () => {
     return `${year}${month}${day}`;
   };
   const getNewsList = () => {
-      path.directoryName = getCurrentDateString();
-      const url = `/api/azure/output/${path.directoryName}/${fileNameList[currentPage-1]}`;
+      // path.directoryName = getCurrentDateString();
+      console.log('path.directoryName', path.directoryName);
+      let url = `/api/${path.directoryName}/${fileNameList[currentPage-1]}`;
+      // url = `/api/20250619_msnDataTest/${fileNameList[currentPage-1]}`;
+      url = `${baseUrl}/${path.directoryName}/${fileNameList[currentPage-1]}`;
       setLoading(true);
       axios.get(`${url}`).then(response => {
         const newsData = response?.data?.news || response?.data;
@@ -61,23 +56,25 @@ const Home: React.FC = () => {
         console.log('getNewsList completed');
       })
   }
-  const getFileNameList = () => {
-    url = `/api/azure/output/${path.directoryName}/${path.fileName}`;
+  const getMetaInfo = () => {
+    // let  url = `/api/${path.directoryName}/${path.fileName}`;
+    let url = 'api/20250621/pre_rendering_en-us_metaInfo.json';
+    url = `${baseUrl}/${path.directoryName}/${path.fileName}`;
     return axios.get(url).then(response => {
-      fileNameList = response.data.split('\n');
+      fileNameList = response.data.split('\n').filter((fileName: string) => !!fileName);
       console.log('fileNameList', fileNameList);
       getNewsList();
     })
   }
 
   useEffect(() => {
-    getFileNameList();
+    getMetaInfo();
   }, [currentPage])
 
   const handleRefresh = async () => {
     setIsRefreshing(true);
     try {
-      await getFileNameList();
+      await getMetaInfo();
       setIsRefreshing(false);
     } catch (error) {
       console.error('refresh error:', error);
@@ -171,18 +168,19 @@ const Home: React.FC = () => {
           <div className="ml-4 text-sm text-white pl-4 w-[120px]">
             Page {currentPage} of {totalPages}
           </div>
-          <div className="mx-4 text-sm text-white flex items-center">
+          {/* <div className="mx-4 text-sm text-white flex items-center">
             <svg className="w-4 h-4 mr-1 text-withe-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2"
                 d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
             </svg>
             <span>Last updated: {formatRefreshTime(lastRefreshTime)}</span>
-          </div>
+          </div> */}
           <a
-            href="https://jolly-sea-0d3061c1e.6.azurestaticapps.net/output/20250619_msnDataTest/analysis_report.html"
+            href="https://jolly-sea-0d3061c1e.6.azurestaticapps.net/20250621/analysis_report.html"
             target="_blank"
             rel="noopener noreferrer"
             className="ml-4 px-4 py-2 bg-green-600 text-white rounded-full shadow-lg hover:bg-green-700 transition-all flex items-center"
+            style={{ width: '210px'}}
           >
             <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z" />
@@ -231,7 +229,7 @@ const Home: React.FC = () => {
 
   const display = () => (
       <div className="home-page container mx-auto p-4 h-full overflow-y-auto scrollbar-hide">
-        <div className="fixed top-4 right-4 z-50 w-[910px] flex items-center justify-start">
+        <div className="fixed top-4 right-4 z-50 flex items-center justify-start">
           {renderPagination()}
           {/* {showRefreshButton()} */}
         </div>

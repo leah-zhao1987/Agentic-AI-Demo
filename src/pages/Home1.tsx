@@ -8,10 +8,10 @@ import { useFetch } from '../hooks/useFetch';
 
 const Home: React.FC = () => {
   const getNewsList = () => {
-    const getNewsListPath = '/api/azure/output/pre_rendering_en-us_20250617170000.json';
+    const getNewsListPath = '/api/pre_rendering_en-us_20250617170000.json';
     return useFetch(getNewsListPath);
   }
-  const { data, loading, error, refresh, timestamp} = getNewsList();
+  const { data, loading, error, refresh} = getNewsList();
   const [isRefreshing, setIsRefreshing] = useState(false);
   const [categoryData, setCategoryData] = useState<{ [key: string]: CardType[] }>({});
   const [lastRefreshTime, setLastRefreshTime] = useState<Date>(new Date());

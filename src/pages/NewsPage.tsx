@@ -12,7 +12,7 @@ const NewsPage: React.FC = () => {
   const totalPages = 10;
 
   // 数据获取
-  const LOCAL_JSON_NEWS_URL_TEST = '/api/azure/output/pre_rendering_en-us_20250617170000.json';
+  const LOCAL_JSON_NEWS_URL_TEST = '/api/output/pre_rendering_en-us_20250617170000.json';
   const { data, loading, error } = useFetch(LOCAL_JSON_NEWS_URL_TEST);
   const [newsItems, setNewsItems] = useState<CardType[]>([]);
   const [categoriesList, setCategoriesList] = useState<string[]>([]);

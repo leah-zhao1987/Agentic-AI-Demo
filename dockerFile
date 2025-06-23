@@ -1,0 +1,30 @@
+# 使用 Node.js 16 或更高版本作为基础镜像
+FROM node:16-alpine
+
+# 设置工作目录
+WORKDIR /app
+
+# 复制 package.json 和 package-lock.json（如果有）
+COPY package*.json ./dist/* server.js ./
+
+# 安装依赖
+RUN npm install
+
+# 复制项目所有文件
+# COPY . .
+
+# 构建前端项目（假设使用 npm run build）
+# RUN npm run build
+
+# 安装 serve 或 express（如果你用的是自定义 express server，请确保 server 文件已包含在项目中）
+# 如果你已经有自己的 express server 文件，比如 server.js，就不需要安装 serve
+# RUN npm install express
+
+# 设置环境变量（可选）
+ENV NODE_ENV=production
+
+# 暴露端口（假设你的 express 服务监听的是 3000 端口）
+EXPOSE 8080
+
+# 启动 express 服务（假设入口文件是 server.js）
+CMD ["node", "server.js"]

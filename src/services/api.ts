@@ -14,7 +14,7 @@ const LOCAL_JSON_NEWS_URL_TEST = 'data/FineTuningTest1/pre_rendering_en-us-9.jso
 export const LOCAL_JSON_NEWS_URL_TEST_ID = 'data/FineTuningTest1/pre_rendering_en-us-';
 const LOCAL_JSON_NEWS_URL_CRAWLER = 'data/newsCrawler.json';
 
-const pre_rendering_en_us_json = '/api/azure/output/pre_rendering_en-us_20250617170000.json';
+const pre_rendering_en_us_json = '/api/pre_rendering_en-us_20250617170000.json';
 
 const getFileName = [
     'pre_rendering_en-us_20250618225520.json',
