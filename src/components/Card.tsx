@@ -56,10 +56,10 @@ const Card: React.FC<CardProps> = ({ card, onReject, onApprove }) => {
   };
 
   const displayCard = (
-    <div className="card h-[400px] w-[280px] p-20 shadow-md rounded-lg overflow-hidden flex flex-col transition-transform duration-300 hover:translate-y-[-2px]">
-      <div className="bg-white h-full w-[260px] flex justify-between flex-col">
+    <div className="card h-[380px] w-[270px] shadow-md rounded-lg overflow-hidden flex flex-col transition-transform duration-300 hover:translate-y-[-2px]">
+      <div className="bg-white h-full w-full flex justify-between flex-col">
         <div className='body' onClick={handleCardClick}>
-          <div className='w-[250px] h-[180px]'>
+          <div className='w-[240px] h-[180px]'>
             <img
               src={getImageUrl()}
               alt={card.title || 'Card image'}
@@ -73,7 +73,7 @@ const Card: React.FC<CardProps> = ({ card, onReject, onApprove }) => {
             {/* <span className='mr-1 ml-1'>·</span> */}
             {/* <span>2h</span> */}
           </div>
-          <h5 className="text-xl font-bold line-clamp-3 mt-2 hover:text-blue-600" title={card.title}>{card.title}</h5>
+          <h5 className="text-l font-bold line-clamp-3 mt-2 hover:text-blue-600" title={card.title}>{card.title}</h5>
         </div>
         <div className="flex justify-end">
           <button className="w-[80px] py-2 mr-2 bg-blue-500 text-white rounded hover:bg-blue-600" onClick={handleApprove}>
@@ -88,7 +88,7 @@ const Card: React.FC<CardProps> = ({ card, onReject, onApprove }) => {
   );
 
   const hideCard = (
-      <div className="h-[400px] w-[300px] p-20"></div>
+      <div className="card h-[380px] w-[270px]"></div>
   );
   return card.isPlaceholder ? hideCard : displayCard;
 };

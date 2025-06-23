@@ -5,8 +5,8 @@ import router from './routes';
 
 const App: React.FC = () => {
   return (
-    <div className="h-screen flex flex-col">
-      <header className="fixed top-0 left-0 right-0 z-10 bg-gray-700 text-white p-4 shadow-md w-full">
+    <div className="h-screen w-full">
+      <header className="fixed top-0 left-0 right-0 z-10 bg-gray-700 text-white p-4 shadow-md min-w-[1000px] w-full">
         <div className="mx-auto flex justify-between items-center w-full">
           <h1 className="text-xl md:text-2xl font-bold w-full">Top 20 News</h1>
           {/* <nav className="hidden md:block">
