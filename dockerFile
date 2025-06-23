@@ -5,7 +5,8 @@ FROM node:16-alpine
 WORKDIR /app
 
 # 复制 package.json 和 package-lock.json（如果有）
-COPY package*.json ./dist/* server.js ./
+COPY package*.json  server.js ./
+COPY dist/ ./dist
 
 # 安装依赖
 RUN npm install
