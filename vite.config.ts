@@ -6,7 +6,6 @@ import react from '@vitejs/plugin-react';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
-// https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
   resolve: {
@@ -15,7 +14,7 @@ export default defineConfig({
     },
   },
   server: {
-    port: 3000,
+    port: 3001,
     proxy: {
       '/api/azure': {
         target: 'https://jolly-sea-0d3061c1e.6.azurestaticapps.net',

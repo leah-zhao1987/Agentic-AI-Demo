@@ -1,17 +1,24 @@
-const express = require('express');
-const path = require('path');
-const app = express();
-const port = 3000;
+const express = require('express')
+const { createProxyMiddleware } = require('http-proxy-middleware');
+const app = express()
+const port = 8080
+const path = require('path')
+app.use('/', express.static(path.join(__dirname, 'dist')))
 
-app.use(express.static(path.join(__dirname, 'dist')));
 
-app.get('*', (req, res) => {
-  res.sendFile(path.resolve(__dirname, 'dist', 'index.html'));
+// app.get('/', (req, res) => {
+//   res.send('Hello World!')
+// })
+
+const proxyMiddleware = createProxyMiddleware({
+  target: 'https://jolly-sea-0d3061c1e.6.azurestaticapps.net',
+  changeOrigin: true,
+  pathRewrite: {
+    '^/api/azure': '', // Remove the /api/azure prefix when forwarding to the target
+  },
 });
 
-
+app.use('/api/azure', proxyMiddleware);
 app.listen(port, () => {
-    console.log(`Server is running at http://localhost:${port}`);
+  console.log(`Example app listening on port ${port}`)
 })
-
-// console.log('Server is running at http://localhost:3000');
