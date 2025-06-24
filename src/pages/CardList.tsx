@@ -33,7 +33,7 @@ const CardList: React.FC<CardListProps> = ({ cards, topic, onHandleData }) => {
                     <div key={card.id || `card-${Math.random()}`} className="card-container h-full">
                         <Card 
                             card={card} 
-                            onApprove={handleDeleteCard} 
+                            onApprove={handleDeleteCard}
                             onReject={handleDeleteCard}
                         />
                     </div>

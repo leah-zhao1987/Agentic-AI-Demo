@@ -1,3 +1,4 @@
+import CarouselPage from '../pages/CarouselPage';
 import Detail from '../pages/Detail';
 import Home from '../pages/Home';
 import NewsPage from '../pages/NewsPage';
@@ -20,6 +21,10 @@ const router = createBrowserRouter([
     {
         path: '/news', // 添加新的路由路径
         element: <NewsPage />,
+    },
+    {
+        path: '/category',
+        element: <CarouselPage />,
     },
     {
         path: '*',

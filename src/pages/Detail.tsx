@@ -15,7 +15,7 @@ const Detail: React.FC = () => {
     const cacheData = localStorage.getItem('CARD_LIST');
     const allCards = JSON.parse(cacheData || '[]') || [];
     const handleRelatedClick = (relatedId: string) => {
-        // navigate(`/detail/${relatedId}`);
+        navigate(`/detail/${relatedId}`);
         scrollToTop();
     };
     const containerRef = useRef<HTMLDivElement>(null);
@@ -33,10 +33,10 @@ const Detail: React.FC = () => {
     }, [id]);
 
     useEffect(() => {
+        console.log('allCards----------', allCards);
         if (allCards && allCards.length > 0) {
             // find the card with the given id
             const currentCard = allCards.find((c: Card) => c.id?.toString() === id);
-            console.log('currentCard', currentCard);
             
             if (currentCard) {
                 setCard(currentCard);

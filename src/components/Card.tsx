@@ -39,7 +39,9 @@ const Card: React.FC<CardProps> = ({ card, onReject, onApprove }) => {
   const handleApprove = (e: React.MouseEvent) => {
     e.stopPropagation();
     if (onApprove && card.id) {
-      onApprove(card.id);
+      if (window.confirm('Are you sure you want to approve this card?')) {
+        onApprove(card.id);
+      }
     }
   }
 
@@ -49,7 +51,7 @@ const Card: React.FC<CardProps> = ({ card, onReject, onApprove }) => {
         (e.target as HTMLElement).closest('button')) {
       return;
     }
-    
+    console.log('Card clicked:', card.id);
     if (card.id && !card.isPlaceholder) {
       navigate(`/detail/${card.id}`);
     }

@@ -2,6 +2,7 @@ import { DEFAULT_CATEGORIES, DEFAULT_IMAGE } from '../mock/defaultData';
 import React, { useCallback, useEffect, useRef, useState } from 'react';
 
 import { Card as CardType } from '../types';
+import CarouselPage from './CarouselPage';
 import CategoryPage from './CategoryPage';
 import Loading from '../components/Loading';
 import axios from 'axios';
@@ -11,17 +12,19 @@ const MSN = '20250618_msnDataTest';
 const NoNMSN = '20250618_NonMsnDataTest';
 const MSN01 ='20250619_msnDataTest'
 
-const path = {
-  directoryName: '20250621',
-  fileName: 'pre_rendering_en-us_metaInfo.json'
-}
-let fileNameList: string[];
 // const baseUrl = 'https://jolly-sea-0d3061c1e.6.azurestaticapps.net/output';
 const baseUrl = config.apiUrl;
+const path = {
+  directoryName: '20250621',
+  fileName: 'pre_rendering_en-us_metaInfo.json',
+};
+const report = `${baseUrl}/${path.directoryName}/analysis_report.html`;
+let fileNameList: string[];
 console.log('baseUrl===========', baseUrl);
 
 const Home: React.FC = () => {
   // let url = '/api/pre_rendering_en-us_20250617170000.json';
+  const [isShowCard, setIsShowCard] = useState<boolean>(true);
   const [error, setError] = useState<string | null>(null);
   const [loading, setLoading] = useState<boolean>(true);
   const [currentPage, setCurrentPage] = useState<number>(1);
@@ -48,6 +51,8 @@ const Home: React.FC = () => {
         setCategoryData(processedData);
         setLastRefreshTime(new Date());
         console.log('processedData', processedData);
+        localStorage.setItem('CARD_LIST', JSON.stringify(newsData));
+        localStorage.setItem('CATEGORY_DATA', JSON.stringify(processedData));
       }).catch(error => {
         console.error('Error fetching news data:', error);
       }).finally(() => {
@@ -168,6 +173,39 @@ const Home: React.FC = () => {
           <div className="ml-4 text-sm text-white pl-4 w-[120px]">
             Page {currentPage} of {totalPages}
           </div>
+
+          {/* 视图切换按钮 */}
+          <button
+            onClick={() => setIsShowCard(!isShowCard)}
+            className="ml-4 px-4 py-2 bg-blue-600 text-white rounded-full shadow-lg hover:bg-blue-700 transition-all flex items-center justify-center"
+            style={{ width: '160px', margin: '0 auto' }}
+          >
+            <svg 
+              className="w-5 h-5 mr-2" 
+              fill="none" 
+              stroke="currentColor" 
+              viewBox="0 0 24 24"
+            >
+              {isShowCard ? (
+                // 轮播图图标
+                <path 
+                  strokeLinecap="round" 
+                  strokeLinejoin="round" 
+                  strokeWidth="2" 
+                  d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"
+                />
+              ) : (
+                // 卡片图标
+                <path 
+                  strokeLinecap="round" 
+                  strokeLinejoin="round" 
+                  strokeWidth="2" 
+                  d="M4 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2V6zm10 0a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2V6zM4 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2v-2zm10 0a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2v-2z"
+                />
+              )}
+            </svg>
+            {!isShowCard ? 'Carousel View' : 'Card View'}
+          </button>
           {/* <div className="mx-4 text-sm text-white flex items-center">
             <svg className="w-4 h-4 mr-1 text-withe-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2"
@@ -176,7 +214,7 @@ const Home: React.FC = () => {
             <span>Last updated: {formatRefreshTime(lastRefreshTime)}</span>
           </div> */}
           <a
-            href="https://jolly-sea-0d3061c1e.6.azurestaticapps.net/20250621/analysis_report.html"
+            href= {report}            
             target="_blank"
             rel="noopener noreferrer"
             className="ml-4 px-4 py-2 bg-green-600 text-white rounded-full shadow-lg hover:bg-green-700 transition-all flex items-center"
@@ -241,9 +279,12 @@ const Home: React.FC = () => {
           </div>
         )}
         <div ref={containerRef} className="mx-auto px-4 py-8 h-full overflow-y-auto scrollbar-hide">
-            <CategoryPage
+            {
+              isShowCard ? (<CategoryPage
               categories={categoryData}
-              onHandleData={handleList}/>
+              onHandleData={handleList}/>) :
+              <CarouselPage></CarouselPage>
+            }              
         </div>
       </div>
   )
